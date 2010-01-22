@@ -1,1 +1,1 @@
-preClusteringUseChaining to both PSets within hltCscSegments
+Migrate to new pre-release code base
