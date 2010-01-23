@@ -1,1 +1,1 @@
-Add some EC products
+More global EC for HLTDQM
