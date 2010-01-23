@@ -1,1 +1,1 @@
-Replace TestMuL1L2Filter by HLTHIL1L2L3Filter (hltHIMML3Filter)
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_4_0/HLT/V4.
