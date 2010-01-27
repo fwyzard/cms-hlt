@@ -1,1 +1,1 @@
-More global EC for HLTDQM
+Adding record to SiStripQualityESProducer
