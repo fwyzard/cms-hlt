@@ -1,1 +1,1 @@
-update GlobalTag to GR10_H_V0B::All
+update GlobalTag to "GR10_H_V0D::All"
