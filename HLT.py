@@ -1,1 +1,1 @@
-(tentative) merge Stream B into hltEventContentA
+Update GlobalTag to GR10_H_V1
