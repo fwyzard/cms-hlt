@@ -1,1 +1,1 @@
-Update GlobalTag to GR10_H_V1
+add PDs for DQM and HLTDQM
