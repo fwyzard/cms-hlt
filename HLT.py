@@ -1,1 +1,1 @@
-add HLT_MinBiasBSC_NoBPTX
+HLT_L1_BscMinBiasOR_BptxPlusORMinus_NoBPTX
