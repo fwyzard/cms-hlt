@@ -1,1 +1,1 @@
-add HLT_L1SingleCenJet
+HLT_L1SingleTauJet
