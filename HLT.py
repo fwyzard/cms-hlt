@@ -1,1 +1,1 @@
-HLT_L1_BscMinBiasOR_BptxPlusORMinus_NoBPTX
+add HLT_L1SingleCenJet
