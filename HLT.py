@@ -1,1 +1,1 @@
-add HLT_L1SingleEG1
+add HLT_MinBiasBSC_NoBPTX
