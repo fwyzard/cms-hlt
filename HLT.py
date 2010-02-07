@@ -1,1 +1,1 @@
-HLT_L1SingleTauJet
+HLT_L1MuOpen_NoBPTX
