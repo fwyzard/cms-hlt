@@ -1,1 +1,1 @@
-add PDs for DQM and HLTDQM
+add HLT_L1SingleEG1
