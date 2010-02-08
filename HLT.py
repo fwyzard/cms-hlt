@@ -1,1 +1,1 @@
-set METProducer.rf_type to 0
+set FastjetJetProducer.DxyTrVtxMax to 0.0
