@@ -1,1 +1,1 @@
-drop 8E29, 1E31, HIon in favour of Offline
+migrate to CMSSW_3_5_0 - some parameters still missing
