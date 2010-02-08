@@ -1,1 +1,1 @@
-add back dropped OutputModules
+rename ExpressPhysics to ExpressMuon
