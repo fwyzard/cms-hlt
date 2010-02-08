@@ -1,1 +1,1 @@
-set TSGFromL2Muon.MuonTrackingRegionBuilder to empty
+revert to the old values for hltCorrectedHybridSuperClustersL1NonIsolatedTemp and hltCorrectedHybridSuperClustersL1Isolated
