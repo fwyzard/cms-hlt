@@ -1,1 +1,1 @@
-remove BPTX coincidence from all paths
+update GlobalTag to GR10_H_V2
