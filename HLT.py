@@ -1,1 +1,1 @@
-fix smart prescale factor for HLT_Calibration in DQM
+remove HLT_ZeroBias and HLT_BPTX* from HLTMON
