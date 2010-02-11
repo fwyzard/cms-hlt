@@ -1,1 +1,1 @@
-Add maxTriplets=10000 for PixelTripletSeedGenerators
+fix *by hand* AlCa event content
