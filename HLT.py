@@ -1,1 +1,1 @@
-Clusterlimit in PixelSeedGenerators (left from December 2009)
+Adding to PixelTrackProducers new maxTriplets= cms.uint32(10000)
