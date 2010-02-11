@@ -1,1 +1,1 @@
-fix smart prescale for HLTMON
+add smart prescaler for DQM
