@@ -1,1 +1,1 @@
-remove smart prescales for DQM, HLTDQM, HLTMON, and reinstate a flat prescale of 40 for HLTMON
+Clusterlimit in PixelSeedGenerators (left from December 2009)
