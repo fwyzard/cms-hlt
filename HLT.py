@@ -1,1 +1,1 @@
-remove HLT_ZeroBias and HLT_BPTX* from HLTMON
+add missing paths to MinBias
