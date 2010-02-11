@@ -1,1 +1,1 @@
-Adding to PixelTrackProducers new maxTriplets= cms.uint32(10000)
+Add maxTriplets=10000 for PixelTripletSeedGenerators
