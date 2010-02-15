@@ -1,1 +1,1 @@
-fix prescales for data taking
+set disk fraction to 0 for DQM and HLTDQM
