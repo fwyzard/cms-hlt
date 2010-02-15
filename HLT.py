@@ -1,1 +1,1 @@
-set disk fraction to 0 for DQM and HLTDQM
+add tau stuff to HLTMON event content
