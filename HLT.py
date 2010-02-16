@@ -1,1 +1,1 @@
-switch Express stream to the new smater prescaler
+Changes (3) in DTRecSegment4DProducer requested by Zoltan G.
