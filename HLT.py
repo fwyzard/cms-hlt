@@ -1,1 +1,1 @@
-seed HLT_HcalPhiSym from any L1 activity (from Collisions09 menu)
+add "keep *_hltEcalCalibrationRaw_*_*" to EcalCalibration
