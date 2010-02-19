@@ -1,1 +1,1 @@
-migrate to CMSSW 3.5.1
+Extend config of CSCSegmentProducer
