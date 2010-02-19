@@ -1,1 +1,1 @@
-Extend config of CSCSegmentProducer
+migrate to HLT2
