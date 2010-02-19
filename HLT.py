@@ -1,1 +1,1 @@
-remove empty Offline event content
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_5_0/HLT/V80.
