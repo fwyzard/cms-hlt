@@ -1,1 +1,1 @@
-migrate to HLT2
+convert DQM to new smart prescale
