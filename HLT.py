@@ -1,1 +1,1 @@
-Changing to tracked in hltMuonDTDigis
+fix typo in HLTMON smart prescale filter
