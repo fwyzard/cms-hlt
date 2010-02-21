@@ -1,1 +1,1 @@
-fix typo in HLTMON smart prescale filter
+from online: remove log4cplus from the MessageLogger destinations
