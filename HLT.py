@@ -1,1 +1,1 @@
-add missing triggers to OfflineMonitor
+remove HLT_Random from HLTMON
