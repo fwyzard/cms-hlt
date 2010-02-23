@@ -1,1 +1,1 @@
-remove HLT_Random from HLTMON
+from Vladimir: adjust prescales in hltPreHLTMONSmart
