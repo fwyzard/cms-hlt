@@ -1,1 +1,1 @@
-from Vladimir: adjust prescales in hltPreHLTMONSmart
+from Vladimir: increase smart prescale for HLTMON
