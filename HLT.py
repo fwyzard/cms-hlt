@@ -1,1 +1,1 @@
-from Vladimir: increase smart prescale for HLTMON
+remove extra paths from smart prescalers
