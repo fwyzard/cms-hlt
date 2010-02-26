@@ -1,1 +1,1 @@
-add L1_MuOpen_NoBPTX (prescaled by 1000) to EventDisplay
+reintroduce BPTX conincidence, with any BPTX bit (algo: 0, 80-82; tech: 0-6)
