@@ -1,1 +1,1 @@
-reintroduce BPTX conincidence, with any BPTX bit (algo: 0, 80-82; tech: 0-6)
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_5_0/HLT/V100.
