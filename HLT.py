@@ -1,1 +1,1 @@
-reintroduce BPTX conincidence, with any BPTX bit (algo: 0, 80-82; tech: 0-6)
+Enlaring window size from 2 to 1000 in HLTCSCOverlapFilter
