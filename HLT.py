@@ -1,1 +1,1 @@
-Enlaring window size from 2 to 1000 in HLTCSCOverlapFilter
+remove HLT_TrackPointing from HLTMON and Express
