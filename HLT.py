@@ -1,1 +1,1 @@
-fix
+add EventDisplay pseudo-stream
