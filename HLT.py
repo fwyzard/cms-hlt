@@ -1,1 +1,1 @@
-set BPTX coincidence to ±2 clocks
+Removing HLT_TrackPointing from smart prescales
