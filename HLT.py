@@ -1,1 +1,1 @@
-Add tTrigLabel="" to DTRecHitProducer & DTRecSegment4DProducer (3 times in total)
+migrate to CMSSW_3_5_3
