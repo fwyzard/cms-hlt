@@ -1,1 +1,1 @@
-add DQM_Scalers path
+move L1 Logic Scalers module back into DQM endpath
