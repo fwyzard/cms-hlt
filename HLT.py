@@ -1,1 +1,1 @@
-move L1 Logic Scalers module back into DQM endpath
+add new L1 pass-through paths to DQM, HLTDQM, HLTMON
