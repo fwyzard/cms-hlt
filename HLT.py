@@ -1,1 +1,1 @@
-Fixing barrel HLTPixelIsolTrackFilter eta
+More fixes of changed defualts
