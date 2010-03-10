@@ -1,1 +1,1 @@
-More fixes of changed defualts
+forefully suppress LogWarning messages for hltPixelTracksForMinBias
