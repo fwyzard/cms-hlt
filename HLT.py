@@ -1,1 +1,1 @@
-add new paths to HLTDQM (smart prescale)
+fix HLTDQM (smart prescale)
