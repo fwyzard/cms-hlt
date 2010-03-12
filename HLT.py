@@ -1,1 +1,1 @@
-from Ivan: add more L1 pass-throughy for L1 validation
+add new paths to HLTDQM (smart prescale)
