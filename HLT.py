@@ -1,1 +1,1 @@
-move HLT_Activity_DT paths from Cosmics to MinimumBias
+from Ivan: add more L1 pass-throughy for L1 validation
