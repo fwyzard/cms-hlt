@@ -1,1 +1,1 @@
-add new paths to HLTMON (smart prescale)
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_5_0/HLT/V127.
