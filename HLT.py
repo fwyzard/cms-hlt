@@ -1,1 +1,1 @@
-add new paths to DQM (smart prescale)
+add new paths to HLTMON (smart prescale)
