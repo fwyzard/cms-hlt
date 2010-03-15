@@ -1,1 +1,1 @@
-add new paths to HLTMON (smart prescale)
+migrate to HLT2 (update for DQM/TrigX stuff)
