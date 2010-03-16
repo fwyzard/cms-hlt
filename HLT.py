@@ -1,1 +1,1 @@
-remove onia paths from the smart prescales (the do *not* go online yet)
+from Zoltan: update HLT_L1Mu20HQ to apply different quality requirements in different eta regions
