@@ -1,1 +1,1 @@
-add 'HLT_L1DoubleMuOpen' to Express
+reduce smart prescale on muon paths for Express
