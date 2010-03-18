@@ -1,1 +1,1 @@
-Migration for new parameter RecHitFlagToBeExcluded = cms.vint32()  in 2 Egamma plugins
+Update to GR10_H_V4 GlobalTag.globaltag
