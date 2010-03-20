@@ -1,1 +1,1 @@
-restrict BPTX coincidence to BPTX AND (algo 0, tech 0 or 4)
+move muon paths for collisions to the MinimumBias dataset
