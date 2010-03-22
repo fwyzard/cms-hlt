@@ -1,1 +1,1 @@
-Adding PCut=2.5 in L3MuonProducer
+Remove HLT_SplashEcalSumET from smart prescales
