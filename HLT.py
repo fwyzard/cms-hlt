@@ -1,1 +1,1 @@
-Remove HLT_SplashEcalSumET from smart prescales
+Migrate to new code base for new plugins
