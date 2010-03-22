@@ -1,1 +1,1 @@
-from Stephanie: relaxed Eta/Pi0 cuts
+import updated EGamma paths
