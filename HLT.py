@@ -1,1 +1,1 @@
-from Roberto: adjust ES prescales for 900 GeV runs
+new L1 menu: change L1_DoubleEG1 to L1_DoubleEG2
