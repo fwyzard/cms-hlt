@@ -1,1 +1,1 @@
-seed new egamma/onia paths with L1_DoubleEG2 instead of L1_DoubleEG3
+new L1 menu - update hltLevel1Activity
