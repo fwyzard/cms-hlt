@@ -1,1 +1,1 @@
-new L1 menu: change L1_DoubleEG1 to L1_DoubleEG2
+seed new egamma/onia paths with L1_DoubleEG2 instead of L1_DoubleEG3
