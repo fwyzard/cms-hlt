@@ -1,1 +1,1 @@
-add InputTag parameter to hltRPCFEDIntegrity
+from Roberto: update prescales for 5E27
