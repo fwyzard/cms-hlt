@@ -1,1 +1,1 @@
-add new L2 paths to HLTMON
+add mew L2 paths to DQM and HLTDQM
