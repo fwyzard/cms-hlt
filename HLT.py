@@ -1,1 +1,1 @@
-adapt prescales for 7 TeV pilot run
+rename HLT_HFThresholdX to HLT_Activity_HFX
