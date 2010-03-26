@@ -1,1 +1,1 @@
-add new L2 paths to smart prescales
+re-introduce prescales for pilot 7 TeV collisions
