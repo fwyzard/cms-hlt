@@ -1,1 +1,1 @@
-Restore lost parameter in hltRPCFEDIntegrity
+Renaming a couple of modules to follow HLT conventions
