@@ -1,1 +1,1 @@
-rename HLT_HFThresholdX to HLT_Activity_HFX
+adapt the smart prescales to the renaming
