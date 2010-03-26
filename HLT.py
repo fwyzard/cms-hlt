@@ -1,1 +1,1 @@
-New JetMET corrector scheme
+Restore lost parameter in hltRPCFEDIntegrity
