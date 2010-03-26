@@ -1,1 +1,1 @@
-And another fix in DoublePhoton5
+Renaming a couple of modules to follow HLT conventions
