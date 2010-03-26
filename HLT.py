@@ -1,1 +1,1 @@
-add mew L2 paths to DQM and HLTDQM
+add he same L2 paths to all relevant streams
