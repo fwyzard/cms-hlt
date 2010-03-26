@@ -1,1 +1,1 @@
-adapt prescales for 7 TeV pilot run
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_5_5/HLT/V58.
