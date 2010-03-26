@@ -1,1 +1,1 @@
-from Roberto: add HLT_DoublePhoton5_L1R
+temporarily remove new paths from the smart prescale
