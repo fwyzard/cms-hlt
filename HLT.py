@@ -1,1 +1,1 @@
-seed HLT_MinBiasPixel_* paths with "L1_BscMinBiasOR_BptxPlusORMinus"
+adapt prescales for 7 TeV pilot run
