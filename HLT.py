@@ -1,1 +1,1 @@
-add he same L2 paths to all relevant streams
+add new L2 paths to smart prescales
