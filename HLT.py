@@ -1,1 +1,1 @@
-adapt the smart prescales to the renaming
+add new L2 paths to MinimumBias PD
