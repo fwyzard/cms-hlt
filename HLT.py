@@ -1,1 +1,1 @@
-prescale HLT_ZeroBias to get ~10Hz in Stream A
+fix prescales for HLT_ZeroBias / HLT_L1_BPTX*
