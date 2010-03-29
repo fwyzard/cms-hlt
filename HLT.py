@@ -1,1 +1,1 @@
-add HLT_L1Tech_HCAL_HF_coincidence_PM to EventDisplay stream
+change HLT_ZeroBias* to be seeded by L1 tech bit 4 (1kHz BPTX AND)
