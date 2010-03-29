@@ -1,1 +1,1 @@
-prescale HF3 by 20
+from Stephanie: fix AlCa event content for DQM
