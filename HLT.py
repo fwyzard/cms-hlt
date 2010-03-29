@@ -1,1 +1,1 @@
-fix prescales for HLT_ZeroBias / HLT_L1_BPTX*
+Fix 4 instances of SeedGeneratorFromRegionHitsEDProducer
