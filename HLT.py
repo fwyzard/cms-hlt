@@ -1,1 +1,1 @@
-Renaming a couple of modules to follow HLT conventions
+prescale HF3 by 20
