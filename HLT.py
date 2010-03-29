@@ -1,1 +1,1 @@
-from Stephanie: fix AlCa event content for DQM
+add HLT_L1Tech_HCAL_HF_coincidence_PM to EventDisplay stream
