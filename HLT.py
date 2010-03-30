@@ -1,1 +1,1 @@
-Fix 4 instances of SeedGeneratorFromRegionHitsEDProducer
+from Bryan: update L1 condition for HLT_TechTrigHCALNoise
