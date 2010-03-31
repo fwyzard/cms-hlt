@@ -1,1 +1,1 @@
-from Bryan: update L1 condition for HLT_TechTrigHCALNoise
+drop L1_SingleTauJet2U seeding
