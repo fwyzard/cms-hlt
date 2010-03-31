@@ -1,1 +1,1 @@
-fix HLTMON smart prescale
+add HLT_L1MuOpen_AntiBPTX
