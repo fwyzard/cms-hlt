@@ -1,1 +1,1 @@
-unprescale spike trigger
+fix smart prescales
