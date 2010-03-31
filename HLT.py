@@ -1,1 +1,1 @@
-add HLT_L1MuOpen_AntiBPTX
+move HLT_L1_BSC to A/Cosmics
