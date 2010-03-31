@@ -1,1 +1,1 @@
-fix typo
+drop L1_SingleTauJet2U seeding
