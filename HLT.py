@@ -1,1 +1,1 @@
-fix HLT_DoublePhoton5_CEP_L1R to use BPTX
+rename HLT_L1_BSC to HLT_L1Tech_BSC_halo
