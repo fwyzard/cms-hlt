@@ -1,1 +1,1 @@
-add HLT_L1Tech_BSC_halo to DQM and friends
+remove HLT_L1Tech_BSC_halo_forPhysicsBackground from DQM and friends
