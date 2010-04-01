@@ -1,1 +1,1 @@
-add BPTX coincidence to HLT_DoublePhoton5_CEP_L1R
+Rename and duplicate for HLT_L1Tech_BSC_halo[_forPhysicsBackground]
