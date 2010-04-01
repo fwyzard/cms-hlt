@@ -1,1 +1,1 @@
-move HLT_L1_BSC to A/Cosmics
+Migrate for L2Muon SeedMapTag
