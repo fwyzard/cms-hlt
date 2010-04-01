@@ -1,1 +1,1 @@
-Migrate for L2 Muon SeedMapTag
+add BPTX coincidence to HLT_DoublePhoton5_CEP_L1R
