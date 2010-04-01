@@ -1,1 +1,1 @@
-rename HLT_L1_BSC to HLT_L1Tech_BSC_halo
+duplicate HLT_L1Tech_BSC_halo as HLT_L1Tech_BSC_halo_forPhysicsBackground
