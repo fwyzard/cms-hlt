@@ -1,1 +1,1 @@
-Rename and duplicate for HLT_L1Tech_BSC_halo[_forPhysicsBackground]
+Fix 3 smart prescales for renamed HLT_L1Tech_BSC_halo
