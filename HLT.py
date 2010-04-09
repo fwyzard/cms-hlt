@@ -1,1 +1,1 @@
-Created by ConfDBCreateConfig from master /dev/CMSSW_3_6_0/pre4/HLT/V37.
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_6_0/pre4/HLT/V41.
