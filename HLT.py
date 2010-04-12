@@ -1,1 +1,1 @@
-fill EG PD
+fill Mu and MuMonitor PDs
