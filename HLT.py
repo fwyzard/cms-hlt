@@ -1,1 +1,1 @@
-Remove stream offline (why??)
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_5_5/HLT/V116.
