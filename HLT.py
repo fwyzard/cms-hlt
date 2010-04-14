@@ -1,1 +1,1 @@
-remove HCAL NZS rejection from Physics, Calibration and Random events
+remove BPTX requirement from DQM path
