@@ -1,1 +1,1 @@
-Fix ES config (From Alessio)
+add HLT_L1_BscMinBiasOR_BeamGas
