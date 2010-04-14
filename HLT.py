@@ -1,1 +1,1 @@
-add HLT_L1_BscMinBiasOR_BeamGas
+remove HCAL NZS rejection from Physics, Calibration and Random events
