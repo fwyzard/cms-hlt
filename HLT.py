@@ -1,1 +1,1 @@
-WiP: switch CaloTowers from scheme B to scheme 6
+Set inputEtMin = 0.3 in all FastjetJetProducer instances to complete migration to Scheme 6
