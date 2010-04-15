@@ -1,1 +1,1 @@
-Set inputEtMin = 0.3 in all FastjetJetProducer instances to complete migration to Scheme 6
+Update GlobalTag to GR10_H_V5 (for hlt)
