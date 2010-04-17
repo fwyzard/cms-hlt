@@ -1,1 +1,1 @@
-Update globaltag to GR10_H_V5
+migrate to CMSSW_3_5_7
