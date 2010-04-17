@@ -1,1 +1,1 @@
-
+add HLTLevel1Pattern filter to HLT_TrackerCosmics
