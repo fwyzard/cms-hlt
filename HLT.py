@@ -1,1 +1,1 @@
-remove HLT_SingleEG20_NoBPTX
+from Stephanie: remove EG seeds from AlCa_EcalPhiSim
