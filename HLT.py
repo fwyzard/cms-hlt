@@ -1,1 +1,1 @@
-don't set prescale, wait for final values from TMD
+from Tommaso: make EventDisplay stream a copy Express stream
