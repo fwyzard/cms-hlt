@@ -1,1 +1,1 @@
-from Stephanie: remove EG seeds from AlCa_EcalPhiSim
+in progress: prescales for 1E29
