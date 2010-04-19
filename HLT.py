@@ -1,1 +1,1 @@
-+2tags
+remove HLT_SingleEG20_NoBPTX
