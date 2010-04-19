@@ -1,1 +1,1 @@
-from Tommaso: make EventDisplay a copy of Express stream
+remove HLT_SingleEG20_NoBPTX
