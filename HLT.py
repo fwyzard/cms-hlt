@@ -1,1 +1,1 @@
-Adding hltTrackerCosmicsPattern to HLT_TrackerCosmics
+Update prescales
