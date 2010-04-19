@@ -1,1 +1,1 @@
-mIGRATE TO 360+2TAGS
+Fixup 2 DirNames in DQM(Pixel and Strip)
