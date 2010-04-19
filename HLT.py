@@ -1,1 +1,1 @@
-Fixup 2 DirNames in DQM(Pixel and Strip)
+Adding hltTrackerCosmicsPattern to HLT_TrackerCosmics
