@@ -1,1 +1,1 @@
-Adding throw=false to HLTLevel1Pattern
+fix noise threshold in EGamma Barrel hybrid superclusters
