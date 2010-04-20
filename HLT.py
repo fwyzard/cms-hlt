@@ -1,1 +1,1 @@
-play with MessageLogger
+Add throw=false to HLTLevel1Pattern plugin
