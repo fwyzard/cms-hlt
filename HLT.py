@@ -1,1 +1,1 @@
-fix noise threshold in EGamma Barrel hybrid superclusters
+New globaltag for real data with 36X/37X
