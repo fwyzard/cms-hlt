@@ -1,1 +1,1 @@
-update Express for 1E29 as per https://twiki.cern.ch/twiki/bin/viewauth/CMS/TMDLumi1E29v1
+update HLT prescales according to https://twiki.cern.ch/twiki/bin/view/CMS/TMDLumi1E29v3, plus set the main MinBias triggers to a prescale of 2000
