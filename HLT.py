@@ -1,1 +1,1 @@
-set prescale for AlCa_EcalPhiSym to 10 (500Hz @ 1E29)
+prescale HLT_HighMult40 by 10, and unmask remaining L3 paths
