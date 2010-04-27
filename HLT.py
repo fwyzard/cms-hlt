@@ -1,1 +1,1 @@
-prescale AlCa_EcalPhiSym by 10 (500 Hz @ 1E29)
+migrate to CMSSW_3_5_7_HLT4
