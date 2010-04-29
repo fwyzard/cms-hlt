@@ -1,1 +1,1 @@
-Migrate for HcalNoise modules
+Adding HLTHcalNoiseSequence
