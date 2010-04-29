@@ -1,1 +1,1 @@
-from Vladimir: add keep statement for Muon HLT DQM (HLTMON)
+migrate to HLT5 (update DAQ tags)
