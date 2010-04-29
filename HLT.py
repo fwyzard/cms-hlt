@@ -1,1 +1,1 @@
-from Vladimir: add keep statement for Muon HLT DQM (HLTMON)
+remove TimeProfilerService (no longer used by DAQ)
