@@ -1,1 +1,1 @@
-add NanoDST path / stream
+remove NanoDST
