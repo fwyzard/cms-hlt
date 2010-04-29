@@ -1,1 +1,1 @@
-migrate to HLT5 (update DAQ tags)
+remove TimeProfilerService (no longer used by DAQ)
