@@ -1,1 +1,1 @@
-drop unused paths
+redefine Express stream using hltEventContentA
