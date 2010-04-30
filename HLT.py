@@ -1,1 +1,1 @@
-update PrescalerService with new names
+drop HLT_L1SingleEG2_BPTX and HLT_L1SingleEG5_BPTX
