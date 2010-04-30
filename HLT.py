@@ -1,1 +1,1 @@
-redefine stream Express using hltEventContentA
+add online beamspot to HLTBeginSequence's
