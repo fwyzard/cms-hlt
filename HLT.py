@@ -1,1 +1,1 @@
-update smart prescales to use the new path names
+rename HLT_HighMult40 to HLT_PixelTracks_Multiplicity40
