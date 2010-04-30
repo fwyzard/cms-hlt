@@ -1,1 +1,1 @@
-rename HLT_HighMult40 to HLT_PixelTracks_Multiplicity40
+add HLT_PixelTracks_Multiplicity70
