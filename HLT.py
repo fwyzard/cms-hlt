@@ -1,1 +1,1 @@
-complete addition of complete addition of HLT_L1_BptxXOR_BscMinBiasOR
+drop unused paths
