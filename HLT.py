@@ -1,1 +1,1 @@
-Adding HLT_Jet15U_HcalNoiseFiltered
+drop HLT_L1_BscMinBiasOR_BptxPlusORMinus_NoBPTX
