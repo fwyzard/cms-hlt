@@ -1,1 +1,1 @@
-Importing HLT_Jet15U_HcalNoiseFiltered path
+drop HLT_L1_BscMinBiasOR_BptxPlusORMinus_NoBPTX
