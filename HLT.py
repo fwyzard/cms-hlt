@@ -1,1 +1,1 @@
-drop HLT_L1SingleEG2_BPTX and HLT_L1SingleEG5_BPTX
+update smart prescales to use the new path names
