@@ -1,1 +1,1 @@
-add Cosmics prescales
+add prescales for 1E28
