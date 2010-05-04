@@ -1,1 +1,1 @@
-enable L1 seeds from new L1 menus
+remove L1_SingleHfBitCounts from L1 seeds
