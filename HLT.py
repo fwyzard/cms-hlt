@@ -1,1 +1,1 @@
-saveAs /dev/CMSSW_3_6_0/HLT/V2 [-1]
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_6_0/patch1/HLT/V1.
