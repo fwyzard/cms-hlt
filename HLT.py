@@ -1,1 +1,1 @@
-migrate to HLT4 (sigh)
+remove maxTriplets, and add maxElement to all seed generators
