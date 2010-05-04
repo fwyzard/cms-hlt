@@ -1,1 +1,1 @@
-adapt some prescales for the change in minbias paths
+enable L1 seeds from new L1 menus
