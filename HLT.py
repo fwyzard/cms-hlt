@@ -1,1 +1,1 @@
-make use of the L1 bits defined in the new L1 menus
+remove L1_SingleHfBitCounts bits from L1 seeds
