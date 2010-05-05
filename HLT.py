@@ -1,1 +1,1 @@
-Migrate for Ecal tagset (need to fix parameters)
+Fixup parameters (part 1)
