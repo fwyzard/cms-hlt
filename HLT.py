@@ -1,1 +1,1 @@
-Created by ConfDBCreateConfig from master /dev/CMSSW_3_5_5/HLT/V195.
+saveAs /online/collisions/2010/week19/HLT/V3 [12923]
