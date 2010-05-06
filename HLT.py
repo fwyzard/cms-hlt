@@ -1,1 +1,1 @@
-fix hltHcalMETNoiseFilter
+fix hltHcalMETNoiseFilter again, this time for real
