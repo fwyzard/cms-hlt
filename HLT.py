@@ -1,1 +1,1 @@
-fix hltHcalMETNoiseFilter
+remove BPTX coincidence
