@@ -1,1 +1,1 @@
-unprescale HLT_L1_BptxXOR_BscMinBiasOR (for beam-gas studies)
+prescale HLT_L2Mu0_NoVertex by 50
