@@ -1,1 +1,1 @@
-revert HLT names for "_NoBPTX" and "_BPTX" paths
+adapt smart prescales to the new names
