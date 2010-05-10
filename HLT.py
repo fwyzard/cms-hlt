@@ -1,1 +1,1 @@
-fix hltHcalMETNoiseFilter again, this time for real
+Adding beamSpot InputTag to three muon modules (TrackLoaderParameters block)
