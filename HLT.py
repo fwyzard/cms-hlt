@@ -1,1 +1,1 @@
-Remove ESWeights, make ESRecoAlgo tracked.
+Add BeamSpot InputTag to three muon modules (TrackLoaderParameters block)
