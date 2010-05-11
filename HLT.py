@@ -1,1 +1,1 @@
-adapt smart prescales to the new names
+from Bryan: unprescale HLT_L1SingleEG5
