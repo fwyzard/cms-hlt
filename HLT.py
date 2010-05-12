@@ -1,1 +1,1 @@
-remove the broken/obsolete "HLT_EgammaSuperClusterOnly_L1R" path
+update Express stream definition for 1E29
