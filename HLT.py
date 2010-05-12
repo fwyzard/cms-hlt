@@ -1,1 +1,1 @@
-fix typo
+remove broken/obsolete HLT_EGammaSuperClusterOnly_L1R path
