@@ -1,1 +1,1 @@
-remove broken/obsolete HLT_EGammaSuperClusterOnly_L1R path
+prescale "HLT_TrackerCosmics" by 10 in Express
