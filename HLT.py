@@ -1,1 +1,1 @@
-Fix typo in L1seed
+NoBPTX=> BPTX in smart prescalers
