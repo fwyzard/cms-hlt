@@ -1,1 +1,1 @@
-Migrate for new parameter in TrajectoryCleanerESProducer
+Fix typo in L1seed
