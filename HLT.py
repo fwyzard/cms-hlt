@@ -1,1 +1,1 @@
-Adding hltCsc2DRecHits.CSCUseTimingCorrections = cms.bool(False)
+revert HLT names to use the "NoBPTX" convention
