@@ -1,1 +1,1 @@
-NoBPTX=> BPTX in smart prescalers
+Adding beamSpot InputTag to SeedConfiguration PSet of ElectronSeedProducers
