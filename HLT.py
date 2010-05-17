@@ -1,1 +1,1 @@
-Adding beamSpot InputTag to SeedConfiguration PSet of ElectronSeedProducers
+Adding hltCsc2DRecHits.CSCUseTimingCorrections = cms.bool(False)
