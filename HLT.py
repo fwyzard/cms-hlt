@@ -1,1 +1,1 @@
-Fill SeedConfiguration PSet of SiStripElectronSeedProducers
+Fix type
