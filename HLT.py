@@ -1,1 +1,1 @@
-add Commissioning dataset
+Fill SeedConfiguration PSet of SiStripElectronSeedProducers
