@@ -1,1 +1,1 @@
-Migration for beamSpot in HLTPMMassFilter
+Addin BeamSpotOnlineProducer to HLTBeamSpot sequence
