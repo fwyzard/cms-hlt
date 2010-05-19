@@ -1,1 +1,1 @@
-Addin BeamSpotOnlineProducer to HLTBeamSpot sequence
+Fix input tag
