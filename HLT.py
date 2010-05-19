@@ -1,1 +1,1 @@
-temporarily remove hltOnlineBeamSpot
+add back hltOnlineBeamSpot
