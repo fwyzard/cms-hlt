@@ -1,1 +1,1 @@
-Fix type
+Migrate to add beamSpot in HLTPMMassFilters
