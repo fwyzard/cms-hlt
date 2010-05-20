@@ -1,1 +1,1 @@
-move SelectEcalSpikes paths from MinimumBias to Commissioning
+from Didier: update beam halo prescales
