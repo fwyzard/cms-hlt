@@ -1,1 +1,1 @@
-Fixup SiStripGainESProducer config
+from Didier: update prescales on beam halo paths
