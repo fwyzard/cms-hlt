@@ -1,1 +1,1 @@
-Fixup input tag
+Fixup SiStripGainESProducer config
