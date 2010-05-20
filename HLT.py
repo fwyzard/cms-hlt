@@ -1,1 +1,1 @@
-add back hltOnlineBeamSpot
+move SelectEcalSpikes paths from MinimumBias to Commissioning
