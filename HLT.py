@@ -1,1 +1,1 @@
-add BPTX gating to tau paths
+add BPTX gating to all JetMET paths
