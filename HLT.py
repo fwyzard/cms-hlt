@@ -1,1 +1,1 @@
-from Didier: update prescales for beam halo paths
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_5_5/HLT/V239.
