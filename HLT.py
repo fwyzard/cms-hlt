@@ -1,1 +1,1 @@
-add HLT_L1MuOpen_DT (unprescaled) to MuMonitor
+unprescale HLT_Activity_DT
