@@ -1,1 +1,1 @@
-fix smart prescales
+hide warnings from hltOnlineBeamSpot
