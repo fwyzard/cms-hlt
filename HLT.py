@@ -1,1 +1,1 @@
-saveAs /dev/CMSSW_3_6_0/HLT/V116 [15682]
+fix smart prescale for the removed HLT_PixelTracks_Multiplicity40
