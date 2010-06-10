@@ -1,1 +1,1 @@
-Adding Bryan's paths to streams/PD
+Adding Bruan's paths to 3 smart prescalers
