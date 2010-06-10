@@ -1,1 +1,1 @@
-Change L1 seed for AlCal_EcalPhiSym as per request Steph
+Revert L1seed change for AlCa_EcalPhiSym
