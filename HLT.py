@@ -1,1 +1,1 @@
-Adding HLT_Activity_Ecal_SC[7|15] paths from Bryan (BPTX Begin sequence??)
+Adding Bryan's paths to streams/PD
