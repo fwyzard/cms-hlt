@@ -1,1 +1,1 @@
-Adding Bruan's paths to 3 smart prescalers
+more updates for 4e29
