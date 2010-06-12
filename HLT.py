@@ -1,1 +1,1 @@
-more updates for 4E29
+fix paths in event display and express streams
