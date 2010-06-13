@@ -1,1 +1,1 @@
-
+add prescales for HLT_Activity_Ecal_SC7
