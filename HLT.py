@@ -1,1 +1,1 @@
-update L1 seeds and prescale for AlCa_EcalPhiSym
+add prescale column for 4E29 with prescaled L1 bits
