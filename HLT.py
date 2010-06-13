@@ -1,1 +1,1 @@
-add prescales for HLT_Activity_Ecal_SC7
+update L1 seeds and prescale for AlCa_EcalPhiSym
