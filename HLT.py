@@ -1,1 +1,1 @@
-fix paths in event display and express streams
+add prescales for HLT_Activity_Ecal_SC7
