@@ -1,1 +1,1 @@
-Egamma changes from Alessio: seeds and spikes
+Further fixes (bad ConfDB import?)
