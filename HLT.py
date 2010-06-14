@@ -1,1 +1,1 @@
-fix smart prescales
+Egamma changes from Alessio: seeds and spikes
