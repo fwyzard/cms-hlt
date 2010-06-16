@@ -1,1 +1,1 @@
-add HLT_Photon*_Cleaned_L1R paths to A and DQM streams
+rename "HLT_Photon10_L1R" to "HLT_Photon10_Cleaned_L1R"
