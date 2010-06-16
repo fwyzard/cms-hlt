@@ -1,1 +1,1 @@
-migrate to HLT5
+add HLT_Activity_CSC path
