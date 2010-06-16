@@ -1,1 +1,1 @@
-remove unrealstic "L1 prescale" columns
+disable paths (prescale = 0) not wanted for Cosmics
