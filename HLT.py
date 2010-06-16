@@ -1,1 +1,1 @@
-Created by ConfDBCreateConfig from master /dev/CMSSW_3_6_2/HLT/V33.
+remove "Offline", and unused prescale columns
