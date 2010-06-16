@@ -1,1 +1,1 @@
-set prescales for HLT_Activity_CSC path (aiming at 1Hz)
+remove unrealstic "L1 prescale" columns
