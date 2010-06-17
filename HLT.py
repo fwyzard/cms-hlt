@@ -1,1 +1,1 @@
-saveAs /online/collisions/2010/week24/HLT/V12 [16982]
+unpack the GT and GCT info for all available BXs
