@@ -1,1 +1,1 @@
-adapt prescales for activity paths seeded by unprescaled zero bias with high bunch intensity (11e10 protons per bunch)
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_6_2/HLT/V40.
