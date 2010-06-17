@@ -1,1 +1,1 @@
-fill prescale columns with 2e29 and 1e29 scenarios for nominal bunches
+adapt prescales for high intensity bunches to take into account the rate saturation effect (max 11kHz)
