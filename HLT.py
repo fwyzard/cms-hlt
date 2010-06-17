@@ -1,1 +1,1 @@
-assume L1_BscMinBiasOR_BptxPlusORMinus to be prescaled by ~100 at L1
+adapt prescales for a L1 prescale factor of ~200 for "L1_BscMinBiasOR_BptxPlusORMinus"
