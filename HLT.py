@@ -1,1 +1,1 @@
-seed all activity paths with ZeroBias (tech trig 3)
+remove old HLT_Activity_Ecal* paths
