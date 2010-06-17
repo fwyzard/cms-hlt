@@ -1,1 +1,1 @@
-adapt prescales for high intensity bunches to take into account the rate saturation effect (max 11kHz)
+assume L1_BscMinBiasOR_BptxPlusORMinus to be prescaled by ~100 at L1
