@@ -1,1 +1,1 @@
-adapt prescales for a L1 prescale factor of ~200 for "L1_BscMinBiasOR_BptxPlusORMinus"
+assume 10kHz of random at 2e29 or lower, 20kHz at 4e29
