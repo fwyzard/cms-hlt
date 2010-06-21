@@ -1,1 +1,1 @@
-update prescaled for 4e29 to reflect 2 colliding bunches
+adapt prescales for HLT_L1Tech_BSC_HighMultiplicity
