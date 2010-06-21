@@ -1,1 +1,1 @@
-adapt prescales for HLT_L1Tech_BSC_HighMultiplicity
+update configuration to read HLT prescale index from GT record
