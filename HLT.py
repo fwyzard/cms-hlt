@@ -1,1 +1,1 @@
-add prescale columns assumin zerobias prescaled by 5
+assume tech bit 3 prescaled to ~ 1Hz
