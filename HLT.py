@@ -1,1 +1,1 @@
-update configuration to read HLT prescale index from GT record
+rename HLT_MinBiasBSC to HLT_L1Tech_BSC_minBias
