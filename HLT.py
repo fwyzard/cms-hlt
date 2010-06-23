@@ -1,1 +1,1 @@
-relax prescale for HLT_Activity_DT
+fix prescales for AlCa_EcalPhySim
