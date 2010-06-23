@@ -1,1 +1,1 @@
-relax prescale for HLT_Activity_DT from 3 to 2
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_6_2/HLT/V57.
