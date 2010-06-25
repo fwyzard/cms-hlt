@@ -1,1 +1,1 @@
-add HLT_PixelTracks_Multiplicity85
+seed HLT_MultiVertex8 with L1_ETT60
