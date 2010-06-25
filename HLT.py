@@ -1,1 +1,1 @@
-add HLT_MultiVertex6 and HLT_MultiVertex8
+add HLT_PixelTracks_Multiplicity85
