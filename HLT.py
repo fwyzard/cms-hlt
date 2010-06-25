@@ -1,1 +1,1 @@
-add Onia datasets
+add HLT_MultiVertex6 and HLT_MultiVertex8
