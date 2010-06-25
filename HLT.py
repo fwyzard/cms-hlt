@@ -1,1 +1,1 @@
-seed HLT_MultiVertex8 with L1_ETT60
+rename 1E30 to 8E29
