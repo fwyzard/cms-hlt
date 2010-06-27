@@ -1,1 +1,1 @@
-pescale HLT_Photon10_Cleaned_L1R by 10 at 4e29
+update prescales for AlCa_EcalPhiSym to take into account changes in ZeroBias at L1
