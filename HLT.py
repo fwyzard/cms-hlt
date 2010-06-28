@@ -1,1 +1,1 @@
-fix hltPreDQMSmart
+update smart prescales for monitoring paths
