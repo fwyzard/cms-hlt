@@ -1,1 +1,1 @@
-set 1Hz of random
+fix more prescales
