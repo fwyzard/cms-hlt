@@ -1,1 +1,1 @@
-update smart prescales for monitoring paths
+set 1Hz of random
