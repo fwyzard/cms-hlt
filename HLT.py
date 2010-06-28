@@ -1,1 +1,1 @@
-unprescale double mu open, waiting for physics to decide
+save 2Hz of random, assuming 600Hz at L1
