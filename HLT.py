@@ -1,1 +1,1 @@
-
+increase prescale of HLT_ActivityEcal_SC7
