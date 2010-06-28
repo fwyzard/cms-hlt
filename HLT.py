@@ -1,1 +1,1 @@
-fix monitoring streams
+fix hltPreDQMSmart
