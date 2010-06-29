@@ -1,1 +1,1 @@
-fix more prescales
+Migrate for new parameters in HLTMuonL1Filter (Zoltan)
