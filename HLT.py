@@ -1,1 +1,1 @@
-remove cruft
+temporarily remove brokn "smart prescales"
