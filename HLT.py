@@ -1,1 +1,1 @@
-Fix HLTPrescaler instance config (gtDigis => hltGtDigis)
+add spike rejection to HLT_Photon15_*_L1R
