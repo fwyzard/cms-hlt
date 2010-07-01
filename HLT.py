@@ -1,1 +1,1 @@
-add HLT_L1DoubleMuOpen_Tight
+remove un-Cleaned photon paths
