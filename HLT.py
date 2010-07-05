@@ -1,1 +1,1 @@
-fix
+add HLT_Activity_Ecal_SC17
