@@ -1,1 +1,1 @@
-Fixup smart prescalers for SC15=>SC17
+More smart prescaler fixups
