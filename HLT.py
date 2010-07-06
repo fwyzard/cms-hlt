@@ -1,1 +1,1 @@
-move from SC15 to SC17
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_6_2/HLT/V129.
