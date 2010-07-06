@@ -1,1 +1,1 @@
-move from SC15 to SC17
+rename HLT_Photon30_L1R_1E31 to HLT_Photon30_L1R, and switch to it for running online
