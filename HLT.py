@@ -1,1 +1,1 @@
-More smart prescaler fixups
+Adding 2 paths from Conor
