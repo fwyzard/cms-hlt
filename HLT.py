@@ -1,1 +1,1 @@
-Adding hltGtDigis in front of HLTPresaclers in paths without any HLTBeginSequence*
+add HLT_Mu7 to PDs and streams
