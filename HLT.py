@@ -1,1 +1,1 @@
-add HLT_Mu7 to PDs and streams
+update DQM, HLTDQM and HLTMON
