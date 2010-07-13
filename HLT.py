@@ -1,1 +1,1 @@
-Migrate for next tagsets
+Fix typo in Conor's hltEcalOnlyMet module
