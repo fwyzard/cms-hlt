@@ -1,1 +1,1 @@
-from Stephanie: unprescale HLT_RPCMuonNoHits and HLT_MuonNoTriggers
+from Maurizio: add HLT_Ele20_LW to Express
