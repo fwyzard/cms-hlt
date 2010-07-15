@@ -1,1 +1,1 @@
-prescale HLT_L1MuOpen_AntiBPTX by 30
+add 3 new Tau paths
