@@ -1,1 +1,1 @@
-from Florent and Len: add HLT_Jet70U and HLT_Jet100U
+drop old HLT_DoublePhoton4_eeRes_L1R and HLT_DoublePhoton5_eeRes_L1R
