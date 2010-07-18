@@ -1,1 +1,1 @@
-drop old HLT_DoublePhoton4_eeRes_L1R and HLT_DoublePhoton5_eeRes_L1R
+from Jeremy: add HLT_DoubleEle4_SW_eeRes_L1R
