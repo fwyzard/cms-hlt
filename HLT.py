@@ -1,1 +1,1 @@
-"preseed" minimum bias triggers (BSC, BSC OR, HF) with ZeroBias
+drop unused NoBPTX paths
