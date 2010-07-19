@@ -1,1 +1,1 @@
-seed HLT_PixelTracks_Multiplicity85 by L1_ETT100
+"preseed" minimum bias triggers (BSC, BSC OR, HF) with ZeroBias
