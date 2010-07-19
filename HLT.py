@@ -1,1 +1,1 @@
-from Alessio: add HLT_Ele15_LW_CaloEleId_L1R
+rename HLT_SingleIsoTau30_Trk5 to HLT_SingleIsoTau30_Trk5_L1JEC, and HLT_SingleIsoTau30_Trk5_NoJEC to HLT_SingleIsoTau30_Trk5
