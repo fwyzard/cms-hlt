@@ -1,1 +1,1 @@
-correctly rename HLTSingleElectronEt10L1NonIsoHLTEleIdSequence to HLTSingleElectronLWEt10L1NonIsoHLTEleIdSequence
+from Alessio: add HLT_Ele10_SW_EleId_L1R
