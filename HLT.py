@@ -1,1 +1,1 @@
-remove JLT_Photon30_L1R from stream A
+from Wei Li: decrease hltPixelTracksForHighMult...originHalfLength from 30 to 10.5
