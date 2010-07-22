@@ -1,1 +1,1 @@
-fix DQM smart prescale
+fix HLTDQM stream and smart prescale
