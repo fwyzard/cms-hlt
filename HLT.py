@@ -1,1 +1,1 @@
-redefine DQM and HLTDQM
+fix DQM smart prescale
