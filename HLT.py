@@ -1,1 +1,1 @@
-
+from Alessio: implement HLT_Photon50_Cleaned_L1R and HLT_DoublePhoton20_L1R
