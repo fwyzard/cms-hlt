@@ -1,1 +1,1 @@
-add HLTDQMReults stream
+prescale L1_ETT100
