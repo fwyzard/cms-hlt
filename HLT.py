@@ -1,1 +1,1 @@
-prescale L1_ETT100
+from Stephanie: relax prescale on AlCa_EcalEta
