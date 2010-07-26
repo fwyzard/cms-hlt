@@ -1,1 +1,1 @@
-final prescales for 3.5e30 and lower, assuming no prescales at L1
+from Alessio: update definition of HLT_Ele25_SW_L1R
