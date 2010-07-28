@@ -1,1 +1,1 @@
-assume zero bias (tech bit 4) prescaled by 6000 at L1
+from Roberto: update L1 seed and cuts for Ele15 paths
