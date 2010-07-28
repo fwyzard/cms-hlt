@@ -1,1 +1,1 @@
-from Roberto: update L1 seed and cuts for Ele15 paths
+better adapt prescale to L1 and lumi
