@@ -1,1 +1,1 @@
-migrate to new template
+from Silvia: update parameters for DT activity module
