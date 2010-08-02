@@ -1,1 +1,1 @@
-update smart prescales for removed triggers
+update monitor streams and smart prescales for removed triggers
