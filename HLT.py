@@ -1,1 +1,1 @@
-increase prescale on HLT_L1ETT100 to 500
+update smart prescales for removed triggers
