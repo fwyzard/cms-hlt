@@ -1,1 +1,1 @@
-add "HLT_SingleIsoTau30_Trk5" to online menu
+simplify seeding of AlCa_EcalPhiSym
