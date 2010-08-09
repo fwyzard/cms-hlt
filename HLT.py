@@ -1,1 +1,1 @@
-add GlobalDetLayerGeometryESProducer
+revert V241
