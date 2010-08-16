@@ -1,1 +1,1 @@
-revert V241
+fix configuration for non-iso SCs
