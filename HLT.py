@@ -1,1 +1,1 @@
-migrate to HLT2
+remove obsolete EGamma paths
