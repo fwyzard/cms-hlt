@@ -1,1 +1,1 @@
-remove more obsolete paths
+remove unreferenced sequences
