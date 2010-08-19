@@ -1,1 +1,1 @@
-remove obsolete EGamma paths
+from Sam: import updated EGamma paths
