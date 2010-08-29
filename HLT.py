@@ -1,1 +1,1 @@
-fromSam: update EGamma triggers (step2: import modified or new sequences)
+from Sam: update EGamma triggers (step3: import new and modified paths)
