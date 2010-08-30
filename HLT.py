@@ -1,1 +1,1 @@
-add interim NanoDST implementation
+add NanoDST output module
