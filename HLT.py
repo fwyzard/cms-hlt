@@ -1,1 +1,1 @@
-from Len: add HLT_QuadJet20U and 25U
+from Sam: add HLT_L2Mu5_Photon9_L1R
