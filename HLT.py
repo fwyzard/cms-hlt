@@ -1,1 +1,1 @@
-use new L1 seed for mu+photon cross-trigger
+from Mike: import new Tau paths
