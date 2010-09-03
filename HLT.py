@@ -1,1 +1,1 @@
-add HLT_BTagMu_Jet20U
+from Len: add HLT_QuadJet20U and 25U
