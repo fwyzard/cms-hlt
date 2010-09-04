@@ -1,1 +1,1 @@
-update Mu, MuOnia and MuMonitor datasets
+update EGMonitor dataset
