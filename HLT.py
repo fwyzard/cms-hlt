@@ -1,1 +1,1 @@
-update Cosmics dataset
+remove Offline
