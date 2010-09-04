@@ -1,1 +1,1 @@
-define MinimumBias dataset
+merge RandomTriggers into MinimumBias
