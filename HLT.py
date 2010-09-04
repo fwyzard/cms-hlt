@@ -1,1 +1,1 @@
-reset DQM, HLTDQM, HLTMON datasets
+clean stream A
