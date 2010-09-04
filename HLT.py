@@ -1,1 +1,1 @@
-clean stream A
+reset prescales
