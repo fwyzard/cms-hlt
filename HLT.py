@@ -1,1 +1,1 @@
-update Mu dataset
+remove more obsolete triggers
