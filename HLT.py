@@ -1,1 +1,1 @@
-remove EventDisplay dedicated stream (use Express)
+update Express stream
