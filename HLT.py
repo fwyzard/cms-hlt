@@ -1,1 +1,1 @@
-updated prescales for 2e31
+HLT_L1MuOpen_AntiBPTX should not scale with luminosity
