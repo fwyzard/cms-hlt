@@ -1,1 +1,1 @@
-migratio to make HLT and RECO compatible (in progress)
+change PixelLayerPairs and Triplets to hlthltPixelLayerPairs and Triplets
