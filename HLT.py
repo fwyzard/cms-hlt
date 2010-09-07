@@ -1,1 +1,1 @@
-update GlobalTag
+fix hltPreDQMSmart prescale
