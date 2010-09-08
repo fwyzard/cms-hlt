@@ -1,1 +1,1 @@
-Remove presalers from HLTriggerFirst and FinalPath
+rename photon monitoring trggers to "NoHE"
