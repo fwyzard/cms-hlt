@@ -1,1 +1,1 @@
-fix configuration of HLT_L2Mu5_Photon9_L1R
+bring HLT_Ele17_SW_EleId_L1R in line with other EleId paths
