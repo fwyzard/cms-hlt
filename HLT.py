@@ -1,1 +1,1 @@
-rename photon monitoring trggers to "NoHE"
+fix typo in hltL1NonIsoHLTNonIsoSingleElectronEt17LEleIdClusterShapeFilter
