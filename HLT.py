@@ -1,1 +1,1 @@
-add HLT_IsoMu9
+remove unused paths
