@@ -1,1 +1,1 @@
-fix typo in hltL1NonIsoHLTNonIsoSingleElectronEt17LEleIdClusterShapeFilter
+remove unreferenced sequences
