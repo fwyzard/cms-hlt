@@ -1,1 +1,1 @@
-remove unused paths
+fix configuration of HLT_L2Mu5_Photon9_L1R
