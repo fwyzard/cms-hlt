@@ -1,1 +1,1 @@
-TE globaltag
+migrate to HLT5
