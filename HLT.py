@@ -1,1 +1,1 @@
-drop HLT_MuX_TkMu0_Jpsi_NoCharge paths
+drop obsolete EGamma and Tau paths
