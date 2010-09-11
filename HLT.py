@@ -1,1 +1,1 @@
-drop obsolete EGamma and Tau paths
+remove unreferenced sequences
