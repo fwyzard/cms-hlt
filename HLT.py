@@ -1,1 +1,1 @@
-migrate to HLT5
+drop HLT_MuX_TkMu0_Jpsi_NoCharge paths
