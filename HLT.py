@@ -1,1 +1,1 @@
-hltCsc2DRecHits.CSCUseTimingCorrections = True
+updated calibrations for DT local timing
