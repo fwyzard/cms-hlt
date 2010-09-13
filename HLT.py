@@ -1,1 +1,1 @@
-rename MeasurementTracker ro hltMeasurementTracker for RECO compatibility
+migrate to HLT6
