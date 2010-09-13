@@ -1,1 +1,1 @@
-rename HLT_MuX_TkMu0_Jpsi to HLT_MuX_TkMu0_OST_Jpsi
+adapt smart prescales
