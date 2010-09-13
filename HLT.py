@@ -1,1 +1,1 @@
-impement OneStationTight cuts for tracker muons in HLT_Mu0_TkMuX_Jpsi
+rename HLT_MuX_TkMu0_Jpsi to HLT_MuX_TkMu0_OST_Jpsi
