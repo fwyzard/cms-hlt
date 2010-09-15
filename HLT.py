@@ -1,1 +1,1 @@
-add missing tau HLTMON/HLTDQM keep's
+migrate to HLT7
