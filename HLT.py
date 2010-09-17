@@ -1,1 +1,1 @@
-Adding HLT_HT120U to smart prescalers
+Replace hltEcalCalibrationRaw's SubdetFEDSelector by EvFFEDSelector (keeping the label)
