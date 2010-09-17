@@ -1,1 +1,1 @@
-Set prescale=0 for new HT_120U for cosmics
+Adding HLT_HT120U to smart prescalers
