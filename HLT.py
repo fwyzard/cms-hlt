@@ -1,1 +1,1 @@
-Put EG8 as L1 seed for single Ele>=12 paths
+Changing to EG8 seed for single photon>=15 paths
