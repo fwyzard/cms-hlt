@@ -1,1 +1,1 @@
-Adding path HLT_ExclDiJet30U
+Remove ExclDiJet (needs code update)
