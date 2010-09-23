@@ -1,1 +1,1 @@
-Adding  LumiScalerss product to HLTDQMResults
+Fix event content name to hltEventContentHLTDQMResults
