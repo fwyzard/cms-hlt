@@ -1,1 +1,1 @@
-Fix event content name to hltEventContentHLTDQMResults
+Remove DQM_ path not needed
