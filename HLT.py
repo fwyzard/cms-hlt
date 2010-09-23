@@ -1,1 +1,1 @@
-Set 0 fraction to disk for HLTDQM
+Adding  LumiScalerss product to HLTDQMResults
