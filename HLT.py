@@ -1,1 +1,1 @@
-Change string to InputTag in a PixelTrackProducer nested PSet
+Fix defaulst prescales for new HIon paths
