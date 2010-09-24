@@ -1,1 +1,1 @@
-Add 2 new Ele paths to PDs
+Add new Ele17 paths to smart prescalers
