@@ -1,1 +1,1 @@
-Remove DQM_ path not needed
+HIon import of two ES modules hltHIPixelLayer/Pairs/Triplets
