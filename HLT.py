@@ -1,1 +1,1 @@
-Import new HLT_BTagMu_DiJet* paths (3)
+Add new BTag paths to PDs
