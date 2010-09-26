@@ -1,1 +1,1 @@
-Migrate for new Doublet filters
+Rename modue labels to follow conventions
