@@ -1,1 +1,1 @@
-Adding 3 new BTagMu paths to relevant smart prescalers
+Fix cosmics prescale=0 for btag paths
