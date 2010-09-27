@@ -1,1 +1,1 @@
-Remove old Mu13/Mu15 paths
+Fix mu prescaler label
