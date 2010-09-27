@@ -1,1 +1,1 @@
-Change Seagull to Tight
+Further reordering in table of new paths
