@@ -1,1 +1,1 @@
-Insert new path sat proper location now that they are fixed
+Remove unused HLT_IsoTrackH*_L1JEC paths
