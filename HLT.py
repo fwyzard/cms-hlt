@@ -1,1 +1,1 @@
-Remove old paths for importing new ones
+Remove unreferenced sequences
