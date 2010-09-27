@@ -1,1 +1,1 @@
-Renaming inside Mu9/Mu11
+Remove old Mu13/Mu15 paths
