@@ -1,1 +1,1 @@
-Adding Seagull path
+Change Seagull to Tight
