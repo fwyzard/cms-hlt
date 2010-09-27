@@ -1,1 +1,1 @@
-Remove unused HLT_IsoTrackH*_L1JEC paths
+Remove old paths for importing new ones
