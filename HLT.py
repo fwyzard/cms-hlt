@@ -1,1 +1,1 @@
-Remove old path to be replaced
+Two updates for SUSY paths
