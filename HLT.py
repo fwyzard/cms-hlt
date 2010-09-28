@@ -1,1 +1,1 @@
-Fix express smart prescaler
+Fix some cosmics prescales
