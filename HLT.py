@@ -1,1 +1,1 @@
-Importing another muon paths
+Adding 12 EG paths from Sam H.
