@@ -1,1 +1,1 @@
-group modules in the HLTL1(Non)IsoEgammaRegionalRecoTrackerSequence in more paths
+add 0.7 HF correction to HLT_ExclDiJet30U_HFOR
