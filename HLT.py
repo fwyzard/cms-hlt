@@ -1,1 +1,1 @@
-remove old prescale columns, and unreferenced sequences
+add HLT_HT160U and HLT_HT200U
