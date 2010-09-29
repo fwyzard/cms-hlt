@@ -1,1 +1,1 @@
-add HLT_IsoMu11
+add HLT_Mu5_Photon11_Cleaned_L1R
