@@ -1,1 +1,1 @@
-add HLT_ExclDiJet30U_HFOR
+group modules in the HLTL1(Non)IsoEgammaRegionalRecoTrackerSequence in more paths
