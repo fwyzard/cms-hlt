@@ -1,1 +1,1 @@
-remove some obsolete paths
+rename HLT_SingleIsoTau30_Trk5_L120or30 to HLT_SingleIsoTau30_Trk5_v2
