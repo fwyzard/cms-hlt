@@ -1,1 +1,1 @@
-import HLT_Ele32_SW_TightCaloEleIdTrack_L1R
+re-import HLT_Ele17_SW_TightEleIdIsol_L1R
