@@ -1,1 +1,1 @@
-set prescales for EGamma paths
+import HLT_Ele32_SW_TightCaloEleIdTrack_L1R
