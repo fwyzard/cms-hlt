@@ -1,1 +1,1 @@
-apply corrections from PDWG
+add HLT_Random to A/MinimumBias
