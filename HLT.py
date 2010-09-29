@@ -1,1 +1,1 @@
-add 0.7 HF correction to HLT_ExclDiJet30U_HFOR
+finalize datasest as in TMD's v7
