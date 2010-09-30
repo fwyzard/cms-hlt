@@ -1,1 +1,1 @@
-add L1_DoubleEG2 to the seeds for AlCa_EcalPi0/Eta
+same for L1JEC paths
