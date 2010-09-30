@@ -1,1 +1,1 @@
-add missing triggers to stream A
+fix prescaled for 6e31
