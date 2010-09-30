@@ -1,1 +1,1 @@
-fix prescales for 6e31
+drop HLT_BTagMu_Jet* paths from stream A
