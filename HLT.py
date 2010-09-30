@@ -1,1 +1,1 @@
-add missing paths to stream A
+remove spike cleaning from electron cross-triggers
