@@ -1,1 +1,1 @@
-fix prescaled for 6e31
+fix configuration for HLT_ExclDiJet30U
