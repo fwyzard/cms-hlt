@@ -1,1 +1,1 @@
-drop HLT_BTagMu_Jet* paths from stream A
+drop HLT_Ele40_SW_L1R from Express and DQM streams
