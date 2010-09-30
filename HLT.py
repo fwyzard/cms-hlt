@@ -1,1 +1,1 @@
-re-import cross-channel paths
+fix and re-import cross-triggers
