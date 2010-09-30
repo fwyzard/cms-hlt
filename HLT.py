@@ -1,1 +1,1 @@
-add L1 unpacker to HLT_Random
+add L1_DoubleEG2 to the seeds for AlCa_EcalPi0/Eta
