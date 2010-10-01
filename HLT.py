@@ -1,1 +1,1 @@
-fix prescales after HFAND rename
+update prescales for AlCa_RPC paths
