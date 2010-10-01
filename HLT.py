@@ -1,1 +1,1 @@
-update DQM-like streams
+update smart prescalers
