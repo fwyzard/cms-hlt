@@ -1,1 +1,1 @@
-add HLT_L1ETT140_v1, prescaled by 100
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_8_1/HLT/V288.
