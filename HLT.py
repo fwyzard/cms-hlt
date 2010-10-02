@@ -1,1 +1,1 @@
-tentative fix for the EGamma x-triggers
+fix smart prescaler in Express
