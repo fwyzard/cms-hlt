@@ -1,1 +1,1 @@
-disable bypassing L1Tech prescale/mask
+Importing HLT_Ele17_SW_TightCaloEleId_Ele8HE_L1R_v1 and adding to PDs
