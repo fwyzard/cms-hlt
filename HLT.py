@@ -1,1 +1,1 @@
-tentative fix for HLT_Mu5_Ele5 and HLT_Ele10_MET45
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_8_1/HLT/V304.
