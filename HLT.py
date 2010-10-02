@@ -1,1 +1,1 @@
-more smart prescale fixes
+disable bypassing L1Tech prescale/mask
