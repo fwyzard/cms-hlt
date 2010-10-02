@@ -1,1 +1,1 @@
-fix smart prescaler in Express
+fix smart prescales for HLT_ExclDiJet30U_HFAND_v1
