@@ -1,1 +1,1 @@
-drop version number from existing triggers: HLT_Ele12_SW_TightEleId_L1R_v2, HLT_Ele17_SW_L1R_v2, HLT_Ele17_SW_TightEleId_L1R_v1
+increase threshold on HLT_StoppedHSCP and rename to v2
