@@ -1,1 +1,1 @@
-fix order of modules in HLT_TrackerCosmics
+fix typo in versioning
