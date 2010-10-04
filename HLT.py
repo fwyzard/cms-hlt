@@ -1,1 +1,1 @@
-Adding HSCP20 path
+Add HSCP20
