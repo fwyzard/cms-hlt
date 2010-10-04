@@ -1,1 +1,1 @@
-Adding HSCP20 to pds (still to do: smart prescalers)
+Replacing HSCP by HSCP 20 and 30 in smart prescalers
