@@ -1,1 +1,1 @@
-add HCAL cleaning to HSCP paths
+rename HSCP paths to v3
