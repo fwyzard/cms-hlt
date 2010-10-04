@@ -1,1 +1,1 @@
-Replacing HSCP by HSCP 20 and 30 in smart prescalers
+Adding new HLT_Ele17_SW_TightCaloEleId_Ele8HE_L1R_v1 to smart prescalers
