@@ -1,1 +1,1 @@
-Fixing DubleMu0 and prescale modules as per eLog messages
+Fix l1seed module / l1 seed of HLT_Mu5_Jet50U
