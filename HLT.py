@@ -1,1 +1,1 @@
-Add for sure this time
+add HCAL cleaning to HSCP paths
