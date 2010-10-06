@@ -1,1 +1,1 @@
-Adding 2 new HLT_BTagMu_DiJet30U* paths
+Adding HLT_DoubleMu0 (smart prescalers still to do)
