@@ -1,1 +1,1 @@
-raname HLT_Mu5_Jet50U_v1 to v2
+Adding 2 new HLT_BTagMu_DiJet30U* paths
