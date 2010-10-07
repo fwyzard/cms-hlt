@@ -1,1 +1,1 @@
-Adding HLT_DoubleMu0 to relevant smart prescalers
+Scale HLT_L1MET20 prescale by factopr 100 (not applied at L1)
