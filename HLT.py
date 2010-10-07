@@ -1,1 +1,1 @@
-prescale
+Fix AlCa_EcalPhiSym prescale
