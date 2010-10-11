@@ -1,1 +1,1 @@
-Change L1seed to L1_SingleJet30U ONLY for HLT_IsoTrackHE
+Rename to HLT_IsoTrackHE_v3 as L1 seed conduition was changed
