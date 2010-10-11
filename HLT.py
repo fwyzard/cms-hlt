@@ -1,1 +1,1 @@
-Migration to new codebase toward 2E32 menu
+Importing 17 2E32 EG paths from Sam Harper
