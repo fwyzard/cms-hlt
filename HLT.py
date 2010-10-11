@@ -1,1 +1,1 @@
-Constructing HLT_DiJet20U_Meff175U
+Replacing (buggy) EcalRawToDigi module by EcalRawToRecHitByproductProducer setup as recommended by Jean-Roch
