@@ -1,1 +1,1 @@
-Rename to HLT_IsoTrackHE_v3 as L1 seed conduition was changed
+Append _v2 to DQM_FEDIntegrity as ecal part has changed
