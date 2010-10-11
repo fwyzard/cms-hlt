@@ -1,1 +1,1 @@
-Importing 17 2E32 EG paths from Sam Harper
+Explicit import of 3 changed modules (EG paths)
