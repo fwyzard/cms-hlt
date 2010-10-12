@@ -1,1 +1,1 @@
-Fixup HI prescalers
+More prescaler fixes in stupid HI paths
