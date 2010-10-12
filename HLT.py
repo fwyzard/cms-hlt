@@ -1,1 +1,1 @@
-clean stream A
+add _v1 to all new paths
