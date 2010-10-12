@@ -1,1 +1,1 @@
-from Bryan: switch to HcalHitReconstructor and implement cleaning in all CaloTower creators
+rename all paths affected by hcal "cleaning" to _v3
