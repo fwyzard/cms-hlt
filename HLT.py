@@ -1,1 +1,1 @@
-update smart prescaler for HLTDQM stream
+update smart prescaler for HLTMON stream
