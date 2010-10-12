@@ -1,1 +1,1 @@
-Migrate for new DQM plugins
+Adding hltDataIntegrityTask
