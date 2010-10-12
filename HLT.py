@@ -1,1 +1,1 @@
-update smart prescale for Express stream
+update smart prescaler for DQM stream
