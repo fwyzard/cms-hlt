@@ -1,1 +1,1 @@
-Remove HIon PD/stream/endpath to prepare import of new setup
+Adding HIon PDs to existing streams
