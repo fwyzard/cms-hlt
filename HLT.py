@@ -1,1 +1,1 @@
-add HLT_SingleIsoTau20_Trk15_MET25 to BTau
+add DiJet paths to MultiJet
