@@ -1,1 +1,1 @@
-update smart prescaler for DQM stream
+update smart prescaler for HLTDQM stream
