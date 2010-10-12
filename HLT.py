@@ -1,1 +1,1 @@
-Remove hltHcalDataInterityTask form DQM path until its code is fixed
+from Bryan: switch to HcalHitReconstructor and implement cleaning in all CaloTower creators
