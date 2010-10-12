@@ -1,1 +1,1 @@
-also rename CEP path
+remove many "L1 JEC" paths
