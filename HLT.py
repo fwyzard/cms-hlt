@@ -1,1 +1,1 @@
-add MET paths
+add missing Jet and DiJetAve paths
