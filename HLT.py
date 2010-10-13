@@ -1,1 +1,1 @@
-Adding new DoublePhoton paths to smart prescalers
+Adapting prescales to TMD v4 wiki
