@@ -1,1 +1,1 @@
-from Jonathan: add HLT_DoubleJet35U_ForwardBackward
+from Sam: fix HLT_Photon17Isol_SC17HE_L1R_v1
