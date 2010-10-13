@@ -1,1 +1,1 @@
-remove Heavy Ion paths from smart prescales
+bypass prescale on L1 MinBias tech bits
