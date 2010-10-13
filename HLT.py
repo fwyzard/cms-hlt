@@ -1,1 +1,1 @@
-update smart prescaler for HLTMON stream
+from Jonathan: add HLT_DoubleJet35U_ForwardBackward
