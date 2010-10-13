@@ -1,1 +1,1 @@
-Adding two more DoublePhoton paths to Photon PD.
+Adding new DoublePhoton paths to smart prescalers
