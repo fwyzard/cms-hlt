@@ -1,1 +1,1 @@
-reenable "throw" in the smart prescales
+remove Heavy Ion paths from smart prescales
