@@ -1,1 +1,1 @@
-update smart prescales
+fix smart prescales
