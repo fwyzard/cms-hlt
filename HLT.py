@@ -1,1 +1,1 @@
-bypass prescale on L1 MinBias tech bits
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_8_5/HLT/V72.
