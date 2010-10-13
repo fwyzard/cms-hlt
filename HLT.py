@@ -1,1 +1,1 @@
-from Sam: add HLT_Ele22_SW_TighterCaloIdIsol_L1R_v1
+update smart prescales
