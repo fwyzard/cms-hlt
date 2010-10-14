@@ -1,1 +1,1 @@
-Fix a prescale for Ele17 (was 0 -> 1).
+Fix 3 prescale mismatches found by Len
