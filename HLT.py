@@ -1,1 +1,1 @@
-Adapting prescales to TMD v4 wiki
+Try it the hard way
