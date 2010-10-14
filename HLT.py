@@ -1,1 +1,1 @@
-Separation CalibrationHI into its own endpath
+HI stream/pd naming
