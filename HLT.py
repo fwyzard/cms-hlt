@@ -1,1 +1,1 @@
-Move 3 ELE+X paths from MultiJet to Electron PD
+Change prescale from 22000 to 8000 for HLT_Mu0
