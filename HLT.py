@@ -1,1 +1,1 @@
-Fix express smart prescaler
+Fixup of smart prescaler
