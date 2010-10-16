@@ -1,1 +1,1 @@
-Cleanup: cosmics prescale column and 5 HI PDs
+Also cleanup CalibrationHI stream
