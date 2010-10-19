@@ -1,1 +1,1 @@
-Renaming path to HLT_HcalCalibration_HI
+Move hltOutputOnlineErrors to HLTOutput endpath (as it has nothing to do with AlCa)
