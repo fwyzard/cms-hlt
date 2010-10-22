@@ -1,1 +1,1 @@
-Rename TrajectoryCleanerBySharedHits to hltTrajectoryCleanerBySharedHits to avoid conflict with RECO
+Cleanup
