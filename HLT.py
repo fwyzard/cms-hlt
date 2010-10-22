@@ -1,1 +1,1 @@
-Cleanup HI remnats and cosmics prescale column
+Importing prescale table from MMozer
