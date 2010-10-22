@@ -1,1 +1,1 @@
-Fixup HI event content always getting lost in migration
+Add new paths to PDs (smart prescalers still to do)
