@@ -1,1 +1,1 @@
-Add new paths to PDs (smart prescalers still to do)
+Adding new paths to monitor datasets
