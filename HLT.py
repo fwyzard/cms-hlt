@@ -1,1 +1,1 @@
-Import changed modules and sequences
+Renaming paths
