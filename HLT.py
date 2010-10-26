@@ -1,1 +1,1 @@
-Fixup
+Fixup smart prescalers
