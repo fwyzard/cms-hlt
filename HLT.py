@@ -1,1 +1,1 @@
-Fixup smart prescalers
+Changing 3 parameters in EcalUnpackerWorkerESProducer
