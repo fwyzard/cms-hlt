@@ -1,1 +1,1 @@
-Renaming paths (v number)
+More renaming due to pixel changes
