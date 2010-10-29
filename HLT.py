@@ -1,1 +1,1 @@
-Migration for pixelRaw2Digi
+Use standard unpacker for pixels in DQM_FEDIntegrity
