@@ -1,1 +1,1 @@
-Remove added products from HLTDQM (should be in HLTMON only)
+Importing paths from Christof
