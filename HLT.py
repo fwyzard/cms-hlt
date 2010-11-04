@@ -1,1 +1,1 @@
-Change globaltag for 39X to new GR10_H_V12
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_9_0/HLT/V2.
