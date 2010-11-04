@@ -1,1 +1,1 @@
-saveAs /dev/CMSSW_3_8_5/HLT/V187 [51601]
+Change globaltag for 39X to new GR10_H_V12
