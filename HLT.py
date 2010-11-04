@@ -1,1 +1,1 @@
-More smart prescaler fixup
+Revert fix for HLTDQMResults
