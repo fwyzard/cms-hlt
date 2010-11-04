@@ -1,1 +1,1 @@
-Remove un-nneded event contents as well
+Fixup smart prescalers with explicit list of path names
