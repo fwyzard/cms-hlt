@@ -1,1 +1,1 @@
-Cleanup part 1
+Fix smart prescalers
