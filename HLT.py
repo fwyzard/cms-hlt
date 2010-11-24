@@ -1,1 +1,1 @@
-fix harmless bug in hltPFTaus
+in progress: ECAL PosCalc migration
