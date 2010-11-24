@@ -1,1 +1,1 @@
-in progress: ECAL PosCalc migration
+in progress: add new ECAL PosCalc parameters
