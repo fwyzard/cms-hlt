@@ -1,1 +1,1 @@
-migration to the new ECAL PosCalc
+reset unused PosCalc values to their default
