@@ -1,1 +1,1 @@
-migate to CMSSW_3_10_0_pre6
+from Slava: add ExcludeRPCFromFit parameters to hltL2Muons
