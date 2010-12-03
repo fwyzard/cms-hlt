@@ -1,1 +1,1 @@
-bump version for paths affected by L2 muon change
+propagate path name changes to global prescale
