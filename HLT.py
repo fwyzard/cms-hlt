@@ -1,1 +1,1 @@
-Set UseHcal/EcalRecoveredHits=false in CaloTowersCreators
+Migration to add the HLTConfigService
