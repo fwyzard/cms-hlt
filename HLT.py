@@ -1,1 +1,1 @@
-Migration to add the HLTConfigService
+Remove HLTConfigService
