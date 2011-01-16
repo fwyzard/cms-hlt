@@ -1,1 +1,1 @@
-Migrate for new PSet
+Fix HcalHitReconstructor settings
