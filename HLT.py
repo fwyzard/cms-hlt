@@ -1,1 +1,1 @@
-Fix HcalHitReconstructor settings
+More adjustments
