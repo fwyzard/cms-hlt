@@ -1,1 +1,1 @@
-add HLTEndSequence to jet path
+import btag soft muon paths
