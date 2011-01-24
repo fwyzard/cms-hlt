@@ -1,1 +1,1 @@
-add missing UpdaterService
+add HLTEndSequence to jet path
