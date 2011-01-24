@@ -1,1 +1,1 @@
-add jet path template
+rename path
