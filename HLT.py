@@ -1,1 +1,1 @@
-remove unused mumu esmodule
+aknowledge that HLT_Mu3 is seeded by L1_SingleMuOpen
