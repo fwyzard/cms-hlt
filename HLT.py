@@ -1,1 +1,1 @@
-fix eventsetup module for mumu paths
+remove unused mumu esmodules
