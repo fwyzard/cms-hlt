@@ -1,1 +1,1 @@
-Adding 18 SUSY_hadronic paths from A.Mott
+Fix l1 seed
