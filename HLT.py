@@ -1,1 +1,1 @@
-to be tested - import Ele27 and Ele45 paths from Jeff
+fix name of module/sequences of BTagIP path
