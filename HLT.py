@@ -1,1 +1,1 @@
-fix name of module/sequences of BTagIP path
+Fixup of HLT_QuadJet50_BTagIP_v1
