@@ -1,1 +1,1 @@
-Fixup BTag paths again &*(%*(%^*)
+Adding 4 paths from Joshua Swanson
