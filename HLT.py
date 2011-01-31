@@ -1,1 +1,1 @@
-from Jonatan: integrate FWD paths
+wip - from Jeff: integrate EGamma paths
