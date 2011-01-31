@@ -1,1 +1,1 @@
-from Simone: chage PFTau isolationQualityCuts minGammaEt from 0.8 to 1.5
+wip - rewrite PFTau changes (importing directly breaks confdb)
