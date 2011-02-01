@@ -1,1 +1,1 @@
-Adding two PFMHT paths from Jim
+Fixup Jim's 2 paths
