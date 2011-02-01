@@ -1,1 +1,1 @@
-Migration to add EcalSeverityLevelESProducer for 42X
+Rename EcalSeverityLevelESProducer to play nice with RECO
