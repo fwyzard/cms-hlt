@@ -1,1 +1,1 @@
-Fixup Jim's 2 paths
+More fixes to Jim's paths
