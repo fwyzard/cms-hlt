@@ -1,1 +1,1 @@
-Fixes from Jeff
+Import two new paths from Jeff
