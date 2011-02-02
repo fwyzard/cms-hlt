@@ -1,1 +1,1 @@
-Fixing PSMHT cuts in Jim;s paths
+add version number to all paths
