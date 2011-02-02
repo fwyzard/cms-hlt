@@ -1,1 +1,1 @@
-Fixup broken HLT_Photon65_CaloIdVL_IsoL_v1
+Fixup HLT_Mu3_Ele8_CaloIdL_TrkIdVL_HT160
