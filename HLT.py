@@ -1,1 +1,1 @@
-add trigger type paths
+rename triple electron paths
