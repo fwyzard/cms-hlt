@@ -1,1 +1,1 @@
-add _v1
+add trigger type paths
