@@ -1,1 +1,1 @@
-official GlobalTag for 3.11.0
+Created by ConfDBCreateConfig from master /dev/CMSSW_3_11_0/HLT/V17.
