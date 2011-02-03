@@ -1,1 +1,1 @@
-fix typo in prescaler module name
+remove HLT_Mu3_Ele8_CaloIdL_TrkIdVL_HT160_v1 [broken]
