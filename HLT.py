@@ -1,1 +1,1 @@
-from Chris: fix HLT_Photon20_R9Id_Photon18_R9Id_v1
+from Chris: do not unpack HO for photon paths
