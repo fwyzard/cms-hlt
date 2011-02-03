@@ -1,1 +1,1 @@
-from Simone: fix HLTPFTauSequence
+from Chris: fix H/E modules
