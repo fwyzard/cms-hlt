@@ -1,1 +1,1 @@
-Replacing 4 e+j paths with lower-threshold ones (25=?22)
+Add/remove EG triggers (Jeff)
