@@ -1,1 +1,1 @@
-fixup seed
+Damn lazy tau people
