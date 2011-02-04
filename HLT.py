@@ -1,1 +1,1 @@
-Fixup typo in InputTag
+Fixup of InputTag
