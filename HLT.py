@@ -1,1 +1,1 @@
-Import 3 paths from Sam
+Rename path to HLT_DoublePhoton33
