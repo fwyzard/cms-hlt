@@ -1,1 +1,1 @@
-fix HLT_DoubleMu3_Bs_v1
+from Luca: update quarkonia paths
