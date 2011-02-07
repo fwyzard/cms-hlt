@@ -1,1 +1,1 @@
-from Luca: update quarkonia paths
+from Cristina: import HLT_QuadJet40_IsoPFTau40_v1
