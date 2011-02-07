@@ -1,1 +1,1 @@
-Fixup HLTAnalyzerEndpath (add producer needed for l1 report module)
+from Cristina: update HLT_QuadJet20_IsoPFTau_PFMHT_v1
