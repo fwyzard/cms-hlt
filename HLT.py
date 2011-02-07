@@ -1,1 +1,1 @@
-add output modules and endpaths
+Fixup HLTAnalyzerEndpath (add producer needed for l1 report module)
