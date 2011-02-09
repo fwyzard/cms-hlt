@@ -1,1 +1,1 @@
-rename hltGroup78
+clean HLTPFTauTightIsoSequence
