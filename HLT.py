@@ -1,1 +1,1 @@
-add versions to HLT_LogMonitor and HLT_ZeroBias
+Migration anf fixup of module label
