@@ -1,1 +1,1 @@
-rename some PFTau modules
+rename all HLTEgammaL1MatchFilterRegional modules
