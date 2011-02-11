@@ -1,1 +1,1 @@
-from Jeff: rename HLTDoublePhoton33Sequence
+from Jeff: more fixes/renaming
