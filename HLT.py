@@ -1,1 +1,1 @@
-rename L1 muon modules
+change *all* muon modules to use the hltOnlineBeamSpot
