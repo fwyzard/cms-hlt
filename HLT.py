@@ -1,1 +1,1 @@
-from Jeff: fix the configuration of more EGamma modules
+from Jeff: fix HLT_Ele90_NoSpikeFilter_v1
