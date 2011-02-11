@@ -1,1 +1,1 @@
-from Jeff: rename part of the hltGroupNN modules
+from Jeff: remove HLT_Photon32_Photon26_CaloIdL_v1
