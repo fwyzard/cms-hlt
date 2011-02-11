@@ -1,1 +1,1 @@
-fix HLT_Ele8_v1
+from Jeff: rename part of the hltGroupNN modules
