@@ -1,1 +1,1 @@
-rename unseeded R9 producer to hltUnseededR9shape
+from Jeff: fix the configuration of more EGamma modules
