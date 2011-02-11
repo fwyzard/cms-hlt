@@ -1,1 +1,1 @@
-from Jeff: remove HLT_Photon32_Photon26_CaloIdL_v1
+from Jeff: rename HLTDoublePhoton33Sequence
