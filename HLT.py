@@ -1,1 +1,1 @@
-update *all* modules to use the hltOnlineBeamSpot
+from Alex: add missing SUSY paths
