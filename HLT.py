@@ -1,1 +1,1 @@
-from Luca: import onia monitoring paths
+update all module to use the hltOnlineBeamSpot (again)
