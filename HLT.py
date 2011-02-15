@@ -1,1 +1,1 @@
-add HLT_L2MuOpen_NoVertex_v1 (cosmic menu only)
+rename HLT_BeamHalo_v1 to HLT_L1_BeamHalo_v1
