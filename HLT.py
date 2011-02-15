@@ -1,1 +1,1 @@
-from Max: import HLT_Ele8_CaloIdL_TrkIdVL_v1
+from Luca: drop HLT_DoubleMu3_Upsilon_v1
