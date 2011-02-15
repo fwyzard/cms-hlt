@@ -1,1 +1,1 @@
-switch CentralJet80 paths to JetID and regional reco
+from Max: import HLT_Ele8_CaloIdL_TrkIdVL_v1
