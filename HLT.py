@@ -1,1 +1,1 @@
-from Luca: drop HLT_DoubleMu3_Upsilon_v1
+from Luca: add HLT_Mu5_L2Mu2_v2
