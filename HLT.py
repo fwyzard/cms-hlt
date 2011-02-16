@@ -1,1 +1,1 @@
-fix hltRegionalCosmicTracks
+fix prescale for HLT_RegionalCosmicTracking_v1
