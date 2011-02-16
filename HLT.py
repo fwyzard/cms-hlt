@@ -1,1 +1,1 @@
-Drop underscore "_" from module label
+Fixup tag
