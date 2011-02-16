@@ -1,1 +1,1 @@
-remove duplicate modules
+sort
