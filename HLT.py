@@ -1,1 +1,1 @@
-fix HLT_Mu5_Track5_Jpsi_v1 (my bad)
+remove redundant (and broken) filter from HLT_TechTrigHCALNoise_v2
