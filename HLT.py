@@ -1,1 +1,1 @@
-rename HLT_TechTrigHCALNoise_v2 to HLT_L1Tech_HBHEHO_totalOR_v1
+Fixup Ele 8 path
