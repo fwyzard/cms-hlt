@@ -1,1 +1,1 @@
-Fixup Ele 8 path
+Fix prescaler in path
