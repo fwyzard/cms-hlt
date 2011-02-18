@@ -1,1 +1,1 @@
-No underscores in module labels
+Import DQM stuff (requested by Luis)
