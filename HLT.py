@@ -1,1 +1,1 @@
-fill all DQM/HLTDQM/HLTMON streams
+set smart prescale for DQM stream
