@@ -1,1 +1,1 @@
-
+fix GlobalTag connection string
