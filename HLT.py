@@ -1,1 +1,1 @@
-populate A/HcalHPDNoise
+move OnlineErrors stream to "A" event content
