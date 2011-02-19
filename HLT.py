@@ -1,1 +1,1 @@
-set smart prescales for HLTDQM stream
+remove smart prescale from HLTDQMResults
