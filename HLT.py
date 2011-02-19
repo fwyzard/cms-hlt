@@ -1,1 +1,1 @@
-remove smart prescale from HLTDQMResults
+set smart prescale for HLTMON stream
