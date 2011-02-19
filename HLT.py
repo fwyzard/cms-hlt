@@ -1,1 +1,1 @@
-set smart prescale for DQM stream
+set smart prescale for Express stream
