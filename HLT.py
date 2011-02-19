@@ -1,1 +1,1 @@
-fill HLTDQM stream
+fill all DQM/HLTDQM/HLTMON streams
