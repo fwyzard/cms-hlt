@@ -1,1 +1,1 @@
-set smart prescale for Express stream
+set smart prescales for HLTDQM stream
