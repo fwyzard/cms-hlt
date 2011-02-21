@@ -1,1 +1,1 @@
-More tau fixups
+fix L1 seed for cosmic paths
