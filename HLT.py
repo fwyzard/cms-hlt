@@ -1,1 +1,1 @@
-remove HI datasets
+fix GlobalTag connection string
