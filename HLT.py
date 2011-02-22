@@ -1,1 +1,1 @@
-Add 3 paths to other streams/PDs
+Dropping "Single" in path/module names
