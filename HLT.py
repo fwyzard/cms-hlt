@@ -1,1 +1,1 @@
-Adding new paths to Commissioning PD/stream A
+Add 3 paths to other streams/PDs
