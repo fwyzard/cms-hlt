@@ -1,1 +1,1 @@
-Dropping "Single" in path/module names
+Add 3 gluino paths to 3 smart prescalers
