@@ -1,1 +1,1 @@
-Add IsoMu paths to 3 smart prescalers
+Change to CosmicNavigationSchool in hltL3TrackCandidateFromL2NoVtx/HLT_L3MuonsCosmicTracking
