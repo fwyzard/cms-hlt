@@ -1,1 +1,1 @@
-Adding new IsoMu paths to PDs/streams
+Add IsoMu paths to 3 smart prescalers
