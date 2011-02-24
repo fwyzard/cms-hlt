@@ -1,1 +1,1 @@
-add HLT_L1SingleJet36
+add HLT_L1SingleEG5
