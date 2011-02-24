@@ -1,1 +1,1 @@
-add ExpressCosmics dataset
+add HLT_L1SingleJet36
