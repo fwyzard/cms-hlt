@@ -1,1 +1,1 @@
-add HLT_L1SingleEG5
+sort
