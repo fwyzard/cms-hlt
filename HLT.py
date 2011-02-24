@@ -1,1 +1,1 @@
-update HLTDQM and HLTMON smart prescales
+update DQM smart prescae
