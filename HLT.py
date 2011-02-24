@@ -1,1 +1,1 @@
-Change to CosmicNavigationSchool in hltL3TrackCandidateFromL2NoVtx/HLT_L3MuonsCosmicTracking
+Fix ALCA eventcontent as per request Stephanie
