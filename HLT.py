@@ -1,1 +1,1 @@
-Addining another insane DT parameter doVdriftCorr=false
+Adding missing HLTEndSequence to HT360
