@@ -1,1 +1,1 @@
-Adding missing HLTEndSequence to HT360
+Migration for extended VBF filter
