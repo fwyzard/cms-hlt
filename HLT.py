@@ -1,1 +1,1 @@
-revert some migration changes
+fix typo
