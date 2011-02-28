@@ -1,1 +1,1 @@
-fix typo
+fix value of (unused) new parameter
