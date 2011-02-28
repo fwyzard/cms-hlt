@@ -1,1 +1,1 @@
-migrate to more recent templates
+revert some migration changes
