@@ -1,1 +1,1 @@
-Adapt smart prescales to new/versioned paths
+Fixup smart prescaler for AlCa path with new version number
