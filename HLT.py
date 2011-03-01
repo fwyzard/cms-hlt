@@ -1,1 +1,1 @@
-Importing HLT_Activity_L1A
+Rename sequence to HLTDoJet30HTRecoSequence
