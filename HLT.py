@@ -1,1 +1,1 @@
-Bumping version number for changed *HT* paths
+Add new HT260 path to PDs
