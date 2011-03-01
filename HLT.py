@@ -1,1 +1,1 @@
-More version numbers
+Bumping version number for changed *HT* paths
