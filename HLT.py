@@ -1,1 +1,1 @@
-Fixup smart prescaler for AlCa path with new version number
+More smart prescaler fixup (not so smart without ConfDb support - whi invents this nightmare?)
