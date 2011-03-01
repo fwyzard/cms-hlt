@@ -1,1 +1,1 @@
-Rename sequence to HLTDoJet30HTRecoSequence
+Import from Massimiliano
