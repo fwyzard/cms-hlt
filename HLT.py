@@ -1,1 +1,1 @@
-Add new HT260 path to PDs
+Add new photon paths to PDs
