@@ -1,1 +1,1 @@
-Fixup nanoDST/ HLT_Physics_v1 prescales (std and smart)
+Really remove HLT_Activity_L1A
