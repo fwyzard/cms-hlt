@@ -1,1 +1,1 @@
-update MultiJet PD
+define MinimumBias PD
