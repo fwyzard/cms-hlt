@@ -1,1 +1,1 @@
-define ElectronHad PD
+define MuEG PD
