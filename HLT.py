@@ -1,1 +1,1 @@
-define MuEG PD
+update MuHad PD
