@@ -1,1 +1,1 @@
-define MuHad PD
+define the Photon PD
