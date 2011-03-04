@@ -1,1 +1,1 @@
-define DoubleElectron PD
+define ElectronHad PD
