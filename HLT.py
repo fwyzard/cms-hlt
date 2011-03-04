@@ -1,1 +1,1 @@
-define SingleMu PD
+define MuHad PD
