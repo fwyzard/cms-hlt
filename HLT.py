@@ -1,1 +1,1 @@
-define MuOnia PD
+define SingleElectron
