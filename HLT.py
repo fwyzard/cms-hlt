@@ -1,1 +1,1 @@
-define the Photon PD
+define the PhotonHad PD
