@@ -1,1 +1,1 @@
-define SingleElectron
+define DoubleElectron PD
