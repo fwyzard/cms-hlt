@@ -1,1 +1,1 @@
-Added parameters from Slava in MuonIdProducer hltMuTkMuJpsiTrackerMuons
+Remove deleted paths from smart prescalers
