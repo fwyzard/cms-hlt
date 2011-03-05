@@ -1,1 +1,1 @@
-Remove deleted paths from smart prescalers
+drop HLT_QuadJet65
