@@ -1,1 +1,1 @@
-Use BeignBPTX sequence in a few ele/ele+X paths
+Added parameters from Slava in MuonIdProducer hltMuTkMuJpsiTrackerMuons
