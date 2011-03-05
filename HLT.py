@@ -1,1 +1,1 @@
-remove HLT_Mu5_Track0_Jpsi_B5Q7
+Remove L1_SingleIsoEG5 from AlCa pi0/eta
