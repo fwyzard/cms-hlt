@@ -1,1 +1,1 @@
-update prescales for HT160
+specify the DQM folder for DT modules explicitly [DT/FEDIntegrity_EvF]
