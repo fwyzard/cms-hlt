@@ -1,1 +1,1 @@
-tentative - adapt smart prescales
+update prescales for 7e31
