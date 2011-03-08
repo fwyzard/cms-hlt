@@ -1,1 +1,1 @@
-Bump version number in BTagMu paths
+Propagate renaming to smart prescalers
