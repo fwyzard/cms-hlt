@@ -1,1 +1,1 @@
-Fix label in new module of DQM_FEDIntegrity
+Bump version number of FEDIntegrity path
