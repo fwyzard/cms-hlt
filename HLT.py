@@ -1,1 +1,1 @@
-Bump version number of FEDIntegrity path
+Prescale again DQM_FEDIntegrity by 10
