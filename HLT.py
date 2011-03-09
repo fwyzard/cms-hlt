@@ -1,1 +1,1 @@
-Remove added paths
+Change from BPTX to normal Begin sequence
