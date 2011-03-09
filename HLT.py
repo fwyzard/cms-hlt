@@ -1,1 +1,1 @@
-Changes from Jeff
+Remove added paths
