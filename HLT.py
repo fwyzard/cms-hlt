@@ -1,1 +1,1 @@
-remove HLT_Mu5_Track5_Jpsi
+remove HLT_DoublePhoton32_CaloIdL
