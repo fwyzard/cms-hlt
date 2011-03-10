@@ -1,1 +1,1 @@
-remove HLT_DoublePhoton32_CaloIdL
+add back HLT_DoubleMu3_Upsilon
