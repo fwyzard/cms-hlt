@@ -1,1 +1,1 @@
-update BPTX gating and veto configurations for new L1 menu
+ad doublemu0 paths to PD
