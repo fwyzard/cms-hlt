@@ -1,1 +1,1 @@
-sort
+renamed displaced jet path to HLT_HT240_DoubleDisplacedJet60_v1
