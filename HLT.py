@@ -1,1 +1,1 @@
-disable HLT_L2MuOpen_NoVertex for collisions menu
+sort
