@@ -1,1 +1,1 @@
-fix prescale for NanoDST
+fix prescales for mu triggers
