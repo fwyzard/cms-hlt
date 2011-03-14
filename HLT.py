@@ -1,1 +1,1 @@
-fix prescales for mu triggers
+update prescale for HLT_Photon125_NoSpikeFilter
