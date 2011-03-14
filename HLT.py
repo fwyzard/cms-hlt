@@ -1,1 +1,1 @@
-from Bryn: import HT_AlphaT paths
+from Max: import new lot of HT paths
