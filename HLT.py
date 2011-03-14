@@ -1,1 +1,1 @@
-renamed displaced jet path to HLT_HT240_DoubleDisplacedJet60_v1
+update prescales for HLT_L1SingleMuOpen*
