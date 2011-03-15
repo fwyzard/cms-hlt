@@ -1,1 +1,1 @@
-from Max: update L1 seeds for new HT paths
+from Bryn: update L1 seeds for AlphaT paths
