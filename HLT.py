@@ -1,1 +1,1 @@
-add more HT fun triggers
+remove BPTX gating from Ele17 + DijetDeta2 paths
