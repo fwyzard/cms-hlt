@@ -1,1 +1,1 @@
-from Bryn: update L1 seeds for AlphaT paths
+remove old HT paths
