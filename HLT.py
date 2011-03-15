@@ -1,1 +1,1 @@
-remove BPTX gating from Ele17 + DijetDeta2 paths
+from Max: update L1 seeds for new HT paths
