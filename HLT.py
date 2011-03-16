@@ -1,1 +1,1 @@
-migrate to HLT18
+reset new parameter to restore previous behaviour
