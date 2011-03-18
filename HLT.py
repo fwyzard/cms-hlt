@@ -1,1 +1,1 @@
-fix useless parameters in hltEle17CaloIdVTCaloIsoVTTrkIdTTrkIsoVTSC8PMMassFilter
+fix again hltEle17CaloIdVTCaloIsoVTTrkIdTTrkIsoVTSC8PMMassFilter, now that Jeff gave more info
