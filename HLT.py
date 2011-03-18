@@ -1,1 +1,1 @@
-add new 3-hit egamma ESproducers
+Fix alphaT HtMHT module configs (11)
