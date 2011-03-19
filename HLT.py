@@ -1,1 +1,1 @@
-fix again hltEle17CaloIdVTCaloIsoVTTrkIdTTrkIsoVTSC8PMMassFilter, now that Jeff gave more info
+update Photon and SingleElectron datasets
