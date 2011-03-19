@@ -1,1 +1,1 @@
-bump version of all modified paths
+rename HLT_L1MuOpen_AntiBPTX_v2 to HLT_L1SingleMuOpen_AntiBPTX_v1
