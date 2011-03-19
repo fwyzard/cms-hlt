@@ -1,1 +1,1 @@
-remove ExpressCosmics stream
+remove Cosmics prescale column
