@@ -1,1 +1,1 @@
-update dqm-like streams
+update smart prescales
