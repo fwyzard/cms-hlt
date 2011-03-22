@@ -1,1 +1,1 @@
-But not in Mu8Jet40 path
+add HLT_Activity_Ecal_SC7_v1
