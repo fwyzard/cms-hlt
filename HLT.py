@@ -1,1 +1,1 @@
-add more 2.76 TeV paths
+fix for 2.76
