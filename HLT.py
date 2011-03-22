@@ -1,1 +1,1 @@
-set prescales for 200bunches (no L1 yet)
+from Jason: update HLTDQM event content
