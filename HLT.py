@@ -1,1 +1,1 @@
-Bump up version number for Jim's 3 paths
+Rename lable to follow convention
