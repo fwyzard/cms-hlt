@@ -1,1 +1,1 @@
-More prescale adjustment as requested by Steph (AlCa)
+Import 3 paths from Jim (stopped gluinos)
