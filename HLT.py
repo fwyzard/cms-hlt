@@ -1,1 +1,1 @@
-Import event contents again
+Restore V38 (revert event content import)
