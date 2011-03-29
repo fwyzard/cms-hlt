@@ -1,1 +1,1 @@
-Imported event conetnt again (need to remove obsolete keep statements nevertheless)
+from Massimiliano: rop HLT_DiJetXXX_PTXXX paths
