@@ -1,1 +1,1 @@
-add HLTEndSequence to HLT_DoubleMu3_LowMass_v1
+fix prescale
