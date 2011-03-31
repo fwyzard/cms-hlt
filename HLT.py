@@ -1,1 +1,1 @@
-set tsFromDB=false
+migrate to HLT19
