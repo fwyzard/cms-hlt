@@ -1,1 +1,1 @@
-Adding 3 spike study paths (for reference)
+Add 3 spike paths to Commissioning PD
