@@ -1,1 +1,1 @@
-change ZeroBias bit from tech 4 to algo 0
+from Leonardo Di Matteo: update VBF triggers
