@@ -1,1 +1,1 @@
-Adding more path to ExpressPhysics
+Add new ES paths to smart prescale for Express
