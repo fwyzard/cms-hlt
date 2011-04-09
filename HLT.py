@@ -1,1 +1,1 @@
-HLT_Mu5_L2Mu2_Jpsi_v2
+HLT_DoubleMu2_Bs_v1
