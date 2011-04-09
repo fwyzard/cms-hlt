@@ -1,1 +1,1 @@
-Adding BPH paths to monitoring PDs
+Remove obsolete BPH paths from MuOnia PD
