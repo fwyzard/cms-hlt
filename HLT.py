@@ -1,1 +1,1 @@
-HLT_DoubleMu2_Bs_v1
+Remove all BSoftMuon products (revised list of these still to be added)
