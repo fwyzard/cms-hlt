@@ -1,1 +1,1 @@
-Fix saveTag config problem in SC7 egamma path
+Chnahe from L1Mu3EG5 to L1MuOpenEG5
