@@ -1,1 +1,1 @@
-Removing the 7 obsolete BPH paths also from the monitoring PDs
+Importing HLTDQM/HLTMON event content from Jason
