@@ -1,1 +1,1 @@
-add back lost ignore/invert
+from Arlo: add more missing operators
