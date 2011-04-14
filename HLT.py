@@ -1,1 +1,1 @@
-fix some PFTau modules to use the correct InputTags
+more PFTau fixes from Josh
