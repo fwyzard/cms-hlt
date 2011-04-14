@@ -1,1 +1,1 @@
-bump version number for PFTau/PFMHT paths
+fix some PFTau modules to use the correct InputTags
