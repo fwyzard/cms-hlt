@@ -1,1 +1,1 @@
-sort
+add back lost ignore/invert
