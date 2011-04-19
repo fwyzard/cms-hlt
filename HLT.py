@@ -1,1 +1,1 @@
-more PFTau fixes from Josh
+minor update to event content from Hwidong and Josh
