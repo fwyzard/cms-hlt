@@ -1,1 +1,1 @@
-update prescales for up to 1e33
+fix prescale module for HLT_Mu17_DiCentralJet30
