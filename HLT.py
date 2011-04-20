@@ -1,1 +1,1 @@
-fix prescale module for HLT_Mu17_CentralJet30
+bump version of HLT_Mu17_***CentralJet30 paths
