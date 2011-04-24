@@ -1,1 +1,1 @@
-Re-version DiJetAve paths
+Add DiJetAve also to moitor smart prescales
