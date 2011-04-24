@@ -1,1 +1,1 @@
-Align 3 HLT_Ele8 prescales as multiples of 4.
+Adding 9 DiJetAve paths to 3 monitoring PDs
