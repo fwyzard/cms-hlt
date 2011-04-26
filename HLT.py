@@ -1,1 +1,1 @@
-from Jeff: add more EGamma paths
+remove one EGamma path
