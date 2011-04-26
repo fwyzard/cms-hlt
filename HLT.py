@@ -1,1 +1,1 @@
-
+drop obsolete paths
