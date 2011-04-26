@@ -1,1 +1,1 @@
-from Alex Mott: update HF configuration for 50ns readout
+from Leonardo Di Matteo: add paths for H -> WW -> lnjj
