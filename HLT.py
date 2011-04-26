@@ -1,1 +1,1 @@
-from Jeff: update
+from Jeff: add more EGamma paths
