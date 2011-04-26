@@ -1,1 +1,1 @@
-set prescales
+sorting
