@@ -1,1 +1,1 @@
-switch off old Razor control triggers
+from Alex Mott: update HF configuration for 50ns readout
