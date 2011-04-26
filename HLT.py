@@ -1,1 +1,1 @@
-Add DiJetAve also to moitor smart prescales
+switch off old Razor control triggers
