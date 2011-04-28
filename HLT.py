@@ -1,1 +1,1 @@
-remove obsolete razor paths
+remove obsolete ECAL spike commissioning paths
