@@ -1,1 +1,1 @@
-fix HLT_HT450_v3
+remove unused module "hltJet40Ht" from all paths
