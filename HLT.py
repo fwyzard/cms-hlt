@@ -1,1 +1,1 @@
-Relabel module instances to start with hlt*, remove unreferenced sequences
+remove older SUSY paths, and add _v1 to all new paths
