@@ -1,1 +1,1 @@
-add HLT_Mu12_CentralJet30_BTagIP_v2
+remove obsolete razor paths
