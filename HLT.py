@@ -1,1 +1,1 @@
-remove obsolete ECAL spike commissioning paths
+update HT modules to restrict it to |eta| < 3
