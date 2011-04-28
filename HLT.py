@@ -1,1 +1,1 @@
-Fixup of migration step
+Correct value for new parameter
