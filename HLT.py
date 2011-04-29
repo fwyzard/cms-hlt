@@ -1,1 +1,1 @@
-update HT modules to restrict it to |eta| < 3
+revert to V4 (V5 needs proper validation)
