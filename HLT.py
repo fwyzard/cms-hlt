@@ -1,1 +1,1 @@
-Update in HCal and HF from Jeff Temple
+from Jeff: fix hltPhoton125HEFilter, which broke when importing the updated configuration
