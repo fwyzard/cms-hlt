@@ -1,1 +1,1 @@
-from David Lopes-Pegna: add HLT_DiCentralJet20_MET80 and HLT_DiCentralJet20_BTagIP_MET65
+rename CentralDiJet to DiCentralJet everywhere (same for Tri)
