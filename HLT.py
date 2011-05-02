@@ -1,1 +1,1 @@
-rename
+rename BTagIP SUSY paths
