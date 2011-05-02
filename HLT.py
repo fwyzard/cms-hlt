@@ -1,1 +1,1 @@
-from Joshua Swanson: add 1e33 pfTau paths
+from Joshua Swanson: drop 5e32 pfTau paths
