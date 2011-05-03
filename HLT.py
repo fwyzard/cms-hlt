@@ -1,1 +1,1 @@
-update PaticleFlow configuration for 4.2.x
+migrate to HLT24 (in progress)
