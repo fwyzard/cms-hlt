@@ -1,1 +1,1 @@
-update PhotonHad dataset
+update Photon dataset
