@@ -1,1 +1,1 @@
-more saveTags
+set ALL saveTags to True
