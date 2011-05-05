@@ -1,1 +1,1 @@
-fix EgammaSCCorrectionMaker modules
+fix HcalHitReconstructor
