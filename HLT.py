@@ -1,1 +1,1 @@
-Add paths to OfflineMonitor
+Add paths to OnlineHLTMonitor
