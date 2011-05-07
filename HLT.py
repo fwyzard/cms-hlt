@@ -1,1 +1,1 @@
-from Alex: add HLT_MET***_HBHENoiseFiltered paths
+from Massimiliano: add Razor and HT_MHT backup paths
