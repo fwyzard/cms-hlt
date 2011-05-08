@@ -1,1 +1,1 @@
-from Massimiliano: add Razor and HT_MHT backup paths
+bump all versions (with respect to "5e32" v8.3)
