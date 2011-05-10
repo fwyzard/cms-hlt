@@ -1,1 +1,1 @@
-increase hltPixelTacks window to +/- 24cm for all paths (in preparation for PFlow updates)
+update all Particle Flow configurations, and replace HT plus DoubleLooseIsoPFTau paths with DoubleIsoPFTau counterparts
