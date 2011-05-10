@@ -1,1 +1,1 @@
-update all Particle Flow configurations, and replace HT plus DoubleLooseIsoPFTau paths with DoubleIsoPFTau counterparts
+Move GlobalTag to GR_H_V19
