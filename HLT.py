@@ -1,1 +1,1 @@
-Rename new path from Sam
+and seed
