@@ -1,1 +1,1 @@
-Created by ConfDBCreateConfig from master /dev/CMSSW_4_2_0/HLT/V241.
+Chaneg GT to GR_R_42_V12
