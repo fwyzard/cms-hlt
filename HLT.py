@@ -1,1 +1,1 @@
-Move GlobalTag to GR_H_V19
+Fixup of HLT_Ele17_CaloIdVT_CaloIsoVT_TrkIdT_TrkIsoVT_Ele8_Mass30 (Jeff to check)
