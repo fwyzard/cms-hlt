@@ -1,1 +1,1 @@
-Fixup of HLT_Ele17_CaloIdVT_CaloIsoVT_TrkIdT_TrkIsoVT_Ele8_Mass30 (Jeff to check)
+Moving two HLT_DoubleEle33* paths from DoubleElectron to Photon PD
