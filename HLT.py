@@ -1,1 +1,1 @@
-Adding forgotten HLT_Photon50_CaloIdVL path
+Remove Ele45 from PDs/streams
