@@ -1,1 +1,1 @@
-Remove Ele45 from PDs/streams
+Removing obsolete egamma paths (3)
