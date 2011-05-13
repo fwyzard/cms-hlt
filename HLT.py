@@ -1,1 +1,1 @@
-Migrate for (so far unused) RecoVertex/PrimaryVertexProducer/python/OfflinePixel3DPrimaryVertices template
+Adding 3 swissCross parameters to cleaning PSet of the 5 ecal EcalRawToRecHitProducer instances
