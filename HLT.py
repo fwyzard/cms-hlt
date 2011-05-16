@@ -1,1 +1,1 @@
-Appending _v1 to path
+Remove two paths no longer needed
