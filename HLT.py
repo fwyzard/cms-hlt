@@ -1,1 +1,1 @@
-Update three muon razor paths (Alex Mott)
+Adding 9 (of 12) described tau updates from Joshua
