@@ -1,1 +1,1 @@
-Migration for JetMET and HcalRec tagsets
+Adding JetIDParams PSet members to HLTJetIDProducer instances
