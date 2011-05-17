@@ -1,1 +1,1 @@
-Append _v1
+Add new HSCP paths to the three monitoring datasets
