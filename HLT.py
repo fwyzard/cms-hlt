@@ -1,1 +1,1 @@
-Adding HLT_CentralJet46_BTagIP3D_CentralJet38_BTagIP3D_v1
+Remove HLT_L1Tech_BSC_halo as requested by Stephanie
