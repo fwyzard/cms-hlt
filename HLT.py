@@ -1,1 +1,1 @@
-Adding new tau paths to primary datasets
+Remove 4 obsolete tau paths
