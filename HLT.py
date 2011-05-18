@@ -1,1 +1,1 @@
-Update of the two HLT_IsoTrack* paths
+Migrate for new egamma filter
