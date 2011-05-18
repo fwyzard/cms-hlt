@@ -1,1 +1,1 @@
-Fixup prescales
+Follow module label convention hlt*
