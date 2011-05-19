@@ -1,1 +1,1 @@
-Follow module label convention hlt*
+Swap modules depending on each other in Sequence
