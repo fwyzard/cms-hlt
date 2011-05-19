@@ -1,1 +1,1 @@
-Fix order of modules in HLTMu5DoubleEle8CaloIdLTrkIdVLSequence
+from Leonardo Di Matteo: add 2e33 H --> WW --> evjj triggers
