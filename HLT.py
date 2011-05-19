@@ -1,1 +1,1 @@
-Revert to V304
+Fix order of modules in HLTMu5DoubleEle8CaloIdLTrkIdVLSequence
