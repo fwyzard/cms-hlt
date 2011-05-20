@@ -1,1 +1,1 @@
-JetID fixup of HLT_CentralJet80_MET80HF (special JetID used)
+Apply JetID cut on n90hits (rather than n90)
