@@ -1,1 +1,1 @@
-Import HLTDQM and HLTMON eventcontent again
+Migrate for new JetMET FatMassJet plugins for friends of SUSY
