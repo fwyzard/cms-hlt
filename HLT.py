@@ -1,1 +1,1 @@
-Fix HLT_HT250_MHT80 (wrong filter module)
+Proper corrected jets in hltMHTxx filters
