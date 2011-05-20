@@ -1,1 +1,1 @@
-Migrate for new JetMET FatMassJet plugins for friends of SUSY
+Fix HLT_HT250_MHT80 (wrong filter module)
