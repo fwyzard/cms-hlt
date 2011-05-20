@@ -1,1 +1,1 @@
-Importing EventContent HLTMON/HLTDQM from jason
+Import HLTDMQ/HLTMON
