@@ -1,1 +1,1 @@
-bump paths' version
+fix output modules
