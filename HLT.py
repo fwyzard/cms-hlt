@@ -1,1 +1,1 @@
-SmartPrescalers 2/3
+SmartPrescalers 3/3
