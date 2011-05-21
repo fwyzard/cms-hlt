@@ -1,1 +1,1 @@
-from Jason: update event content
+bump paths' version
