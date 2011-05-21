@@ -1,1 +1,1 @@
-SmartPrescalers 3/3
+Fix label in module
