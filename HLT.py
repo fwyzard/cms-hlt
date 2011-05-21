@@ -1,1 +1,1 @@
-Revert to V346
+remove HLT_L2MuOpen_NoVertex_v2 from all streams
