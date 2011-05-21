@@ -1,1 +1,1 @@
-remove HLT_L2MuOpen_NoVertex_v2 from all streams
+update smart prescales
