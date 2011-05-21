@@ -1,1 +1,1 @@
-Fixup Express SmartPrescale
+Add paths to smart prescaler 1/3
