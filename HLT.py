@@ -1,1 +1,1 @@
-update smart prescales
+Import of 10 top paths
