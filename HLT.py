@@ -1,1 +1,1 @@
-Add paths to smart prescaler 1/3
+SmartPrescalers 2/3
