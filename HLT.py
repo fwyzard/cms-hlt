@@ -1,1 +1,1 @@
-Cleanup of unref'd sequence
+from Leonardi Di Mattoe: update H --> WW --> evjj triggers
