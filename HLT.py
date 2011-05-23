@@ -1,1 +1,1 @@
-Fixup of HLT_Ele10_CaloIdT_TrkIdVL_CaloIsoVL_TrkIsoVL_R020_MR200_v2 (InputTag)
+Fixup InputTag in two HLT_Dimuon0_* paths
