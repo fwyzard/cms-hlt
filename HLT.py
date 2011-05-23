@@ -1,1 +1,1 @@
-from Leonardi Di Mattoe: update H --> WW --> evjj triggers
+Fixup of HLT_Ele10_CaloIdT_TrkIdVL_CaloIsoVL_TrkIsoVL_R020_MR200_v2 (InputTag)
