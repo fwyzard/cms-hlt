@@ -1,1 +1,1 @@
-include new paths in DQM-like streams
+add HLT_MET65_HBHENoiseFiltered_v1
