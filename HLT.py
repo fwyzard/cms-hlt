@@ -1,1 +1,1 @@
-add HLT_MET65_HBHENoiseFiltered_v1
+extend array in hltParticleFlowBlockForTaus to 5 elements (fix pflow invalid behaviour in fastsim)
