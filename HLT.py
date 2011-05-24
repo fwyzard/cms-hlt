@@ -1,1 +1,1 @@
-add HLT_MET65_v1
+from Jeff: set hltL1NonIsoHLTNonIsoTripleElectronEt10PixelMatchFilter.saveTags = False
