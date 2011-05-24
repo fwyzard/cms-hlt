@@ -1,1 +1,1 @@
-import May 19th "razor" paths
+include new paths in DQM-like streams
