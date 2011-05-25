@@ -1,1 +1,1 @@
-add CaloJetCorrected collections to HLTMON and HLTDQM
+remove some old keep statements
