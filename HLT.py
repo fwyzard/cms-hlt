@@ -1,1 +1,1 @@
-add "keep *_hltOnlineBeamSpot_*_*" for HLTMON and HLTDQM
+add CaloJetCorrected collections to HLTMON and HLTDQM
