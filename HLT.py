@@ -1,1 +1,1 @@
-merge prescale updates with TMD numbers
+update MHT and Photon+HT/MHT triggers to NOT use JetID
