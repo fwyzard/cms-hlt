@@ -1,1 +1,1 @@
-in progress: merge prescales from TMD
+merge prescale updates with TMD numbers
