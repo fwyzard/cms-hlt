@@ -1,1 +1,1 @@
-add pathas to DQM
+fix smart prescales for new paths
