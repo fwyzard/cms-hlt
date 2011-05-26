@@ -1,1 +1,1 @@
-add to HLTMON and HLTDQM
+add pathas to DQM
