@@ -1,1 +1,1 @@
-from Maurizio: import high-pt btag and fatjet triggers
+add new paths to Jet/HT
