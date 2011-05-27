@@ -1,1 +1,1 @@
-Created by ConfDBCreateConfig from master /dev/CMSSW_4_2_0/HLT/V405.
+remove cosmics column
