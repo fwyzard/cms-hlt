@@ -1,1 +1,1 @@
-add exotica paths to streams and datasets
+set smart prescales
