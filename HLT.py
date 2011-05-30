@@ -1,1 +1,1 @@
-set smart prescales
+add to daatsets and set smart prescales
