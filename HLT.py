@@ -1,1 +1,1 @@
-add HLT_Mu12_DiCentralJet20_DiBTagIP3D1stTrack as backup for HLT_Mu12_DiCentralJet30_BTagIP3D
+import hltESPTrackCounting3D1st (needed for new bbH path)
