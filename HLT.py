@@ -1,1 +1,1 @@
-add to daatsets and set smart prescales
+add H --> WW --> evjj triggers to ElectronHad and monitoring datasets
