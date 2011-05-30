@@ -1,1 +1,1 @@
-set prescales for HT + J/Psi trigger
+add HLT_Mu12_DiCentralJet20_DiBTagIP3D1stTrack as backup for HLT_Mu12_DiCentralJet30_BTagIP3D
