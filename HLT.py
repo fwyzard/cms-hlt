@@ -1,1 +1,1 @@
-from Jef: import/update the 1.4e3 paths
+from Jeff: remove obsolete egamma paths
