@@ -1,1 +1,1 @@
-add HLT_DoublePhoton38_HEVT to dataset and smart presca;es
+add HLT_Photon* paths to datasets
