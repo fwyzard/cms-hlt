@@ -1,1 +1,1 @@
-add H --> WW --> evjj triggers to ElectronHad and monitoring datasets
+set prescales for HT + J/Psi trigger
