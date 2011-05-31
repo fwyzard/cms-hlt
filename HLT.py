@@ -1,1 +1,1 @@
-fix input tags in hltDoubleEG5EtFilterUnseeded (used in HLT_HT200_DoubleEle5_CaloIdVL_MassJPsi_v1)
+set SUSY prescales (from 2e33 twiki)
