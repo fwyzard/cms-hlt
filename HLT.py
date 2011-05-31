@@ -1,1 +1,1 @@
-set SUSY prescales (from 2e33 twiki)
+Created by ConfDBCreateConfig from master /dev/CMSSW_4_2_0/HLT/V431.
