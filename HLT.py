@@ -1,1 +1,1 @@
-set prescales for the H-->WW-->evjj triggers
+fix input tags in hltDoubleEG5EtFilterUnseeded (used in HLT_HT200_DoubleEle5_CaloIdVL_MassJPsi_v1)
