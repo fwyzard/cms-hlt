@@ -1,1 +1,1 @@
-add HLT_L2DoubleMu30_NoVertex to DoubleMu and monitoring datasets
+from Massimiliano: import HLT_DoubleEle8_CaloIdT_TrkIdVL, and addit to ElectronHad and monitoring datasets
