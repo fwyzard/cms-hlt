@@ -1,1 +1,1 @@
-Fixing inputtag in path HLT_DoubleEle10_CaloIdL_TrkIdVL_Ele10
+move DoubleEle45_CaloId to the Photon dataset
