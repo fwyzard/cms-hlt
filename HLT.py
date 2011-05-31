@@ -1,1 +1,1 @@
-rename Electron paths to follow the correct naming ocnvention
+rename photon trigger to match the e/gamma naming conventions
