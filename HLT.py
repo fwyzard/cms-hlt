@@ -1,1 +1,1 @@
-from Jeff: import HLT_Photon36_CaloIdVL_Photon22_CaloIdVL_v1
+set prescales for the H-->WW-->evjj triggers
