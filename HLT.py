@@ -1,1 +1,1 @@
-Add DoLocalStrip sequence in sequence used by HLT_HT200_DoubleEle5_CaloIdVL_MassJPsi_v1
+Fix another InputTag
