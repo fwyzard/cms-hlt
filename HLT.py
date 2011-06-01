@@ -1,1 +1,1 @@
-set SUSY prescales (from 2e33 twiki)
+Remove 6 obsolete H-WW-evjj paths
