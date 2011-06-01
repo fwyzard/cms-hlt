@@ -1,1 +1,1 @@
-remove unreferenced sequences, sort
+Remove HLT_DoubleEle8_CaloIdT_TrkIdT
