@@ -1,1 +1,1 @@
-fix duplicate prescales
+merge 3 identical L1 seed modules
