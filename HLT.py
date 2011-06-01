@@ -1,1 +1,1 @@
-bump path version numbers
+Add DoLocalStrip sequence in sequence used by HLT_HT200_DoubleEle5_CaloIdVL_MassJPsi_v1
