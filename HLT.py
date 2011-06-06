@@ -1,1 +1,1 @@
-rename prescaler modules to better match the path names
+remove BPTX coincidence requirement from all triggers
