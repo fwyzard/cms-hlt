@@ -1,1 +1,1 @@
-update hltMuons to use the hltOnlineBeamSpot
+set saveTags = True in BTagMU L3 filters
