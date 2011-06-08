@@ -1,1 +1,1 @@
-set saveTags = True in BTagMU L3 filters
+silence some more LogWarnings / LogErrors
