@@ -1,1 +1,1 @@
-fix prescale
+suppressError is not supported yet by CMSSW
