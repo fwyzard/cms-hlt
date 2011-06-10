@@ -1,1 +1,1 @@
-suppressError is not supported yet by CMSSW
+remove unneeded event content from ALCAP0 stream
