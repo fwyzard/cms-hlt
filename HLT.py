@@ -1,1 +1,1 @@
-Change Mu30 prescales in columns <=1E33
+Remove obsolete HLT_Mu8_R020_MR200_v3
