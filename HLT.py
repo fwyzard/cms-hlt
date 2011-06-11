@@ -1,1 +1,1 @@
-Remove obsolete HLT_Mu8_R020_MR200_v3
+drop hltTriggerSummaryAOD from ALCAP0 stream (size should now be ~12% tahn the original size)
