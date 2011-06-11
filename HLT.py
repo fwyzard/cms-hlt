@@ -1,1 +1,1 @@
-Prescale on SUSY JPsiee path at 2e33
+Remove another obsolete path
