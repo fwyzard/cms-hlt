@@ -1,1 +1,1 @@
-prescale
+swap HLT_Mu17_Ele8_CaloIdL for HLT_Mu17_Ele8_CaloIdT_CaloIsoVL in Express stream
