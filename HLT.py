@@ -1,1 +1,1 @@
-Fix InputTag in HLT_Ele22_CaloIdVT_TrkIdT_CentralJet30_CentralJet25
+fix saveTags, and bump version for HLT_Ele32_CaloIdT_CaloIsoT_TrkIdT_TrkIsoT_SC17
