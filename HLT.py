@@ -1,1 +1,1 @@
-remove Cosmics
+fix saveTags and bump version of HLT_Ele32_CaloIdT_CaloIsoT_TrkIdT_TrkIsoT_SC17
