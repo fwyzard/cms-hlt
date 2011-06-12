@@ -1,1 +1,1 @@
-add missing HLTEndSequence to HLT_R025_MR150
+Fix InputTag in HLT_Ele22_CaloIdVT_TrkIdT_CentralJet30_CentralJet25
