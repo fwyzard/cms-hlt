@@ -1,1 +1,1 @@
-Prescales on JPsiee and FatJetBtag paths
+Remove 4 e/g paths as per request (Jeff B.)
