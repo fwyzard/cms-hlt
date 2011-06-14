@@ -1,1 +1,1 @@
-fix saveTags, and bump version for HLT_Ele32_CaloIdT_CaloIsoT_TrkIdT_TrkIsoT_SC17
+Prescales on JPsiee and FatJetBtag paths
