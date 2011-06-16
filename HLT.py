@@ -1,1 +1,1 @@
-remove obsolete paths
+fix: movre path version bumps
