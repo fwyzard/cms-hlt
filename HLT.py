@@ -1,1 +1,1 @@
-Move HLT_Photon30_CaloIdVT_CentralJet20_BTagIP to PhotonHad PD
+Importing HLT_HT450_JetPt60_DPhi2p94
