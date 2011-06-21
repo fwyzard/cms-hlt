@@ -1,1 +1,1 @@
-Add HLT_CentralJet60_CentralJet53_DiBTagIP3D
+Move HLT_Photon30_CaloIdVT_CentralJet20_BTagIP to PhotonHad PD
