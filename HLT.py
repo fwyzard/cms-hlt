@@ -1,1 +1,1 @@
-Adding new path to the three Monitoring PDs
+Add new path to smart prescales with prescale 1
