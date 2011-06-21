@@ -1,1 +1,1 @@
-Add new path to ElectronHad PD
+saveTags=true in two hlt*BLifeTime3D* modules
