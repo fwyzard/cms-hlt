@@ -1,1 +1,1 @@
-saveTags=true in two hlt*BLifeTime3D* modules
+Add HLT_Mu12_DiCentralJet20_BTagIP3D1stTrack
