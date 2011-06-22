@@ -1,1 +1,1 @@
-Migrate for several new tags (always added parameters)
+Use BeginSequence instead on BeginBPTX
