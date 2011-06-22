@@ -1,1 +1,1 @@
-Use BeginSequence instead on BeginBPTX
+Remove unrefed sequences
