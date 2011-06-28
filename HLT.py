@@ -1,1 +1,1 @@
-remove test path
+remove unreferenced sequences
