@@ -1,1 +1,1 @@
-Fixup value of unused InputTag in HLTMhtHtFilter instances
+Adding already imported 4 SUSY paths to HT (more to go)
