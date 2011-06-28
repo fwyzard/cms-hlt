@@ -1,1 +1,1 @@
-Importing 2 updates from Massi
+Fixup value of unused InputTag in HLTMhtHtFilter instances
