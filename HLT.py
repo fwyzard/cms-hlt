@@ -1,1 +1,1 @@
-fix version of HLT_Dimuon10_Jpsi_Barrel
+celan up PFTau, and set postMuonCleaning=True (requires RecoParticleFlow/PFProducer V14-02-09-03)
