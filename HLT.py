@@ -1,1 +1,1 @@
-remove paths not needed in the June 9th menu
+fix version of HLT_Dimuon10_Jpsi_Barrel
