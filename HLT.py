@@ -1,1 +1,1 @@
-Adding Comparitor PSet to hltPixelTrack* and hltHITPixelTripletSeedGenerator* modules
+Add SeedCompariotPSet also to hltL3TrajSeedIOHit config
