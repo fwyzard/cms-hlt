@@ -1,1 +1,1 @@
-update L1 sees in HLT_HcalNZS
+update L1 seed for HLT_Mu17_Ele8_CaloIdT_CaloIsoVL
