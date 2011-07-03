@@ -1,1 +1,1 @@
-update L1 seeds for stopped gluino paths
+update L1 sees in HLT_HcalNZS
