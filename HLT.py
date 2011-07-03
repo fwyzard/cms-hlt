@@ -1,1 +1,1 @@
-change L1 seed of HLT_Mu3_Ele8_CaloIdT_CaloIsoVL to L1_Mu3_EG5
+update HLT_Mu5_DoubleEle8_CaloIdT_TrkIdVL and HLT_Mu5_Ele8_CaloIdT_TrkIdVL_Ele8_CaloIdL_TrkIdVL to use L1_MuOpen_DoubleEG5
