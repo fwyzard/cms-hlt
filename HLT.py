@@ -1,1 +1,1 @@
-update L1 seeds for Tau paths
+update L1 seeds for stopped gluino paths
