@@ -1,1 +1,1 @@
-update HLT_Mu5_DoubleEle8_CaloIdT_TrkIdVL and HLT_Mu5_Ele8_CaloIdT_TrkIdVL_Ele8_CaloIdL_TrkIdVL to use L1_MuOpen_DoubleEG5
+update L1 seeds for Tau paths
