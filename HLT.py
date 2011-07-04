@@ -1,1 +1,1 @@
-update L1 seed for HLT_GlobalRunHPDNoise
+update L1 seeds for Alca Pi0/Eta triggers
