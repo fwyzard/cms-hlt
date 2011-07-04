@@ -1,1 +1,1 @@
-fix order of modules in PHMHT + PFTau paths
+update L1 seed for HLT_GlobalRunHPDNoise
