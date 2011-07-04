@@ -1,1 +1,1 @@
-Remove two muon paths as per request
+Add new muon paths to smart prescalers
