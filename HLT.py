@@ -1,1 +1,1 @@
-update L1 seed for Onia paths
+from Max: update L1 seeds for SUSY and double muon paths
