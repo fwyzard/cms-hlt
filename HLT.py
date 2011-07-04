@@ -1,1 +1,1 @@
-fix HLT_Mu17_Ele8_CaloIdL
+fix HLT_Mu8_Ele17_CaloIdL, HLT_Mu8_Photon20_CaloIdVT_IsoT, HLT_Mu15_Photon20_CaloIdL
