@@ -1,1 +1,1 @@
-update prescales for Onia paths
+rename some prescalers to match the path names
