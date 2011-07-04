@@ -1,1 +1,1 @@
-Adding muon paths to PDs
+Remove two muon paths as per request
