@@ -1,1 +1,1 @@
-And another obsolete L1 seed removed
+add back JetId in HT and MHT paths
