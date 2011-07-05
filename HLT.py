@@ -1,1 +1,1 @@
-More cleanup
+Cleanup event content
