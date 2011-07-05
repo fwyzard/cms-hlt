@@ -1,1 +1,1 @@
-And another incorrect L1 seed
+And another obsolete L1 seed removed
