@@ -1,1 +1,1 @@
-add back JetId in HT and MHT paths
+Put JetID to Razor paths
