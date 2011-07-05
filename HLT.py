@@ -1,1 +1,1 @@
-Put JetID to Razor paths
+Fixup InputTag
