@@ -1,1 +1,1 @@
-Update hltPixelTracks
+Cleanup path of logically duplicate modules
