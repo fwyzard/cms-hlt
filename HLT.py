@@ -1,1 +1,1 @@
-Fix typo in L1 seed condition
+Another typo in L1 seed
