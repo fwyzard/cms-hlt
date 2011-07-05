@@ -1,1 +1,1 @@
-Cleanup event content
+Cleanup of unused PixelTrack_Multiplicity_Loose paths
