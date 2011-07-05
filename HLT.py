@@ -1,1 +1,1 @@
-Fixup InputTag is stupid duplicated paths
+Migrate for FatjetJetProducer with parameters restoring previous behaviour
