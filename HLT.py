@@ -1,1 +1,1 @@
-Another typo in L1 seed
+And another incorrect L1 seed
