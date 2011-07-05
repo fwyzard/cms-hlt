@@ -1,1 +1,1 @@
-Migrate for FatjetJetProducer with parameters restoring previous behaviour
+Remove old Ele17*HFL*HFT paths
