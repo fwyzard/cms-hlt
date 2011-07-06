@@ -1,1 +1,1 @@
-fix HLT_Ele15_CaloIdVT_TrkIdT_TightIsoPFTau20
+Use HLTPFJetTriggerSequence-ForTaus in two tau paths
