@@ -1,1 +1,1 @@
-Use HLTPFJetTriggerSequence-ForTaus in two tau paths
+Import prescale table
