@@ -1,1 +1,1 @@
-Import prescale table
+Change IsoTrack prescales
