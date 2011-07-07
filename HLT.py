@@ -1,1 +1,1 @@
-Remove obsolete HLT_HT450_JetPt60_DPhi2p94
+Remove 10 obsolete R_MR_BTag paths
