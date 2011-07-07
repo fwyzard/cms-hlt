@@ -1,1 +1,1 @@
-Update prescales - single-tau, btag mu, HT_MHT, QuadJet60
+update globaltag to "GR_H_V22::All"
