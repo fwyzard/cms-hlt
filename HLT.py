@@ -1,1 +1,1 @@
-update globaltag to "GR_H_V22::All"
+Add searchOpt = cms.bool(True) in 5 iterTracking module instances
