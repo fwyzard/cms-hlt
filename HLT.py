@@ -1,1 +1,1 @@
-Add searchOpt = cms.bool(True) in 5 iterTracking module instances
+Juliette's changes for online/offline repro (RunInfo => SiStripExcludedFEDListProducer)
