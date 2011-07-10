@@ -1,1 +1,1 @@
-Fix missing mu+e, ele15 prescales
+Fix photon+btag prescale
