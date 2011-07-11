@@ -1,1 +1,1 @@
-fix crash in muon link producer
+apply "transparent" changes to ECAL unpacker configuration
