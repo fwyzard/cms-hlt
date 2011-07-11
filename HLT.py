@@ -1,1 +1,1 @@
-migrate to HLT18 and set parameters to keep the old behaviour
+bump path versions (with respct to "1.4e33" v1.2)
