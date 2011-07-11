@@ -1,1 +1,1 @@
-bump path versions (with respct to "1.4e33" v1.2)
+Created by ConfDBCreateConfig from master /dev/CMSSW_4_2_0/HLT/V629.
