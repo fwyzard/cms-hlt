@@ -1,1 +1,1 @@
-apply "transparent" changes to ECAL unpacker configuration
+Suppress errors from hltL3MuonsOIHit
