@@ -1,1 +1,1 @@
-Suppress errors from hltL3MuonsOIHit
+Suppress Warnings from hltLightPFTracks
