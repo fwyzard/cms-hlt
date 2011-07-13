@@ -1,1 +1,1 @@
-bump version numbers (with respect to /online/collisions/2011/2e33/v1.0/HLT/V2)
+Created by ConfDBCreateConfig from master /dev/CMSSW_4_2_0/HLT/V641.
