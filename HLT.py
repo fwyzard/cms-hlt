@@ -1,1 +1,1 @@
-saveTags=true in hltPFTauTightIso20TrackTightIso
+from Silvia: add eta-dependent L2 muon quality cuts
