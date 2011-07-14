@@ -1,1 +1,1 @@
-fix smart prescales
+muon prescales after L2 changes
