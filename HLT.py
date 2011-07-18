@@ -1,1 +1,1 @@
-fix eta range in hltMHT60
+from Jeff: update some paths seeded by SingleEG12 to DoubleEG12_5
