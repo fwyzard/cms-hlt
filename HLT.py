@@ -1,1 +1,1 @@
-rename prescaler modules for high-PU paths
+fix eta range in hltMHT60
