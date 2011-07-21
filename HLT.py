@@ -1,1 +1,1 @@
-Removal of obsolete HLT_HT250_MHT* paths
+use a TriggerResults filter to select only HLT-accepted events for the HLTDQMResults stream
