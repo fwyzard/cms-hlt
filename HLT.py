@@ -1,1 +1,1 @@
-imported 5 EGamma paths with new L1 seeds
+drop L1 seeds no longer present in L1 menu v5
