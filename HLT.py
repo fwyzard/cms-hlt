@@ -1,1 +1,1 @@
-drop L1 seeds no longer present in L1 menu v5
+from Alex Mott: update noise killing envelope in the HBHENoiseFilter
