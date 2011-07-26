@@ -1,1 +1,1 @@
-from Alex Mott: update noise killing envelope in the HBHENoiseFilter
+changed HLT_Ele25_CaloIdL_CaloIsoVL_TrkIdVL_TrkIsoVL_v4 seed back to L1_SingleEG18
