@@ -1,1 +1,1 @@
-modified 7 SUSY paths
+sr #122480: move high-pileup triggers from MultiJet to MinimumBias
