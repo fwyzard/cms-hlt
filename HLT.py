@@ -1,1 +1,1 @@
-sr #122480: move high-pileup triggers from MultiJet to MinimumBias
+sr #122324: update L1 seed for HLT_Mu12_DiCentralJet30 BTagIP paths
