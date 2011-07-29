@@ -1,1 +1,1 @@
-changed photon prescales
+edited photon smart prescales
