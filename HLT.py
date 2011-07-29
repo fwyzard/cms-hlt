@@ -1,1 +1,1 @@
-edited photon smart prescales
+add back the hltSiStripExcludedFEDListProducer
