@@ -1,1 +1,1 @@
-add back the hltSiStripExcludedFEDListProducer
+removed broken photon paths (scheduled for removal)
