@@ -1,1 +1,1 @@
-Update of 10 HLT_[Iso]Mu17+jets path as requested by Jason (sr#122527)
+Import HLT_Ele32_CaloIdT_CaloIsoT_TrkIdT_TrkIsoT_Ele17_v1 (sr # 122552)
