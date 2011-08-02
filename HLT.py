@@ -1,1 +1,1 @@
-add offline-only ReleaseValidation event content
+from Emmanuelle: update spike cleaning configuration
