@@ -1,1 +1,1 @@
-removed broken photon paths (scheduled for removal)
+add offline-only ReleaseValidation event content
