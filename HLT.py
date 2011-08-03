@@ -1,1 +1,1 @@
-from Josh: update PFTau paths for 3e33 (sr #122405)
+add tau paths to datasets and smart prescales
