@@ -1,1 +1,1 @@
-from J-R: set hltSiStripRawToClustersFacility.Clusterizer.setDetId = cms.bool( True )
+from Silvia: update muon paths for 3e33 (sr #122516)
