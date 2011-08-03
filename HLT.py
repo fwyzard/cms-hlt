@@ -1,1 +1,1 @@
-imported ZnunuHbb trigger, added to datasets, edited smart prescale
+from J-R: set hltSiStripRawToClustersFacility.Clusterizer.setDetId = cms.bool( True )
