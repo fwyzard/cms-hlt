@@ -1,1 +1,1 @@
-Fixup of  hltL1Mu0HTT50L2MuFiltered20 (HLT_Mu60_HT200_v1)
+from Mia: update L1 seed for HLT_Mu12_DiCentralJet30_BTagIP3D (sr #122324)
