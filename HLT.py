@@ -1,1 +1,1 @@
-More susy paths
+more susy assignments
