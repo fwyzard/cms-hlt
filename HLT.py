@@ -1,1 +1,1 @@
-add new hWWevjj triggers (sr #122124)
+fix HLT_Ele30_CaloIdVT_CaloIsoT_TrkIdT_TrkIsoT_Jet35_Jet25_Deta3p5_Jet25_v1
