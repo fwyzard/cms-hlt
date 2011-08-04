@@ -1,1 +1,1 @@
-set prescales for hWWevjj paths
+keep the gui happy
