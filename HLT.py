@@ -1,1 +1,1 @@
-fix HLT_Ele30_CaloIdVT_CaloIsoT_TrkIdT_TrkIsoT_Jet35_Jet25_Deta3p5_Jet25_v1
+add new bbH paths for "3e33" menu (sr #122027)
