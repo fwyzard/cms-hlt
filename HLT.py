@@ -1,1 +1,1 @@
-add high-lumi prescale columns (empty)
+fix hltPreHLTDQMResultsOutputSmart to "HLT_*"
