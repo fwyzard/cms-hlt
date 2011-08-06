@@ -1,1 +1,1 @@
-fix hltPreHLTDQMResultsOutputSmart to "HLT_*"
+First import of prescales, w. permission of  MartiJuAna
