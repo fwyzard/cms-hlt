@@ -1,1 +1,1 @@
-bump path versions (changes wrt V666)
+update the configuration of all hltPixelTracks modules (sr #122730)
