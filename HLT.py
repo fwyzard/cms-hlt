@@ -1,1 +1,1 @@
-Update L1 seed of DoubleEle8_HT150 paths (sr #122700)
+Back up triggers for 3e33 menu (MultiJet PD) (sr #122703)
