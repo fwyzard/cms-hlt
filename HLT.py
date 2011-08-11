@@ -1,1 +1,1 @@
-add explicit _eta2p1_ to modified Mu+Jets paths
+fix L1 muon filter for IsoMu+Tau paths
