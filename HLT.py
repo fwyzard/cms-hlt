@@ -1,1 +1,1 @@
-revert from "LowPtClusterShapeSeedComparitor" to "none"
+revert "LowPtClusterShapeSeedComparitor" to "none"
