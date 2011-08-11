@@ -1,1 +1,1 @@
-re-enamble HLT_IsoMu15_LooseIsoPFTau15 at 2.5e33 and lower
+re-enable HLT_Mu17_Ele8_CaloIdL up to 3e33
