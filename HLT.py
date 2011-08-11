@@ -1,1 +1,1 @@
-add |eta| cuts to muon leg in (Iso)Mu17 + Jets paths
+add explicit _eta2p1_ to modified Mu+Jets paths
