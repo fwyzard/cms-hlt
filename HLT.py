@@ -1,1 +1,1 @@
-Fix tau+MET prescale at 5E33
+fix the EgammaRegionalAnalyticalTrackSelector adding dummy (unused) parameters
