@@ -1,1 +1,1 @@
-modified photon30 paths to be seeded by EG20
+deep imported photon30 paths
