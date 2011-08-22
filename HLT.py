@@ -1,1 +1,1 @@
-removed cosmic prescale columns
+default prescale column is 3e33
