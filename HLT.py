@@ -1,1 +1,1 @@
-bumped path versions of 3 photon paths
+Update photon prescales for L1 seed change
