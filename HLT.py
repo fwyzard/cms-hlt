@@ -1,1 +1,1 @@
-default prescale column is 3e33
+edited photon30 prescales
