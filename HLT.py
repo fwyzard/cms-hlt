@@ -1,1 +1,1 @@
-Update photon prescales for L1 seed change
+migrated to HLT22
