@@ -1,1 +1,1 @@
-edited HLTMON and HLTDQM event contents
+Update ElectronHad prescales
