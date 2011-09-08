@@ -1,1 +1,1 @@
-Import 6 Photon EXO/SUSY paths (sr #123259)
+More PD and smart prescale work
