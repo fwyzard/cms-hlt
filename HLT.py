@@ -1,1 +1,1 @@
-imported 5e33 EXO paths
+added exo paths to datasets, edited smart prescales
