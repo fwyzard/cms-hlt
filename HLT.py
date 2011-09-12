@@ -1,1 +1,1 @@
-remove obsolete paths
+add all new paths to DQM-like streams
