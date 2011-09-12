@@ -1,1 +1,1 @@
-update L1 seed of HLT_Mu15_DoublePhoton15_*
+add new hWWuvjj triggers (sr #123295)
