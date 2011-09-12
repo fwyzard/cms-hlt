@@ -1,1 +1,1 @@
-add all new paths to DQM-like streams
+add all new paths to the respective datasets
