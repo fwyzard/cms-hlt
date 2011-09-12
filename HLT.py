@@ -1,1 +1,1 @@
-integrate SUSY Photon+HT paths (sr #123317)
+import all new "5e33" SUSY paths (sr #123317)
