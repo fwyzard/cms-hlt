@@ -1,1 +1,1 @@
-add all new paths to the respective datasets
+set smart prescales
