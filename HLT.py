@@ -1,1 +1,1 @@
-add new hWWuvjj triggers (sr #123295)
+set prescales for the hWWuvll paths
