@@ -1,1 +1,1 @@
-set smart prescales
+set prescales
