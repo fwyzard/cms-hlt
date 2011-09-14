@@ -1,1 +1,1 @@
-modifying other QuadJet seeds
+changed to L1QuadJet28Central for hltFilterPFTauTrack5TightIsoL1QuadJet28CentralPFTau40 and hltFilterPFTauTrack5TightIsoL1QuadJet28Central
