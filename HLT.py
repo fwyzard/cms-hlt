@@ -1,1 +1,1 @@
-changed to L1QuadJet28Central for hltFilterPFTauTrack5TightIsoL1QuadJet28CentralPFTau40 and hltFilterPFTauTrack5TightIsoL1QuadJet28Central
+imported last 3 paths now seeded by L1QuadJet28Central
