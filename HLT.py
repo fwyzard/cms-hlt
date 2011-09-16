@@ -1,1 +1,1 @@
-added output module to new AlCa path, added paths to 2 additional datasets, set smart prescales to 100
+Module labels start with hlt* (not HLT*)
