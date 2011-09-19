@@ -1,1 +1,1 @@
-Module labels start with hlt* (not HLT*)
+add backup HT+MHT paths (sr #123549)
