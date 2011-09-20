@@ -1,1 +1,1 @@
-make hltAntiKT5CaloJets and hltAntiKT5CaloJetsL1FastJet consistent
+make hltAntiKT5CaloJetsRegional and hltAntiKT5CaloJetsL1FastJet consistent
