@@ -1,1 +1,1 @@
-make hltAntiKT5CaloJetsRegional and hltAntiKT5CaloJetsL1FastJet consistent
+merge duplicate jet modules
