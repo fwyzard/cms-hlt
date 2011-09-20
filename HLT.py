@@ -1,1 +1,1 @@
-Relabel moduel for consistency to hltL3IsoL1sMu16Eta2p1L1f0L2f16QL2IsoL3f20L3IsoFiltered
+hltL3MuonCandidatesNoVtx.MuonPtOption = "Tracker"
