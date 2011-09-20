@@ -1,1 +1,1 @@
-hltL3MuonCandidatesNoVtx.MuonPtOption = "Tracker"
+make hltAntiKT5CaloJets and hltAntiKT5CaloJetsL1FastJet consistent
