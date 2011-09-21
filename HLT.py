@@ -1,1 +1,1 @@
-silence hltAntiKT5PFJets errors
+for real, this time
