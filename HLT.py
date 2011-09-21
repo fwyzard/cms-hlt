@@ -1,1 +1,1 @@
-set hltPixelTracks.OrderedHitsFactoryPSet.GeneratorPSet.SeedComparitorPSet.ComponentName = "LowPtClusterShapeSeedComparitor"
+silence hltAntiKT5PFJets errors
