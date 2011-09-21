@@ -1,1 +1,1 @@
-increase the limit hltSiPixelClusters.maxNumberOfClusters from 12k to 20k
+set hltPixelTracks.OrderedHitsFactoryPSet.GeneratorPSet.SeedComparitorPSet.ComponentName = "LowPtClusterShapeSeedComparitor"
