@@ -1,1 +1,1 @@
-fix HLT_HT650_L1FastJet
+increase the limit hltSiPixelClusters.maxNumberOfClusters from 12k to 20k
