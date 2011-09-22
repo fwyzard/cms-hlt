@@ -1,1 +1,1 @@
-clean up prescalers
+rename prescalers
