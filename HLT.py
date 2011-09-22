@@ -1,1 +1,1 @@
-bump paths version (for "5e33" v1.2 menu)
+add new high pileup triggers (sr #123603)
