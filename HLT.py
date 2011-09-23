@@ -1,1 +1,1 @@
-add muon backup paths
+Adding parameter perform_delta_rejecting to hltDt4DSegments
