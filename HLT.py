@@ -1,1 +1,1 @@
-integrate pf-based top paths (sr #123604)
+fix top paths' HLTJetCollectionsFilter originalTag
