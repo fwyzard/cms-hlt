@@ -1,1 +1,1 @@
-do not silence LogErrors (at least until the MessageLogger is fixed)
+Migration for adding HcalRecHitFlagsToBeExcluded = cms.vint32 to HcalNoiseInfoProducer
