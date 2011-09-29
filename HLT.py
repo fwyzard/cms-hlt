@@ -1,1 +1,1 @@
-add L1FastJet-subtracted multijet paths
+add |eta| dependent L2 muon quality requirements to calo-based top paths (sr #123774)
