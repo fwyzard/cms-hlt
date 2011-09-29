@@ -1,1 +1,1 @@
-add |eta| dependent L2 muon quality requirements to calo-based top paths (sr #123774)
+Migration for RecoVertex/PrimaryVertexProducer V01-05-02
