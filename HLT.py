@@ -1,1 +1,1 @@
-Migration for RecoVertex/PrimaryVertexProducer V01-05-02
+Created by ConfDBCreateConfig from master /dev/CMSSW_4_2_0/HLT/V911.
