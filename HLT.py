@@ -1,1 +1,1 @@
-Append _v1 to all (old) HIon paths
+Adding HLT_Photon40_CaloIdL_R014_MR150
