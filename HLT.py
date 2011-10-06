@@ -1,1 +1,1 @@
-disable HLT_MET65 and HLT_MET100
+update prescales for paths using L1_DoubleJet36_Central
