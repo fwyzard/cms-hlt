@@ -1,1 +1,1 @@
-fix puPtMin for HLT33
+apply prescales as per Emmenualle suggestions
