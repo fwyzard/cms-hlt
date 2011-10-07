@@ -1,1 +1,1 @@
-update prescales
+fix prescales (sr #123924)
