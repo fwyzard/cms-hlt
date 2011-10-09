@@ -1,1 +1,1 @@
-update SUSY prescales (from Lucie)
+fix Hbb prescales (from Emmanuelle)
