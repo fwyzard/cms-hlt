@@ -1,1 +1,1 @@
-new paths to their datasets
+from Ivan: set hltSiStripRawToClustersFacility.Algorithms.doAPVRestore = False
