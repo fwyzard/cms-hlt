@@ -1,1 +1,1 @@
-from Ivan: set hltSiStripRawToClustersFacility.Algorithms.doAPVRestore = False
+add new HLTDoHILocalStripSequence
