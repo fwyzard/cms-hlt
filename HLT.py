@@ -1,1 +1,1 @@
-rename module to use lowercase "hlt" prefix
+bump path versions
