@@ -1,1 +1,1 @@
-import tracking improvement changes (from Patrick and Kevin), including tau recovery
+rename module to use lowercase "hlt" prefix
