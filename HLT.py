@@ -1,1 +1,1 @@
-Quick fix to allow HLT+RECO
+fix inactiveStripDetectorLabels in HI and IT modules
