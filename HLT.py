@@ -1,1 +1,1 @@
-fix inactiveStripDetectorLabels in HI and IT modules
+Remove 17 ES producers (HIon)
