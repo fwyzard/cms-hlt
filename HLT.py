@@ -1,1 +1,1 @@
-Import 2 updated modules for HIon
+Fixup GlobalDetLayerGeometry issues (from HIon import)
