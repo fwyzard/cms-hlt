@@ -1,1 +1,1 @@
-import "physics DST" stream for DiJet/HT paths
+add output module
