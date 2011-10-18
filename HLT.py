@@ -1,1 +1,1 @@
-move DiCentralPFJet paths from HT to MET
+add hltPixelVertices to PhysicsDST event content
