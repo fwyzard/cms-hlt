@@ -1,1 +1,1 @@
-add hltPixelVertices to PhysicsDST event content
+new parameters for PFRecHitProducerHCAL
