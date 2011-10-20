@@ -1,1 +1,1 @@
-Fixup config of hltHISiStripClusters
+Renaming of 4 HIon paths
