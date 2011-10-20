@@ -1,1 +1,1 @@
-Fixup
+Fixup config of hltHISiStripClusters
