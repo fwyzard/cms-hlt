@@ -1,1 +1,1 @@
-Cleanup
+Removal of obsolete HI muon paths
