@@ -1,1 +1,1 @@
-Clean
+Remove obsolete HI path
