@@ -1,1 +1,1 @@
-Simplifications removing duplicate hltHIAllSiPixel[RecHits|Clusters]
+Further simplification of duplicate sequences
