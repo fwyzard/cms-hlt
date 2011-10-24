@@ -1,1 +1,1 @@
-Adding HLTDoHIStripZeroSuppression to all HLT_HI* paths (partly done - wip)
+Adding HLTDoHIStripZeroSuppression sequence to all HLT_HI* paths
