@@ -1,1 +1,1 @@
-Adding HLTDoHIStripZeroSuppression sequence to all HLT_HI* paths
+Adding stream and EventContent AForHI
