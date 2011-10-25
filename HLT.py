@@ -1,1 +1,1 @@
-Fix L1 seed of HLT_HIMinBiasZDCPixel_SingleTrack
+Fix seed type
