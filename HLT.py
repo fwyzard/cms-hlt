@@ -1,1 +1,1 @@
-Adding DYTthrs vector to HIon's L3MuonProducer instances
+Fixup of L1 seeds for HLT_HIUPCNeu* triggers (#124267)
