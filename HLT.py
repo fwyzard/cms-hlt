@@ -1,1 +1,1 @@
-added HLTPFReconstructionSequence to HLT_PhysicsPF
+set HLT_PhysicsPF prescale to 45
