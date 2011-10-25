@@ -1,1 +1,1 @@
-Updating some L1 seed for HIon HightPt paths (sr #123853)
+Adding DYTthrs vector to HIon's L3MuonProducer instances
