@@ -1,1 +1,1 @@
-removed HLT_PhysicsPF from datasets
+added HLTPFReconstructionSequence to HLT_PhysicsPF
