@@ -1,1 +1,1 @@
-duplicated HLT_Physics to HLT_PhysicsPF, renamed its prescale module, replaced HLTEndSequence with hltBoolFalse, added to datasets
+added "DAQ test" column, HLT_PhysicsPF prescaled to 0 in all columns except DAQ test where it is prescaled to 40
