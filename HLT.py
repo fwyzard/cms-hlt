@@ -1,1 +1,1 @@
-Fix seed type
+Fixup L1 seeds again for HLT_HIUPCNeu* paths
