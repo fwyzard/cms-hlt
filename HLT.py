@@ -1,1 +1,1 @@
-Fixup L1 seeds again for HLT_HIUPCNeu* paths
+Fixing L1 seed of HIon jet paths (sr #123851)
