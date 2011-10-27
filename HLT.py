@@ -1,1 +1,1 @@
-Prescale by 5 (globally) the Express stream
+Adding two more HIon paths (sr #124298, sr #1242987)
