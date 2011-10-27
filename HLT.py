@@ -1,1 +1,1 @@
-Prescale defaults =1
+Prescale by 5 (globally) the Express stream
