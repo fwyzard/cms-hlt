@@ -1,1 +1,1 @@
-Add missing parameters in hltSiStripZeroSuppression
+Adding also to other instance
