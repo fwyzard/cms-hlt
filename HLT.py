@@ -1,1 +1,1 @@
-HIon prescales from Chritof
+Add missing parameters in hltSiStripZeroSuppression
