@@ -1,1 +1,1 @@
-Fixup parameter type
+Set 2 HIon prescales
