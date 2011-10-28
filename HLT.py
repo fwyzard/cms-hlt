@@ -1,1 +1,1 @@
-Adding also to other instance
+Fixup parameter type
