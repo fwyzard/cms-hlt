@@ -1,1 +1,1 @@
-HIon requires hltHfreco.setNoiseFlags=false (need to flip back to true when pp goes online in 2012)
+Migrate for new bools in hltL1GtObjectMap/L1GlobalTrigger - set for HLT as per Vasile
