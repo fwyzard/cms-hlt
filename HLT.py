@@ -1,1 +1,1 @@
-Rename stream AForHI to A
+Rename also endpath with OM
