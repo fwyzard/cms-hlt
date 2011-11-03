@@ -1,1 +1,1 @@
-Step 1: rename event content to AForPP
+Rename stream to AForPP (includes OM label)
