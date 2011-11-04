@@ -1,1 +1,1 @@
-Rename DQMForHI to DQM
+Add 4 paths to OnLineMonitorHI
