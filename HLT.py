@@ -1,1 +1,1 @@
-Add 4 paths to OnLineMonitorHI
+Chnage GlobalTag to GR_H_V25::All
