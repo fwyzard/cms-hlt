@@ -1,1 +1,1 @@
-upate HLTDQM event content for HI menu
+update HLTMON event content for HI menu
