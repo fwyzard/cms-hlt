@@ -1,1 +1,1 @@
-more event content updates
+upate HLTDQM event content for HI menu
