@@ -1,1 +1,1 @@
-rename HI raw data collections, and use "drop *" i all event contents
+remove obsolete "keep" statements, from no-longer-existing objects
