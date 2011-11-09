@@ -1,1 +1,1 @@
-Migration for CSCRecHitDProducer::CSCUseGasGainCorrections RecoLocalMuon/CSCRecHitD V02-07-00
+temporarily revert to V57 / HLT11
