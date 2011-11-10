@@ -1,1 +1,1 @@
-Flip gasgain corrections back to false
+ML config to ignore errors from hltOnlineBeamSpot
