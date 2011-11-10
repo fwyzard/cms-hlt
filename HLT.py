@@ -1,1 +1,1 @@
-ML config to ignore errors from hltOnlineBeamSpot
+Change seed to L1_ZeroBias for HLT_HIZeroBias
