@@ -1,1 +1,1 @@
-Fixup smart prescales
+Adden HI Mu event content to HLTMON and HLTDQM
