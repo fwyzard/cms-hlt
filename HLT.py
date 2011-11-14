@@ -1,1 +1,1 @@
-Migrate for RecoLocalCalo/EcalRecProducers added Laser parameters
+Adding laser parameters properly inside PSet of EcalUnpackerWorkerESProducer
