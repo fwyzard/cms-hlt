@@ -1,1 +1,1 @@
-More event content
+Added parameters for EgammaSCCorrectionMaker
