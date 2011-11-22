@@ -1,1 +1,1 @@
-New paths also in HI express
+Smart prescaler fixes
