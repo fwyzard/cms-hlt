@@ -1,1 +1,1 @@
-Import updated smart prescalers for HI
+Prescale sync
