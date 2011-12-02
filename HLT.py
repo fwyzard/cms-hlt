@@ -1,1 +1,1 @@
-Adding *LaserMAX parameters for new Ecal tags
+Migrate for RecoTracker/CkfPattern V08-14-00 - bool reverseTrajectories
