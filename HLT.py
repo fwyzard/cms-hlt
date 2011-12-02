@@ -1,1 +1,1 @@
-from Silvia: enable inverted-trajectory optimization for outside-in muon propagation
+Created by ConfDBCreateConfig from master /dev/CMSSW_4_4_2/HLT/V117.
