@@ -1,1 +1,1 @@
-Migrate for RecoTracker/CkfPattern V08-14-00 - bool reverseTrajectories
+migrate to HLT20 (for CMSSW 5.0.0-pre7)
