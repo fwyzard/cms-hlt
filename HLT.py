@@ -1,1 +1,1 @@
-Fix new parameters in JetTracksAssociatorAtVertex instances
+Replace last usages of hltOffline by hltOnline BeamSpot
