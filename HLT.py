@@ -1,1 +1,1 @@
-Remove 5 jet correction ESSources (to be replaced by 5 ESProducers)
+Propagate new jet-corr ESProducer labels to clients
