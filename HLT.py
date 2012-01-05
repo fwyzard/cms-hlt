@@ -1,1 +1,1 @@
-Propagate new jet-corr ESProducer labels to clients
+Fix new parameters in JetTracksAssociatorAtVertex instances
