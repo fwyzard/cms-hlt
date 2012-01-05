@@ -1,1 +1,1 @@
-Need to remove getConditions due to crash
+REmove unneeded ESproducers, add back hltGetConditions
