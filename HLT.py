@@ -1,1 +1,1 @@
-Add back EventSetupRecordDataGetter as hltGetConditions in HLTFirtsPath
+Need to remove getConditions due to crash
