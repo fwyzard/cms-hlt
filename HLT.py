@@ -1,1 +1,1 @@
-Replace last usages of hltOffline by hltOnline BeamSpot
+Fix most of the HLTElectronOneOEMinusOneOPFilterRegional instances
