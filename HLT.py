@@ -1,1 +1,1 @@
-migrate to HLT4
+reproduce HLT3 behaviour
