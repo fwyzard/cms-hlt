@@ -1,1 +1,1 @@
-Fix new L2 muon parameters to reproduce old behaviour
+Fix new PF to not use HO (old behaviour for now)
