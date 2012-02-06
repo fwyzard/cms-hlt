@@ -1,1 +1,1 @@
-fix default in DaqSource
+templated jetMET plugins migration
