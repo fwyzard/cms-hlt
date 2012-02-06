@@ -1,1 +1,1 @@
-Migration for next tagset
+Migrate for another templated JetMET plugin
