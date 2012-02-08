@@ -1,1 +1,1 @@
-Migrate to pre4 plus tags
+Plugin migration GetJetsFromHLTobject to template instance HLTCaloJetCollectionProducer
