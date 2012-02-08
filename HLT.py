@@ -1,1 +1,1 @@
-Plugin migration HLTJetTag to template instance HLTCaloJetTag
+Clear jets inputtag in migrated plugin
