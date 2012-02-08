@@ -1,1 +1,1 @@
-Plugin migration GetJetsFromHLTobject to template instance HLTCaloJetCollectionProducer
+Plugin migration HLTJetTag to template instance HLTCaloJetTag
