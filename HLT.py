@@ -1,1 +1,1 @@
-Fixup of plugin migration
+Completed migration
