@@ -1,1 +1,1 @@
-Clear jets inputtag in migrated plugin
+Fixup of plugin migration
