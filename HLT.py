@@ -1,1 +1,1 @@
-Completed migration
+Migration for new plugins
