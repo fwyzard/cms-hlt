@@ -1,1 +1,1 @@
-JetMET plugin migration part 2
+Fix triggertype
