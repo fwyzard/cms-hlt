@@ -1,1 +1,1 @@
-Fix triggertype
+Remove FastTimerService
