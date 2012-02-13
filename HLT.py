@@ -1,1 +1,1 @@
-Remove FastTimerService
+restore fasttimer
