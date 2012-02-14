@@ -1,1 +1,1 @@
-imported #126248, added 1 new path to datasets, set smart prescales
+changed L1 seeds back to the old ones for the stopped HSCP paths (sr #126248)
