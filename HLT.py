@@ -1,1 +1,1 @@
-imported bbPhi paths (sr #126241), set L1 seed to old ones, added to datasets, set smart prescales
+removed HLT_L1DoubleJet36Central_v6 (HLT_L1DoubleJet36Central_v5 already exists, only update will be L1 seed name)
