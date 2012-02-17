@@ -1,1 +1,1 @@
-Correcting smart prescales
+Rationalise stream/endpath names
