@@ -1,1 +1,1 @@
-Recover V74 to the HEAD (first step...)
+Recover V74 to the HEAD (second step...)
