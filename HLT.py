@@ -1,1 +1,1 @@
-Dirty patch: include hltPixelTracks and hltL3MuonIsolations in HLTL3muonisorecoSequence
+Recover V74 to the HEAD (first step...)
