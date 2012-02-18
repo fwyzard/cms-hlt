@@ -1,1 +1,1 @@
-sr#126286: Electron and Muon + Jets paths from Top
+Dirty patch: include hltPixelTracks and hltL3MuonIsolations in HLTL3muonisorecoSequence
