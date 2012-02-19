@@ -1,1 +1,1 @@
-Recover V74 to the HEAD (second step...)
+migrated all E/gamma paths to single seeded versions
