@@ -1,1 +1,1 @@
-migrated all E/gamma paths to single seeded versions
+removing un-referenced E/gamma sequences
