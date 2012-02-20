@@ -1,1 +1,1 @@
-removed HLT_Mu5_Track3p5_Jpsi for now
+replaced hltL1DoubleMu0HighQ with hltL1DoubleMu0erHighQ for MuOnia paths
