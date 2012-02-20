@@ -1,1 +1,1 @@
-MuOnia smart and regular prescales
+fixed some MuoOnia L1 seeds
