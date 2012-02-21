@@ -1,1 +1,1 @@
-added 2 other MuOnia paths and their ESmodules, datasets, smart/regular prescales
+Updated paths in sr#126489 (Muon POG)
