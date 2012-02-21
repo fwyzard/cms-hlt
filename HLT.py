@@ -1,1 +1,1 @@
-some MuOnia L1 seeds updated
+1 more MuOnia seed
