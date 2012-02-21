@@ -1,1 +1,1 @@
-stopped HSCP L1 seeds update
+more L1 seed updates
