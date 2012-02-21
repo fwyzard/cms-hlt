@@ -1,1 +1,1 @@
-Updated paths in sr#126489 (Muon POG)
+imported SMP paths part 1, sr #126316
