@@ -1,1 +1,1 @@
-SMP paths part 3
+Switch l1 trig reporting
