@@ -1,1 +1,1 @@
-Switch l1 trig reporting
+updated some L1 seeds
