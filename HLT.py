@@ -1,1 +1,1 @@
-imported SMP paths part 1, sr #126316
+added SMP part 1 paths to datasets, set smart prescales
