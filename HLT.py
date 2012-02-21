@@ -1,1 +1,1 @@
-1 more MuOnia seed
+MuOnia seeds put to L1 seeds in current xml file
