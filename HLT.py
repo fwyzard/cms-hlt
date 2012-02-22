@@ -1,1 +1,1 @@
-imported exo paths sr #126292
+added exo paths to datasets, set smart prescales
