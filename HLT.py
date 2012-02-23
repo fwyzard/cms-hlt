@@ -1,1 +1,1 @@
-removed some HSCP paths that need to be updated first
+Migrate for Doublet templating
