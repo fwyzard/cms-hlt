@@ -1,1 +1,1 @@
-edited prescales for HSCP paths
+removed some HSCP paths that need to be updated first
