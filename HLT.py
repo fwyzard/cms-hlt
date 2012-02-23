@@ -1,1 +1,1 @@
-fixed exo paths
+added some HSCP paths sr #126412
