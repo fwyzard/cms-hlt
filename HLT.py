@@ -1,1 +1,1 @@
-sr #126475
+prescales for photon paths
