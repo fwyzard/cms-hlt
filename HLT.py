@@ -1,1 +1,1 @@
-fix storeRawSumPt = cms.bool( False ) in hltPFTauLooseIsolationDiscriminator
+sr #126475
