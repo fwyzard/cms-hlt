@@ -1,1 +1,1 @@
-sr #126461: Merged lepton+tau request
+fix storeRawSumPt = cms.bool( False ) in hltPFTauLooseIsolationDiscriminator
