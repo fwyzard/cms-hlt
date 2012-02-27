@@ -1,1 +1,1 @@
-L1 seed update
+Updating L1 seeds for two HLT HCAL paths
