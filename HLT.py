@@ -1,1 +1,1 @@
-Updating L1 seeds for HCal paths
+Update L1 seeds for #126320
