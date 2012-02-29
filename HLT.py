@@ -1,1 +1,1 @@
-HLT1CaloBJet => HLT1CaloJet plugin migration
+HLT2CaloJetMETMHT => HLT2CaloJetMET plugin migration
