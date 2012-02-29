@@ -1,1 +1,1 @@
-Synchronize effectiveAreaBarrel/Endcap in the EgammaHLTHcalIsolationProducersRegional's
+Migration for PrescaleService
