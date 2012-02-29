@@ -1,1 +1,1 @@
-HLT1Tau => HLT1CaloJet plugin migration
+HLT1CaloBJet => HLT1CaloJet plugin migration
