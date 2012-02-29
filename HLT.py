@@ -1,1 +1,1 @@
-HLT2CaloJetMETMHT => HLT2CaloJetMET plugin migration
+Synchronize effectiveAreaBarrel/Endcap in the EgammaHLTHcalIsolationProducersRegional's
