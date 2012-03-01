@@ -1,1 +1,1 @@
-Fixup InputTag creating problems (eg, in building trigger summary)
+Migration for extended FB filter
