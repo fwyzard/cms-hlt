@@ -1,1 +1,1 @@
-Update sequence name
+Cleanup for HLTPFJetsSequenceNeutral
