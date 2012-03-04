@@ -1,1 +1,1 @@
-Cleanup for HLTPFJetsSequenceNeutral
+Also adjust inputtag
