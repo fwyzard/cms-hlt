@@ -1,1 +1,1 @@
-Cleanup for HLTPFJetsSequenceForTaus
+Cleanup of HLTPFJetsSequencePromptTracks
