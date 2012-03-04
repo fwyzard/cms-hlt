@@ -1,1 +1,1 @@
-Let MhtProducer use unconverted PFjets directly
+Update sequence name
