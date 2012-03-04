@@ -1,1 +1,1 @@
-Replacing last instance of old HLTPFMhtHtFilter
+Let MhtProducer use unconverted PFjets directly
