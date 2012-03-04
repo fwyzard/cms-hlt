@@ -1,1 +1,1 @@
-Cleanup of HLTPFJetsSequencePromptTracks
+Migrate HLTJetIDProducer => HLTCaloJetIDProducer
