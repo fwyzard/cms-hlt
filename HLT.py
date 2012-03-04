@@ -1,1 +1,1 @@
-Also adjust inputtag
+Cleanup for HLTPFJetsSequenceForTaus
