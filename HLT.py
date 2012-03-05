@@ -1,1 +1,1 @@
-Rename Mia's Muon-leg path for import
+Remove jet sequence from muon path
