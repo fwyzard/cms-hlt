@@ -1,1 +1,1 @@
-Re-label according to the wishes of hltIntegrationTest
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_0/HLT/V3.
