@@ -1,1 +1,1 @@
-Append missing _v1 to new path
+Re-label according to the wishes of hltIntegrationTest
