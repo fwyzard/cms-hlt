@@ -1,1 +1,1 @@
-Append missing _v1 to new path
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_0/HLT/V2.
