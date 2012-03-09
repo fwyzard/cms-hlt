@@ -1,1 +1,1 @@
-Flipping RemoveApvShots to TRUE as per RECO request
+Replace HLTPFTauSequence with HLTLooseIsoPFTauSequence
