@@ -1,1 +1,1 @@
-Another parameter added for reco
+Flipping RemoveApvShots to TRUE as per RECO request
