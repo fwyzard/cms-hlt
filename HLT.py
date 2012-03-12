@@ -1,1 +1,1 @@
-Removing obsolete paths
+More path removal
