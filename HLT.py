@@ -1,1 +1,1 @@
-Toward removing Calo2PF conversion
+Adapt modules to use PFJet collection, remove converter hltAntiKT5ConvPFJets
