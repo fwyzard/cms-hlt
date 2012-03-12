@@ -1,1 +1,1 @@
-Cleanup of CaloMhtHt filters (=> producer+filter) - partial
+Fixup of HLT_HT2000 for obsolete MhtHtFilter
