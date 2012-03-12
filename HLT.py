@@ -1,1 +1,1 @@
-Adapt modules to use PFJet collection, remove converter hltAntiKT5ConvPFJets
+Replacement of HLTPFMhtHtFilter mode=1 MHT instances by MHT producer/filter instances
