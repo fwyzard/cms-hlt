@@ -1,1 +1,1 @@
-Rename paths to TriCentralPFJet50_40_30
+renamed prescale modules to make hltIntegrationTests happy
