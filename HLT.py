@@ -1,1 +1,1 @@
-renamed prescale modules to make hltIntegrationTests happy
+Reinstate HLTEle12CaloIdLTrkIdVLCaloIsoVLTrkIsoVLUnseeded from V30
