@@ -1,1 +1,1 @@
-Fixes - sr #127058
+Rationalising path names
