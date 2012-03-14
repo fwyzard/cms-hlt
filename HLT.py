@@ -1,1 +1,1 @@
-Fixup InputTag
+Cleanup HLTRSequenceL1FastJetDiJet65
