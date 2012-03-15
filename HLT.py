@@ -1,1 +1,1 @@
-Recover HLT_JetE30_NoBPTX_NoHalo
+Replace HLT_Tau2Mu_RegPixTrack with HLT_Tau2Mu_ItTrack
