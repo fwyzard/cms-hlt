@@ -1,1 +1,1 @@
-Replace HLT_Tau2Mu_RegPixTrack with HLT_Tau2Mu_ItTrack
+add paths for new AlCa_
