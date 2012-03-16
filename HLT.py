@@ -1,1 +1,1 @@
-Fix names in a few prescale modules
+Rationalise path name
