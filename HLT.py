@@ -1,1 +1,1 @@
-Rationalise path name
+Migrate HLT2CaloJetMEt to HLT2PFJetMET
