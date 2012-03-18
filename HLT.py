@@ -1,1 +1,1 @@
-Rename modules
+Add eventcontent to ECReleaseValidation
