@@ -1,1 +1,1 @@
-Prescaler label update
+Fixup prescaler labels
