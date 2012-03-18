@@ -1,1 +1,1 @@
-Add eventcontent to ECReleaseValidation
+Prescaler label update
