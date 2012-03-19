@@ -1,1 +1,1 @@
-Updating prescales - mu+jets, e+jets, btagmu, IsoTrackHE
+Updating prescales - photon+RMR, DoubleTau, AlphaT
