@@ -1,1 +1,1 @@
-New dPhi1 paths (sr #126490/31)
+Migration for added Regions PSet in SiPixelRawToDigi plugin
