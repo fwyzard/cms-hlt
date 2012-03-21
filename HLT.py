@@ -1,1 +1,1 @@
-sr #127269 lepton+tau paths
+renamed hltRegPixelTracks as hltRegionalPixelTracks
