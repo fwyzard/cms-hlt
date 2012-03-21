@@ -1,1 +1,1 @@
-Update globaltag to GR_H_V27
+Remove un-referenced sequences
