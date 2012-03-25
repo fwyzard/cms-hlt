@@ -1,1 +1,1 @@
-sr #127336 all-hadron H->bb
+renamed all hadron H->bb prescale modules to make hltIntegrationTests happy
