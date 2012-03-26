@@ -1,1 +1,1 @@
-Add 3 MuOnia triggers (sr# 127407)
+Rename *HBOnly* to *EBOnly*
