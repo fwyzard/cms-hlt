@@ -1,1 +1,1 @@
-Rename *HBOnly* to *EBOnly*
+Switch on Laser corrections (EcalUnpackerWorkerESProducer)
