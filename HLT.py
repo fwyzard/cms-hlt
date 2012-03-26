@@ -1,1 +1,1 @@
-Fix missing event conetnt in hltEventContentReleaseValidation
+More cleanup and EG20 => EG20orEG22
