@@ -1,1 +1,1 @@
-More cleanup
+Fix missing event conetnt in hltEventContentReleaseValidation
