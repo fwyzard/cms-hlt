@@ -1,1 +1,1 @@
-Fix L1 seed module of imported path
+Bump path versions for Electron Seed business
