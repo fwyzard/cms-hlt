@@ -1,1 +1,1 @@
-Move one more photon trigger to DoubleElectron for consistency
+sr #127482 L1FastJet corrections for HSCP paths
