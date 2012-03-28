@@ -1,1 +1,1 @@
-saveTags changes for TAU
+Move one more photon trigger to DoubleElectron for consistency
