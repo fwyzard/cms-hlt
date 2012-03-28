@@ -1,1 +1,1 @@
-Photon, DoubleElectron, DoubleMu PD reassignments
+Rearranging Photon-PhotonHad and Jet-MultiJet PD placements
