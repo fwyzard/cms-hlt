@@ -1,1 +1,1 @@
-Changed Triggers in PD Online HLT Monitor
+Updated Event Contents for HLTMON according to TAU POG request
