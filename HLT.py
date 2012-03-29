@@ -1,1 +1,1 @@
-prescaled HLT_RelIso1p0Mu17 to 0, prescaled HLT_Ele8_CaloIdT_CaloIsoVL_TrkIdVL_TrkIsoVL and HLT_Ele8_CaloIdT_CaloIsoVL_TrkIdVL_TrkIsoVL_Jet30 to 10 and 10
+Adjust prescales for prescaled single-electron paths
