@@ -1,1 +1,1 @@
-Remove prescale table columns
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_1/HLT/V92.
