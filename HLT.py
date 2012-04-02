@@ -1,1 +1,1 @@
-Remove HcalCalibration from MuHad dataset
+Remove L1GtMaskTrivialProducers for Algo and Tech Trigs
