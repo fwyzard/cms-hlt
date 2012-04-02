@@ -1,1 +1,1 @@
-Bump path versions
+fix dqm service (collectorHost="")
