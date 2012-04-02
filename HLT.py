@@ -1,1 +1,1 @@
-fix dqm service (collectorHost="")
+Remove FastTimerService
