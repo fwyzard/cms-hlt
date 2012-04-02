@@ -1,1 +1,1 @@
-sr#127542
+Fixup event content
