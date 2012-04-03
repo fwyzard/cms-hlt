@@ -1,1 +1,1 @@
-set DQM.collectorPort = 0 (make ure no connection is tried)
+rename A and Express enpaths to match the stream and outputmodule names
