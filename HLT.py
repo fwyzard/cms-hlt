@@ -1,1 +1,1 @@
-reordered prescale columns, set p=1 for AlCa paths in 48bunch column
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_1/HLT/V126.
