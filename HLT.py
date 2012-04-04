@@ -1,1 +1,1 @@
-Add another path from Bryan
+Prescales for new paths (ad hoc)
