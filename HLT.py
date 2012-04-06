@@ -1,1 +1,1 @@
-drop DQM EndPaths, Streams and EventContents
+Import prescale service from Jonathan
