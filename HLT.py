@@ -1,1 +1,1 @@
-Susy update (sr #127704)
+Migrate for cleaningConfig PSet in EcalRawToRecHitProducer instances
