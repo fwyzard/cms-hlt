@@ -1,1 +1,1 @@
-Migrate for cleaningConfig PSet in EcalRawToRecHitProducer instances
+Empty out cleainingConfig PSet for hltEcalRegionalPi0EtaRecHit
