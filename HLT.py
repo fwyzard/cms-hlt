@@ -1,1 +1,1 @@
-More prescale fixes from Jonathan
+No blanks in prescale column labels
