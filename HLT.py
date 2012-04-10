@@ -1,1 +1,1 @@
-More prescale fixes from Jonathan
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_1/HLT/V148.
