@@ -1,1 +1,1 @@
-Migrate for new parameter in HLTDisplacedEgammaFilter
+rename two prescale modules
