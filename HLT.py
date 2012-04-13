@@ -1,1 +1,1 @@
-Fix from Vasu (bug #93670) - problem in diff need to check!
+Fixup IGNORES in sequences (lost on import)
