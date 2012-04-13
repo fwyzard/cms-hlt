@@ -1,1 +1,1 @@
-Fixup IGNORES in sequences (lost on import)
+Adding event content for release validation: hltEle27WP80PixelMatchElectronsL1Seeded
