@@ -1,1 +1,1 @@
-MessageLogger changes (sr #127864)
+Config update of hltLogMonitorFilter (sr #127864)
