@@ -1,1 +1,1 @@
-Chnage new parameter from 32 (default) to requested 15 (#127863)
+MessageLogger changes (sr #127864)
