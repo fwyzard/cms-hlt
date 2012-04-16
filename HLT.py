@@ -1,1 +1,1 @@
-Replace hltMht with hltHtMht in HLT_Photon69_CaloIdL_MHT70
+Rename a few paths according to the JetMET template
