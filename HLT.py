@@ -1,1 +1,1 @@
-Import prescale service from Jonathan (V180/V3)
+Import prescale from Jonathan's V180/V4
