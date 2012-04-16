@@ -1,1 +1,1 @@
-Modify a few module names, according to JETMET template
+Replace hltHtL1FastJet with hltHtMht
