@@ -1,1 +1,1 @@
-Replace hltHtL1FastJet with hltHtMht
+Replace hltMht with hltHtMht in HLT_Photon69_CaloIdL_MHT70
