@@ -1,1 +1,1 @@
-Remove cosmics/HIon prescale columns
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_1/HLT/V178.
