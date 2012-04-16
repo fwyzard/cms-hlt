@@ -1,1 +1,1 @@
-Fix prescales (cf Andrea B.)
+Import prescale service from Jonathan (V180/V3)
