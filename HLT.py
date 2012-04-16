@@ -1,1 +1,1 @@
-Another PrescaleService import from Jonathan (V180/V5)
+Modify a few module names, according to JETMET template
