@@ -1,1 +1,1 @@
-Fix problem with HLT_Photon60_CaloIdL_MHT70
+Fixup HLTPrescaler module labels
