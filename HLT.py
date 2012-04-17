@@ -1,1 +1,1 @@
-Replaced hltMht with hltHtMht in the last two paths in which it was used
+Updated Event Contents for HLTMON stream at request of Tau group
