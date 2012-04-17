@@ -1,1 +1,1 @@
-Rename a few paths according to the JetMET template
+Fix problem with HLT_Photon60_CaloIdL_MHT70
