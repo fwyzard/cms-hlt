@@ -1,1 +1,1 @@
-sr #128107: Changes in old Jet/HT PDs. New ones: JetHT / JetMon / HTMHT
+sr #128097 - move top triggers to SingleElectron
