@@ -1,1 +1,1 @@
-add prescalers for stream A
+hltPFMhtProducer = hltPFMHTProducer
