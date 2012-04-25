@@ -1,1 +1,1 @@
-sr #128102 - move top/higgs/smp paths to SingleMu
+Migrate for VertexFromTrackProducer (not yet used, RecoTauTag/HLTProducers V08-04-08)
