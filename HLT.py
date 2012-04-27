@@ -1,1 +1,1 @@
-Fix: use a L1FastJetCorrected sequence in HLT_DiCentralPFJet30_PFMET80_BTagCSV07
+contact and description fields for sr #128166
