@@ -1,1 +1,1 @@
-prescale adjustment for sr 128183
+sr #128198, eight jet triggers for 7e33
