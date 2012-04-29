@@ -1,1 +1,1 @@
-sr #128204 Ele8 monitoring trigger
+sr #128240 and #128254 top ele paths
