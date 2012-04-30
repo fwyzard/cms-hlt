@@ -1,1 +1,1 @@
-sr #128183 - move two paths to SinglePhoton
+sr #128235 susy paths
