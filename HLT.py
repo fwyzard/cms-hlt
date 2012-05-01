@@ -1,1 +1,1 @@
-sr #128219 - ZbbHbb paths
+sr #128205: upadate of fully-hadronic tau paths
