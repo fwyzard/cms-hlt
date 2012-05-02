@@ -1,1 +1,1 @@
-more contact and description fields
+more fields
