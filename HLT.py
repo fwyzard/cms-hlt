@@ -1,1 +1,1 @@
-sr #128207 muX and isomuX paths
+Add temporary prescales for HLT_Mu17_eta2p1_LooseIsoPFTau20 and HLT_Ele22_eta2p1_WP90NoIso_LooseIsoPFTau20
