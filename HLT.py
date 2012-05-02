@@ -1,1 +1,1 @@
-finished sr 128286
+contact and description fields
