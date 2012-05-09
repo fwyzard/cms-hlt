@@ -1,1 +1,1 @@
-Adding event content to ReleaseValidation (hltEle32WP80PixelMatchElectronsL1Seeded, sr #128492)
+imported prescales from /users/jjhollar/ForPrescaleUploads/CMSSW_5_2_5_HLT5_Master_V288/V2
