@@ -1,1 +1,1 @@
-imported prescales from /users/jjhollar/ForPrescaleUploads/CMSSW_5_2_5_HLT5_Master_V288/V2
+prescale updates from Andrea for L1_SingleEGxx
