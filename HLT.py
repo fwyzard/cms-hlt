@@ -1,1 +1,1 @@
-sr #128564: EXO Bug Fixes + L1 seed change
+Move prescale factor from SmartPrescale to Prescale for DST_L1HTT_Or_L1MultiJet
