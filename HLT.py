@@ -1,1 +1,1 @@
-Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_1/HLT/V320.
+removed prescale columns, set AOutout to p=1
