@@ -1,1 +1,1 @@
-p=0 for 2 paths in cosmic columns
+sr #128765 ALCALUMIPIXELS event content addition
