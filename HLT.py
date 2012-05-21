@@ -1,1 +1,1 @@
-added muonia path to ParkingMonitor
+bumped path versions wrt V308
