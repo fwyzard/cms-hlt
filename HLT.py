@@ -1,1 +1,1 @@
-Adding back L1GtTriggerMaskAlgoTrigTrivialProducer
+sort
