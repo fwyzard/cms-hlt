@@ -1,1 +1,1 @@
-L1 seed in CaloMET paths (sr #129109)
+Consistently use online beamspot (for now)
