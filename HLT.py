@@ -1,1 +1,1 @@
-Consistently use online beamspot (for now)
+Cleanup according to conventions (module/sequence labels)
