@@ -1,1 +1,1 @@
-bumped path versions with respect to /online/collisions/2012/7e33/v2.5/HLT/V1
+Migrate to CMSSW_5_2_5_HLT6 and integrate QM_HcalEmptyEvents
