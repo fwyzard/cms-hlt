@@ -1,1 +1,1 @@
-Migrate to CMSSW_5_2_5_HLT6 and integrate QM_HcalEmptyEvents
+removed unwanted paths
