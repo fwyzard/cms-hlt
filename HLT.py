@@ -1,1 +1,1 @@
-Fix for "inconsistent module configuration" in HLTHtMhtFilter:hltPFMET80MuORNoMu
+add four more flags to HcalRecAlgoESProducer
