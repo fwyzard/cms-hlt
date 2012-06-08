@@ -1,1 +1,1 @@
-Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_1/HLT/V359.
+Fix for "inconsistent module configuration" in HLTHtMhtFilter:hltPFMET80MuORNoMu
