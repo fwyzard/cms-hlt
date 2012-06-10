@@ -1,1 +1,1 @@
-add four more flags to HcalRecAlgoESProducer
+Update pi0/eta AlCa prescales
