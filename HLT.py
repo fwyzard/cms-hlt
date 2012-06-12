@@ -1,1 +1,1 @@
-Rename Cosmics column to CirculatingBeam column
+sr #129421 - removed HLT_LogMonitor from DQM stream
