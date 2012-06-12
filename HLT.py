@@ -1,1 +1,1 @@
-sr #129425 HLT_LogMonitor update
+sr #129438 - contact/description fields for tau paths
