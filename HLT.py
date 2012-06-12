@@ -1,1 +1,1 @@
-Update pi0/eta AlCa prescales
+Rename Cosmics column to CirculatingBeam column
