@@ -1,1 +1,1 @@
-JEC for PFJetTriggerSequenceMuTau
+JEC for JetTriggerSequencePromptTracks
