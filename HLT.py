@@ -1,1 +1,1 @@
-Add JEC PFJetTriggerSequence for PromptTracks, Neutral, MuTau
+JEC sequences for MuTau, PromptTracks, Neutral
