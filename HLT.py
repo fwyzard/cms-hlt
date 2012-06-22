@@ -1,1 +1,1 @@
-JEC for JetNeutral paths
+JEC for PFJetTriggerSequenceMuTau
