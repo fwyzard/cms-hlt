@@ -1,1 +1,1 @@
-fix parameter in hltAntiKT5PFJetsNoPU
+fix parameter in hltAntiKT5PFJets
