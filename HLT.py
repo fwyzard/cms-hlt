@@ -1,1 +1,1 @@
-JEC sequences for MuTau, PromptTracks, Neutral
+JEC for JetNeutral paths
