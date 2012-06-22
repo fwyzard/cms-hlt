@@ -1,1 +1,1 @@
-JEC for JetTriggerSequencePromptTracks
+JEC for PFTaus - INTERMEDIATE 1
