@@ -1,1 +1,1 @@
-PF noPU JEC - INTERMEDIATE 6
+fix parameter in hltAntiKT5PFJetsNoPU
