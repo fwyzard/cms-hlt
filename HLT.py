@@ -1,1 +1,1 @@
-JEC for PFTaus, and other fixes
+Add hltKT5PFJets to the PF JEC sequences -Prompttrack and -Neutral
