@@ -1,1 +1,1 @@
-Add hltKT5PFJets to the PF JEC sequences -Prompttrack and -Neutral
+Remove jec ESSource and revert all PFMET producers for not using JEC
