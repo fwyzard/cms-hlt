@@ -1,1 +1,1 @@
-in progress - fix HLT_DisplacedPhoton65* paths
+in progress - fix PFMET-only paths
