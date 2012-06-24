@@ -1,1 +1,1 @@
-in progress - fix PFMET-only paths
+in progress - remove more obsolete paths
