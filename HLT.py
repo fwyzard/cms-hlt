@@ -1,1 +1,1 @@
-in progress - rename hltPFMHTProducer to hltPFMETProducer, and revert to uncorrected PF jets
+in progress - remove some obsolte paths
