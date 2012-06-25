@@ -1,1 +1,1 @@
-fix paths using PFnoPU HT
+include standard HLTParticleFlowSequence in HLTPFL1FastL2L3JetTriggerSequencePromptTracks, necessary to properly apply L1FastJet pileup subtraction
