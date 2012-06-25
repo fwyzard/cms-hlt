@@ -1,1 +1,1 @@
-fix prescales for HLT_Mu17_eta2p1_TriCentralPFNoPUJet45_35_25_v1
+changed Hbb seed to include L1_SingleMu12er (2012 L1 menu v2)
