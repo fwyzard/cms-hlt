@@ -1,1 +1,1 @@
-sr #129852 seed change for QuadJet50*
+Migrate for new code base (should work out of the box!)
