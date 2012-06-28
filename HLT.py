@@ -1,1 +1,1 @@
-Silence also in LogMonitorFilter
+InputTag "unused" when not used
