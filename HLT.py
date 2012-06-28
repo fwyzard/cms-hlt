@@ -1,1 +1,1 @@
-prescale adjustment for susy path
+Import prescale updates for 7E33/8E33
