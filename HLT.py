@@ -1,1 +1,1 @@
-remove misleading "offlineBeamSpot" as possible InputTag
+Silence some modules in the Message Logger
