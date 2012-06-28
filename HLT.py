@@ -1,1 +1,1 @@
-Silence some modules in the Message Logger
+Silence also in LogMonitorFilter
