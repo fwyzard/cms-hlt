@@ -1,1 +1,1 @@
-Also update prescales in online menu
+MessageLogger change
