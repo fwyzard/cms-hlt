@@ -1,1 +1,1 @@
-Adding FastTimer service
+adjust fasttimerservice parameters
