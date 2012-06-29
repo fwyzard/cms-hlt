@@ -1,1 +1,1 @@
-InputTag "unused" when not used
+Adding FastTimer service
