@@ -1,1 +1,1 @@
-Start synchronizing
+Synchro
