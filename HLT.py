@@ -1,1 +1,1 @@
-adjust fasttimerservice parameters
+Add to HLTMON eventcontent (sr #130006)
