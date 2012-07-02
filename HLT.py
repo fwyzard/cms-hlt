@@ -1,1 +1,1 @@
-Add to HLTMON eventcontent (sr #130006)
+FastTimer: no timing by module!
