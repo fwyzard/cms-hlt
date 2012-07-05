@@ -1,1 +1,1 @@
-use tech bit 0 instead of 4
+[sr #130129] remove HLTDQMResults stream
