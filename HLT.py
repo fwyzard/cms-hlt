@@ -1,1 +1,1 @@
-[sr #130129] remove HLTDQMResults stream
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_1/HLT/V423.
