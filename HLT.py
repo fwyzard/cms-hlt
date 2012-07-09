@@ -1,1 +1,1 @@
-minor changes to HLT_Tau2Mu_ItTrack
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_1/HLT/V426.
