@@ -1,1 +1,1 @@
-sr # 130210 - HLT_Tau2MuItTrack
+sr #130266 HLT_L2Mu70_eta2p1_PFMET* paths
