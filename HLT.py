@@ -1,1 +1,1 @@
-sr #130299 - Mu17_Mu8 and Mu13_Mu8 with dZ filter
+sr #130325 - update of lepton+tau triggers
