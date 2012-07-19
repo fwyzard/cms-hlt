@@ -1,1 +1,1 @@
-set GT GR_H_V30
+Migrate for extended FastTimerService (sr #130402)
