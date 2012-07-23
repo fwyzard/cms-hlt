@@ -1,1 +1,1 @@
-Bump version numbers for modified paths since /dev/CMSSW_5_2_1/HLT/V427
+High-lumi prescale changes for 7e33v4. Low lumi columns TBD
