@@ -1,1 +1,1 @@
-Extended FastTimerService (sr #130815)
+set enableDQMbyPathCounters = False in FastTimerService (Also sr #130815)
