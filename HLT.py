@@ -1,1 +1,1 @@
-Remove L1GtTriggerMaskAlgoTrigTrivialProducer (sr #130994)
+sr #130869 - changed to drop * for first output command in Calibration stream
