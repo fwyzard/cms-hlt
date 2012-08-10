@@ -1,1 +1,1 @@
-sr #130869 - changed to drop * for first output command in Calibration stream
+sr #131080 - update seeds for 2 SUSY paths
