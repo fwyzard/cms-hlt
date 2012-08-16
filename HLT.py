@@ -1,1 +1,1 @@
-sr #131080 - update seeds for 2 SUSY paths
+Adding event conetnt ReleaseValidation (sr #130651)
