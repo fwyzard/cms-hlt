@@ -1,1 +1,1 @@
-sr #131271 BTagMu prescales
+Added parameters for GlobalTag module
