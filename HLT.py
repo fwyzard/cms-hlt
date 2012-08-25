@@ -1,1 +1,1 @@
-Added parameters for GlobalTag module
+Remove (unexisting) MaxEta parameter from FastjetJetProducer's
