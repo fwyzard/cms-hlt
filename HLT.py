@@ -1,1 +1,1 @@
-Remove (unexisting) MaxEta parameter from FastjetJetProducer's
+sr #131509: Bug fix for high pT taus efficiency
