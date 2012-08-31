@@ -1,1 +1,1 @@
-Fix labels of prescale modules
+Remove HLT_PAL1Tech_HCAL_HF_single_channel_v1
