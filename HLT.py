@@ -1,1 +1,1 @@
-Remove HLT_PAL1Tech_HCAL_HF_single_channel_v1
+sr #131717: add L1_SingleMu14er in OR as L1seed of MSSM Hbb (semi-leptonic) triggers
