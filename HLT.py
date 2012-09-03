@@ -1,1 +1,1 @@
-Set DQM prescale for PA columns to 1
+...I mean 2
