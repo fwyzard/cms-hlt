@@ -1,1 +1,1 @@
-saveAs /users/krajczar/Tests/HLTMasterTable030912V16/V4 [235291]
+Set DQM prescale for PA columns to 1
