@@ -1,1 +1,1 @@
-sr #131780 - change of seed for HLT_Ele20_CaloIdVT_CaloIsoVT_TrkIdT_TrkIsoVT_SC4_Mass50
+bumped path versions wrt /dev/CMSSW_5_2_1/HLT/V445
