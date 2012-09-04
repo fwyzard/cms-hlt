@@ -1,1 +1,1 @@
-bumped path versions wrt /dev/CMSSW_5_2_1/HLT/V445
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_6/HLT/V21.
