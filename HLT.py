@@ -1,1 +1,1 @@
-Update PA prescales (sr #131820)
+prescale edit for sr #131717
