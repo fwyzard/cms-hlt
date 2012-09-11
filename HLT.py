@@ -1,1 +1,1 @@
-sr #131968: New path: HLT_HcalUTCA
+sr #131956: new lepton+Tau+MET paths
