@@ -1,1 +1,1 @@
-sr #131946: QuadJet45
+sr #131968: New path: HLT_HcalUTCA
