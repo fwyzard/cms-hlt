@@ -1,1 +1,1 @@
-sr #131957: new monophoton + met parking triggers
+Import 4 paths from Phat (sr #131856 - VBF/MET parking)
