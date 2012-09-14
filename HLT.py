@@ -1,1 +1,1 @@
-sr #131956: new lepton+Tau+MET paths - part 2
+changed logical expression in new lepton + tau seeds to be the seeds currently in the menu
