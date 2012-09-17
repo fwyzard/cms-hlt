@@ -1,1 +1,1 @@
-moved HLT_HcalUTCA from Commissioning to HcalNZS (sr #131968)
+sr #131969 lepton+jet triggers (part 1)
