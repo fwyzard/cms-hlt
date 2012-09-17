@@ -1,1 +1,1 @@
-prescales for sr #131956
+Update L1 seed for HLT_Ele13_eta2p1_WP90Rho_LooseIsoPFTau20
