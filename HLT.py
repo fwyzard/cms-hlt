@@ -1,1 +1,1 @@
-Update L1 seed for HLT_Ele13_eta2p1_WP90Rho_LooseIsoPFTau20
+bumped path versions wrt /dev/CMSSW_5_2_6/HLT/V21
