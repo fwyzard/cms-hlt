@@ -1,1 +1,1 @@
-ReconnectEachRun = true
+Remove unassigned paths from DQM stream
