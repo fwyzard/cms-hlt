@@ -1,1 +1,1 @@
-Remove extra columns
+Remove also Collisions+HighRandom PS column
