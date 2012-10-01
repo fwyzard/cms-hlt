@@ -1,1 +1,1 @@
-sr #132543: fix the definition of the B and DQM streams
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_6/HLT/V59.
