@@ -1,1 +1,1 @@
-sr #132391: tune of high lumi prescales for BTagMu paths
+sr #132543: fix the definition of the B and DQM streams
