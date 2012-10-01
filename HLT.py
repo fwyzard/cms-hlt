@@ -1,1 +1,1 @@
-sr #132570: 2E33 column L1*HLT prescale fixes for egamma paths
+sr #132391: tune of high lumi prescales for BTagMu paths
