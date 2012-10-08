@@ -1,1 +1,1 @@
-sr #132735 and 132736 - control paths for QuadJet and QuadPFJet VBF paths
+disable parking triggers in columns 0 and 1 (no parking)
