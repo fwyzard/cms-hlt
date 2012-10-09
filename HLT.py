@@ -1,1 +1,1 @@
-update L1 seed for MET120 paths
+Migrate for checkSC in DZ filter (set to true only for di-electron DZ filter)
