@@ -1,1 +1,1 @@
-Bump path version numbers
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_6/HLT/V70.
