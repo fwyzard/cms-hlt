@@ -1,1 +1,1 @@
-sr #132936: monitoring double-tau path
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_6/HLT/V73.
