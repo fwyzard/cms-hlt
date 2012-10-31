@@ -1,1 +1,1 @@
-removed extra prescale columns
+Remove one unassigned path from the DQM stream
