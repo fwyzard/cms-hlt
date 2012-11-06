@@ -1,1 +1,1 @@
-sr #133620: prescale change for tau path 8e33v2.0
+sr #133528: FSQ triggers for 2013 pPb run
