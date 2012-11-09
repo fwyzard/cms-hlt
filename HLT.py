@@ -1,1 +1,1 @@
-Update PS in columns 4, 5, 6 for HLT_RelIso1p0Mu5 and HLT_Mu8
+Same PS in HLT_Mu5 as in HLT_RelIso1p0Mu5
