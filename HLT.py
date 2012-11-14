@@ -1,1 +1,1 @@
-Adding pPb PA Jet Paths (sr #133388)
+Assign new PA paths to PAPhysics (for now)
