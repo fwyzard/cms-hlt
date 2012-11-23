@@ -1,1 +1,1 @@
-Updated supportedProcesses in FastTimerService
+Prescale update following L1_SingleJet68 PS change
