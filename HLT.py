@@ -1,1 +1,1 @@
-Fixes (by Krisztian Krajczar, HI group) to the previos PD assigments for pA
+L1_SingleEG5 -> L1_SingleEG5_BptxAND (part one...)
