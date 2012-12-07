@@ -1,1 +1,1 @@
-L1_SingleEG5 -> L1_SingleEG5_BptxAND part two (AlCa tags)
+L1_DoubleJet20_RomanPotsOR -> L1_DoubleJet20_TotemDiffractive
