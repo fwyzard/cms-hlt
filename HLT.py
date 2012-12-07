@@ -1,1 +1,1 @@
-L1_DoubleJet20_RomanPotsOR -> L1_DoubleJet20_TotemDiffractive
+L1_SingleJet16	-> L1_SingleJet16_BptxAND
