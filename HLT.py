@@ -1,1 +1,1 @@
-sr # 134440: 4. Muon paths (finalized with last three path updates)
+sr #134440: 5. Photon paths
