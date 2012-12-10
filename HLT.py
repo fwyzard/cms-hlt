@@ -1,1 +1,1 @@
-sr #134440: 6. New electron paths
+Rename hltL1sPASingleEG5 as hltL1sPASingleEG5BptxAND
