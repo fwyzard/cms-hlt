@@ -1,1 +1,1 @@
-sr # 134440: 3. MinBias paths
+sr #134440: 4. Muon paths
