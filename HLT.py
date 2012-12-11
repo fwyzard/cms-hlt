@@ -1,1 +1,1 @@
-Rename hltL1sPASingleEG5 as hltL1sPASingleEG5BptxAND
+Tentative fix of HLT_PAL1DoubleEG5DoubleEle6_CaloIdT_TrkIdVL, plus a few L1Filter renames
