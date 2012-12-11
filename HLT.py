@@ -1,1 +1,1 @@
-Fix the name of one prescale module
+fix hltDoubleEG5DoubleEle6CaloIdTTrlIdVLClusterShapeFilter
