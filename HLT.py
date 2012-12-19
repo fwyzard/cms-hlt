@@ -1,1 +1,1 @@
-Fixes to pA prescales
+Import new PrescaleService adding PA2MHz column
