@@ -1,1 +1,1 @@
-sr #134720 - add two PA paths to ExpressPhysics
+put smart prescales for 2 new express stream paths
