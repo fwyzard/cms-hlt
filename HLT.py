@@ -1,1 +1,1 @@
-put smart prescales for 2 new express stream paths
+sr #134826: Update of high-pT track trigger paths
