@@ -1,1 +1,1 @@
-sr #134848: Datasets and trigger path assignments for the pp reference data-taking
+Rename HLT_PixelTrack* paths in the PIon menu as HLT_PPPixelTrack*, to avoid interference with the pp menu
