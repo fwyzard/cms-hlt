@@ -1,1 +1,1 @@
-sr #134826: Update of high-pT track trigger paths
+sr #134848: Datasets and trigger path assignments for the pp reference data-taking
