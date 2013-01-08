@@ -1,1 +1,1 @@
-sr #134910 - uTCA trigger in pPb menu
+fix the name of the PS module in HLT_HcalUTCA
