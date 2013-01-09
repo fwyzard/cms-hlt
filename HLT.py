@@ -1,1 +1,1 @@
-fix the name of the PS module in HLT_HcalUTCA
+sr #134900: request to add and modify [forward] upc trigger paths for pPb run
