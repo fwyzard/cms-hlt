@@ -1,1 +1,1 @@
-sr #134945: Castor HLT paths for pA run
+Move paths from PAMinBiasUPC to the new PAMinBias1/2 datasets
