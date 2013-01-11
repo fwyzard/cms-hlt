@@ -1,1 +1,1 @@
-sr #134945: Castor HLT paths for pA run
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_6/HLT/V142.
