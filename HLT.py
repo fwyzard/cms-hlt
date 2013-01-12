@@ -1,1 +1,1 @@
-Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_6/HLT/V145.
+remove PP* strams and paths, and all PS extra columns
