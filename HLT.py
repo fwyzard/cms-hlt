@@ -1,1 +1,1 @@
-sr #135006: assign all paths in the PA* datasets to ExpressPhysics too
+sr #135011: Change in the the CASTOR beam halo trigger
