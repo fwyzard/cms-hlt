@@ -1,1 +1,1 @@
-sr #135011: Change in the the CASTOR beam halo trigger
+Fix smart prescale for express in HLT_PAZeroBiasPixel_SingleTrack
