@@ -1,1 +1,1 @@
-sr #135252: FSQ triggers for pp reference run
+renamed 3 new TotemDiffractive paths to PP instead of PA
