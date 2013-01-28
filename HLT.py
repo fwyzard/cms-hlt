@@ -1,1 +1,1 @@
-Bump path version number of the 5 updated paths
+sr #135407: Protection again "too many pixel clusters" message from monster events
