@@ -1,1 +1,1 @@
-sr #135407: Protection again "too many pixel clusters" message from monster events
+Dump version nr of the paths modified by  #135407
