@@ -1,1 +1,1 @@
-TEST PS COLUMNS: NOT TO BE USED!
+Synchronize PrescaleService with the current online pA menu (sr #135518)
