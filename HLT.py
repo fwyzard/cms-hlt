@@ -1,1 +1,1 @@
-Synchronize PrescaleService with the current online pA menu (sr #135518)
+Move all paths previously in PAMinBias1/2 into PAMinBiasUPC
