@@ -1,1 +1,1 @@
-Synchronize PrescaleService with the current online pA menu (sr #135518)
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_6/HLT/V157.
