@@ -1,1 +1,1 @@
-Fix prescales as in /cdaq/physics/Run2013PA/296Bunches/v3.0LowerLumi/HLT/V2
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_6/HLT/V161.
