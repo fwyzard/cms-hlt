@@ -1,1 +1,1 @@
-Update prescales for new paths (sr #135617)
+Created by ConfDBCreateConfig from master /dev/CMSSW_5_2_6/HLT/V164.
