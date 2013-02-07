@@ -1,1 +1,1 @@
-Update prescales for new paths (sr #135617)
+Add 4MHz prescale column (for pp)
