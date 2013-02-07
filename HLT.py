@@ -1,1 +1,1 @@
-Add 4MHz prescale column (for pp)
+Add HLT_PAExclDijet35_HFOR (for the pp menu)
