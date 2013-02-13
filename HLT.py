@@ -1,1 +1,1 @@
-hltCaloL1FastJetEtaSortedVBF
+hltEGRegionalL1SingleEG20ORL1SingleEG22
