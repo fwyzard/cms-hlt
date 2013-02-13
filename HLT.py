@@ -1,1 +1,1 @@
-Remove duplicate producers between HLT_DoubleMu4_Jpsi_Displaced and HLT_DoubleMu4_JpsiTk_Displaced
+hltCaloL1FastJetEtaSortedVBF
