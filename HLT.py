@@ -1,1 +1,1 @@
-hltEGRegionalL1SingleEG20ORL1SingleEG22
+Remove duplicate iso -> isol producers
