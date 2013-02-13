@@ -1,1 +1,1 @@
-Remove duplicate producers in HLTEleXXWP80Sequence's
+Remove duplicate producers between HLT_DoubleMu4_Jpsi_Displaced and HLT_DoubleMu4_JpsiTk_Displaced
