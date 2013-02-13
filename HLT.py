@@ -1,1 +1,1 @@
-Remove unreferenced sequences
+Remove duplicate producers in HLTEleXXWP80Sequence's
