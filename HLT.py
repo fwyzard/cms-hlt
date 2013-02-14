@@ -1,1 +1,1 @@
-Bump version nr of modified paths
+hltL1Seeded3HitElectronTrackIsol -> hltL1Seeded3HitElectronTrackIso
