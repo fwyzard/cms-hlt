@@ -1,1 +1,1 @@
-Migrate to 620pre4 code base (fingers crossed)
+Switch some bools to get back old behaviour
