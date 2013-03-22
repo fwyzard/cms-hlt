@@ -1,1 +1,1 @@
-hltL1Seeded3HitElectronTrackIsol -> hltL1Seeded3HitElectronTrackIso
+Migrate to 620pre4 code base (fingers crossed)
