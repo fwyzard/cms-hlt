@@ -1,1 +1,1 @@
-PD assignment of the new paths (1)
+Assign nw paths to PD's (2)
