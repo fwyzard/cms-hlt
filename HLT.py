@@ -1,1 +1,1 @@
-Assign nw paths to PD's (2)
+Finished assigning PD's
