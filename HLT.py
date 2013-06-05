@@ -1,1 +1,1 @@
-Fix one version nr
+Fixup StripCPEfromTrackAngle dependencies
