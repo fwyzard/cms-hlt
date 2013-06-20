@@ -1,1 +1,1 @@
-fix MinNJets in hltEle25CaloIdVTTrkIdTQuadCentralPFJet30EleCleaned
+do not use offlineMuonSeed in the L2Muon sequence
