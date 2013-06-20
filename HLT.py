@@ -1,1 +1,1 @@
-do not use offlineMuonSeed in the L2Muon sequence
+fix maxEta in hltDiBJet20Central
