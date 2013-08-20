@@ -1,1 +1,1 @@
-fix maxEta in hltDiBJet20Central
+Fixes for tau paths, from Arun/Michal
