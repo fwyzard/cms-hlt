@@ -1,1 +1,1 @@
-Add one further PS column for the Half rate menu
+Convert string to InputTag in clients of L3MumuTrackingRegion
