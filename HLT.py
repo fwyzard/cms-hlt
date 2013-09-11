@@ -1,1 +1,1 @@
-saveAs /dev/CMSSW_6_2_0/HLT/V40 [240259]
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_0_0/HLT/V1.
