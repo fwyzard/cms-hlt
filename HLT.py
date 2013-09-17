@@ -1,1 +1,1 @@
-Migration fixup of hltIslandBasicClustersHI
+Migration fixup of hltMulti5x5SuperClustersActivity
