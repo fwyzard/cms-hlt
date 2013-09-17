@@ -1,1 +1,1 @@
-Migration fixup of hltMulti5x5SuperClustersActivity
+Migration fixup of hltHybridSuperClustersActivity
