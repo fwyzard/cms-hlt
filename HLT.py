@@ -1,1 +1,1 @@
-Fix for EgammaHLTMulti5x5ClusterProducer instance
+Fixup of EgammaHLTEcalRecIsolationProducer instances
