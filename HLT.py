@@ -1,1 +1,1 @@
-Migration fixup of hltMulti5x5SuperClustersL1Seeded
+Migration fixup of hltEcalRegionalEgammaRecHit
