@@ -1,1 +1,1 @@
-Migration for Ecal/Egamma strings-to-InputTag
+Migration fixup of hltIslandBasicClustersHI
