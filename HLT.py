@@ -1,1 +1,1 @@
-Fixup of EgammaHLTEcalRecIsolationProducer instances
+More fixes
