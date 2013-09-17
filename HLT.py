@@ -1,1 +1,1 @@
-Migration fixup of hltEcalRegionalEgammaRecHit
+Migration fixup of hltMulti5x5BasicClustersActivity
