@@ -1,1 +1,1 @@
-Remove 2 Services no longer available with XDAQ removal
+Migrate to 700pre4 template (beware of problems: GIT based)
