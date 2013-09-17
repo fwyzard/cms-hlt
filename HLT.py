@@ -1,1 +1,1 @@
-Fix from Stefano Agiro for "Old" (twice)
+Fix for EgammaHLTMulti5x5ClusterProducer instance
