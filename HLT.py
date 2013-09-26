@@ -1,1 +1,1 @@
-Raw migration - needs fixup!!
+Fixup of PFClusterProducer instances
