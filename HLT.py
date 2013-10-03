@@ -1,1 +1,1 @@
-Update hltSiStripClusters[Reg] configs (2 instances)
+Corresponding fixup of HIon instance hltHISiStripClusters
