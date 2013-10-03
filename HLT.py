@@ -1,1 +1,1 @@
-Fixup of normal tracking (wip!)
+More fixup of normal tracking
