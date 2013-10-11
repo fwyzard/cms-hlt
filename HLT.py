@@ -1,1 +1,1 @@
-More HI fixes
+Flip GeometricInnerState to true to reproduce previous behaviour
