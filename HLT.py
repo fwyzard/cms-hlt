@@ -1,1 +1,1 @@
-Flip GeometricInnerState to true to reproduce previous behaviour
+New base parsing for further developments (post pre6)
