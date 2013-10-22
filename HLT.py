@@ -1,1 +1,1 @@
-Try HalfRate
+Reorder HlfRate paths before final paths
