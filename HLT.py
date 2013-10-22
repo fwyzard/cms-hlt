@@ -1,1 +1,1 @@
-Fix more HalfRate for endpaths
+Fix order of DQM paths
