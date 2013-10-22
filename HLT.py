@@ -1,1 +1,1 @@
-Fix order of DQM paths
+Migration for EgammaHLT tagset
