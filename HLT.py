@@ -1,1 +1,1 @@
-Migrate for new parameters (PFProducer plugin) - unused as long as bool useEGammaFilters = false (old behaviour)
+Update GT to GR_H_V33
