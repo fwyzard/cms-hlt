@@ -1,1 +1,1 @@
-Rename hltIter4ESPPixelLayerPairs* to hltIter4ESPPixelLessLayerPairs* and propagate
+Remove HLT_HT360_SingleDisplacedPFJet60 path, which was included by mistake in the half rate menu
