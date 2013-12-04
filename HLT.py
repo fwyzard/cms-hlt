@@ -1,1 +1,1 @@
-Change GT to GR_H_V33
+Remove HLT_HT360_SingleDisplacedPFJet60 from the half rate menu, as it was included there by mistake
