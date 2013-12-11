@@ -1,1 +1,1 @@
-Migration to 700pre10
+Remove 2 SeedingLayersESProducer instances as not being used
