@@ -1,1 +1,1 @@
-Fixup hcalRecAlgos = cms.ESProducer("HcalRecAlgoESProducer")
+Add a couple of producers to HLTMON and ReleaseValidation
