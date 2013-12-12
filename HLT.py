@@ -1,1 +1,1 @@
-Remove 2 SeedingLayersESProducer instances as not being used
+Fixup hcalRecAlgos = cms.ESProducer("HcalRecAlgoESProducer")
