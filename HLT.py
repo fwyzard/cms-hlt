@@ -1,1 +1,1 @@
-Changing hltL3Muons to hltL3MuonCandidates (for PR #1964)
+Fix tau paths with regional tracking, as in jira CMSHLT-45
