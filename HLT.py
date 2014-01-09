@@ -1,1 +1,1 @@
-Migration for added RecoTauTag plugins (PR # 1910)
+Changing hltL3Muons to hltL3MuonCandidates (for PR #1964)
