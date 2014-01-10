@@ -1,1 +1,1 @@
-Change InputTag hltL3Muons to hltL3MuonCandidates (PR # 1964)
+More muons (1964)
