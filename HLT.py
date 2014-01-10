@@ -1,1 +1,1 @@
-Fix tau paths with regional tracking, as in jira CMSHLT-45
+Migration for muons (PR 1964)
