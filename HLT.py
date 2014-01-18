@@ -1,1 +1,1 @@
-Migration for muons (PR 1964)
+Change default prescale to "7e33"
