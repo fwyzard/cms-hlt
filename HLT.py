@@ -1,1 +1,1 @@
-Change default prescale to "7e33"
+Migration to pre12 code base.
