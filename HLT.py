@@ -1,1 +1,1 @@
-Import ES modules for AK4 jets
+Rename HLTRecoJetSequencePrePF as HLTRecoJetSequenceAK5PrePF
