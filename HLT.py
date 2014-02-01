@@ -1,1 +1,1 @@
-Fix KT4 jets in Iterative Tracking for PA
+Fix JetCollection inputs in MuonIdProducer's
