@@ -1,1 +1,1 @@
-Migrate in preparation of SeedingLayers ESP to EDP switchover
+Migration of SeedingLayers from ESP to EDP structure (#2286)
