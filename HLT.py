@@ -1,1 +1,1 @@
-Migration for Particle Flow RecHits and Clusters (PR #2370)
+Fix InputTags of PF RecHit modules
