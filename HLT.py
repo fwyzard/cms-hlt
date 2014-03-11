@@ -1,1 +1,1 @@
-Fixup InputTags for PFRecHit modules
+Fix another InputTag
