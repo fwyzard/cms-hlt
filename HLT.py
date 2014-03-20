@@ -1,1 +1,1 @@
-Silence cout destination in MessageLogger
+Fix HLTMON event content
