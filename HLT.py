@@ -1,1 +1,1 @@
-Reorder of PF modules
+Silence cout destination of MessageLogger
