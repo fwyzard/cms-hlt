@@ -1,1 +1,1 @@
-One more RecHit collection to be fixed (for pA)
+Silence cout destination in MessageLogger
