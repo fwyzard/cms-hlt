@@ -1,1 +1,1 @@
-Move to 710pre5 template
+remove 3 un-needed modules
