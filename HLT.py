@@ -1,1 +1,1 @@
-Finish migration to the ECal global unpacker
+Fix (a few) calo sequences
