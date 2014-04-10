@@ -1,1 +1,1 @@
-Fix hlt2ElectronPFMHTPt108 filter in HLT_Ele36_WP80_WCandPt108
+Integrate Jira CMSHLT-52: Request for an integration of tau paths with offline producers
