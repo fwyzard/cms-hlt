@@ -1,1 +1,1 @@
-Fix (a few) calo sequences
+Migrate to pre6 template
