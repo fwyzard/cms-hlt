@@ -1,1 +1,1 @@
-Migrate to pre6 template
+Raw template migration for PR3211
