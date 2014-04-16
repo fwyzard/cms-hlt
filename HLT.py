@@ -1,1 +1,1 @@
-Another trial for 3211
+Remove DTDataIntegrityTask = cms.Service( "DTDataIntegrityTask",...)
