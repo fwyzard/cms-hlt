@@ -1,1 +1,1 @@
-Fixup configs of PFBlockProducer instances
+Fix PFB-Reg config for muons
