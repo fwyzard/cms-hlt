@@ -1,1 +1,1 @@
-Remove unreferenced sequences
+Migration to 710pre7 template
