@@ -1,1 +1,1 @@
-imported prescale service, deleted most of ESModules
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_1_1/HLT/V6.
