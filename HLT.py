@@ -1,1 +1,1 @@
-imported AOutput
+remove HLTriggerFinalPath from stream A
