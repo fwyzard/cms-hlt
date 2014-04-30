@@ -1,1 +1,1 @@
-Remove obsolete EBHltTask/EEHltTask
+clean up the MessageLogger configuration
