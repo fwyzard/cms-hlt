@@ -1,1 +1,1 @@
-Migration to fix problem w/ SeedinghLayersEDProducer (cf #3577)
+Adding hltEcalFEDMonitor = cms.EDAnalyzer( "EcalFEDMonitor")
