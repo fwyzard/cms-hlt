@@ -1,1 +1,1 @@
-Migration to 710pre7 template
+Migration to fix problem w/ SeedinghLayersEDProducer (cf #3577)
