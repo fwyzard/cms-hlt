@@ -1,1 +1,1 @@
-Adding hltEcalFEDMonitor = cms.EDAnalyzer( "EcalFEDMonitor")
+Remove obsolete EBHltTask/EEHltTask
