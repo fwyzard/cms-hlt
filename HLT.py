@@ -1,1 +1,1 @@
-remove HLTriggerFinalPath from stream A
+Add MET paths, CMSHLT-62
