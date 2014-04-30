@@ -1,1 +1,1 @@
-Migration to fix problem (cf #3577)
+Adding hltEcalFEDMonitor = cms.EDAnalyzer( "EcalFEDMonitor")
