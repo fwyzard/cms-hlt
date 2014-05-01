@@ -1,1 +1,1 @@
-clean up the MessageLogger configuration
+Revert ML changes
