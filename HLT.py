@@ -1,1 +1,1 @@
-made all muon paths have _v1
+Integrate BTag template path, CMSHLT-66
