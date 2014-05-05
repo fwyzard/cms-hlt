@@ -1,1 +1,1 @@
-Migration for yet another tracking parameter
+Migration for ecal's #3448 (confdb template no longer compatible with pre7 release)
