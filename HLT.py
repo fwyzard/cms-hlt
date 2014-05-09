@@ -1,1 +1,1 @@
-Migration to most-recent template still compatible with CMSSW 710pre7
+Fixup ML as in 710 to avoid duplicate printout of messages
