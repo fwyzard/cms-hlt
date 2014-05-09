@@ -1,1 +1,1 @@
-Import PFBlockProducer instance hltParticleFlowBlock to complete migration for PR 3385
+Remove unreferenced sequences
