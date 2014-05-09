@@ -1,1 +1,1 @@
-Add useUncertDB parameter to racAlgoConfig PSet in hltDt1DRecHits
+Raw template migration (for PR 3211)
