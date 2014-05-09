@@ -1,1 +1,1 @@
-Raw migration for PFBlockProducer (PR 3385)
+Import PFBlockProducer instance hltParticleFlowBlock to complete migration for PR 3385
