@@ -1,1 +1,1 @@
-Rename HLTPixelMatchElectronL1TrackingSequence as HLTPixelMatchElectronL1SeededTrackingSequence
+Fix names in hltSelectedPFTausTrackPt1MediumIsolation*
