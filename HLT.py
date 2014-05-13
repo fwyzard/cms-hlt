@@ -1,1 +1,1 @@
-migrated to CMSSW_7_1_0_pre7_HLT4
+imported ecalSeverityLevel and hltEcalRecHit from 710 master
