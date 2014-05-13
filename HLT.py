@@ -1,1 +1,1 @@
-CMSHLT-65 - tau template paths
+Remove "For 2015" from the module' names wherever possble
