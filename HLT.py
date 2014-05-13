@@ -1,1 +1,1 @@
-imported ecalSeverityLevel and hltEcalRecHit from 710 master
+added some contact and description fields
