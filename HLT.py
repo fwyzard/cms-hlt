@@ -1,1 +1,1 @@
-Integrate Jet POG templates, CMSHLT-67
+Rename HLTPixelMatchElectronL1TrackingSequence as HLTPixelMatchElectronL1SeededTrackingSequence
