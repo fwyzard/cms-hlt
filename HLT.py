@@ -1,1 +1,1 @@
-Fix names in hltSelectedPFTausTrackPt1MediumIsolation*
+migrated to CMSSW_7_1_0_pre7_HLT4
