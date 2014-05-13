@@ -1,1 +1,1 @@
-Remove "For 2015" from the module' names wherever possble
+Integrate Jet POG templates, CMSHLT-67
