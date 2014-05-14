@@ -1,1 +1,1 @@
-added some contact and description fields
+Migrate to add parameter to PropagatorWithMaterialESProducer instances
