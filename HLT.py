@@ -1,1 +1,1 @@
-Migrate to pre8 template (needs another py config update)
+Fixup HLTPSetPvClusterComparer / PixelVertexProducer instances from pre8 migration
