@@ -1,1 +1,1 @@
-Migration to add parameter to PropagatorWithMaterialESProducer
+Migrate to pre8 template (needs another py config update)
