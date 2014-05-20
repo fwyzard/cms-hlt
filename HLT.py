@@ -1,1 +1,1 @@
-Migrate to pre8 template - needs further py updates
+Fix config following pre8 migration
