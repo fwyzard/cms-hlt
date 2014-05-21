@@ -1,1 +1,1 @@
-Fix config following pre8 migration
+remove HI related ESModule's and PSet's
