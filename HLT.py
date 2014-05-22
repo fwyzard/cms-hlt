@@ -1,1 +1,1 @@
-Remove HLT_PFMET150_NoiseCleaned, which is a duplicate of HLT_PFMET180_NoiseCleaned
+Get rid of cross-trigger paths, as they are not suited to a template menu
