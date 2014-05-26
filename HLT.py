@@ -1,1 +1,1 @@
-Get rid of cross-trigger paths, as they are not suited to a template menu
+Integrate tracking templates JIRA CMSHLT-68. PSet's still to get fixed!
