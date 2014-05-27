@@ -1,1 +1,1 @@
-Fix sequence for iso electrons
+Attempt: move TransientTrackingRecHitBuilder to value "WithTrackAngle" as before
