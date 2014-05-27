@@ -1,1 +1,1 @@
-Fix input tags (other will follow...)
+Fix sequence for iso electrons
