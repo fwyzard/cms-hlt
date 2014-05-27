@@ -1,1 +1,1 @@
-Attempt: move TransientTrackingRecHitBuilder to value "WithTrackAngle" as before
+Test (together with Mia): where to put the TTRHBuilder parameter?
