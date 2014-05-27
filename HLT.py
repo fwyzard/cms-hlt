@@ -1,1 +1,1 @@
-Fix one module name and remove unreferenced sequences (old IT)
+Move TTRHBuilder parameter into the OrderedHitsFactoryPSet.GeneratorPSet
