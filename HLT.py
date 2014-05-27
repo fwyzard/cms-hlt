@@ -1,1 +1,1 @@
-Test (together with Mia): where to put the TTRHBuilder parameter?
+Fix one module name and remove unreferenced sequences (old IT)
