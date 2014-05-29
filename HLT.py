@@ -1,1 +1,1 @@
-rename parabolicMagneticField as ParabolicParametrizedMagneticFieldProducer
+Fix PixelTracking sequence for L3Muons
