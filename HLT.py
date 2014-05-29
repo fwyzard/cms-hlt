@@ -1,1 +1,1 @@
-Fix last remaining ParabolicMF
+rename parabolicMagneticField as ParabolicParametrizedMagneticFieldProducer
