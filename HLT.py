@@ -1,1 +1,1 @@
-Put back pt threshold 2.5 in HLTPSetPvClusterComparer
+Replace HLTTrackReconstructionForIsoForElectrons sequence with HLTTrackReconstructionForIsoElectronIter02 everywhere
