@@ -1,1 +1,1 @@
-Fix PixelTracking sequence for L3Muons
+Fix inputs in hltIter1ElectronsMerged
