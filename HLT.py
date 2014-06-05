@@ -1,1 +1,1 @@
-Make string TrajectoryBuilder dummy in the config of CkfTrackCandidateMaker
+Rename coherently a few merger modules
