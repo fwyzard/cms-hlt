@@ -1,1 +1,1 @@
-Fix inputs in hltIter1ElectronsMerged
+Make string TrajectoryBuilder dummy in the config of CkfTrackCandidateMaker
