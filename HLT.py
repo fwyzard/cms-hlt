@@ -1,1 +1,1 @@
-hlt -> HLT in the name of all PSet's
+Fix input for first track in hltIter1MergedForBTag, JIRA CMSHLT-69
