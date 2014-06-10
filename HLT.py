@@ -1,1 +1,1 @@
-Migration to 710pre9 code template
+hlt -> HLT in the name of all PSet's
