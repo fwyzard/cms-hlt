@@ -1,1 +1,1 @@
-Fix input for first track in hltIter1MergedForBTag, JIRA CMSHLT-69
+Fix AlgorithmName in hltIter2PFlowCtfWithMaterialTracksForBTag, CMSHLT-70
