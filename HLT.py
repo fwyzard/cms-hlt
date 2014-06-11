@@ -1,1 +1,1 @@
-Updates to Egamma template paths, JIRA CMSHLT-71
+Remove unreferenced sequences
