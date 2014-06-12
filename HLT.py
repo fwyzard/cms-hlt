@@ -1,1 +1,1 @@
-Drop ::All from GT (cf #4125)
+Also fix connect string in GT
