@@ -1,1 +1,1 @@
-Migration to 710pre9 code template
+Drop ::All from GT (cf #4125)
