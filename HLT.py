@@ -1,1 +1,1 @@
-Drp ::All from GT (cf #4125)
+also fix connect string in GT
