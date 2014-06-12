@@ -1,1 +1,1 @@
-Migration to 710pre9 code template
+Drp ::All from GT (cf #4125)
