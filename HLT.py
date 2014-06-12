@@ -1,1 +1,1 @@
-Addition of IsoTkMu24 path, JIRA CMSHLT-72
+Ops... forgot importing new PSets
