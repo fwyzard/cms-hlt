@@ -1,1 +1,1 @@
-Migration fixing templates of two modules ('PixelVertexCollectionTrimmer', 'PFTauDiscriminatorLogicalAndProducer')
+Addition of IsoTkMu24 path, JIRA CMSHLT-72
