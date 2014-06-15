@@ -1,1 +1,1 @@
-Rename all ECAL PF RecHit and Cluster modules with "Unseeded" in them
+Update of Tau template paths, jira CMSHLT-73
