@@ -1,1 +1,1 @@
-also fix connect string in GT
+Migration to template 710 (needed 2 fixes)
