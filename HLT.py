@@ -1,1 +1,1 @@
-Migrate to 710final template (needed 2 fixes)
+Migrate HLTTaus to shrinking cone, CMSHLT-74
