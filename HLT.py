@@ -1,1 +1,1 @@
-Update of Tau template paths, jira CMSHLT-73
+Migrate to 710final template (needed 2 fixes)
