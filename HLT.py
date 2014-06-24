@@ -1,1 +1,1 @@
-Migrate HLTTaus to shrinking cone, CMSHLT-74
+Rdef
