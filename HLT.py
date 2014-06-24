@@ -1,1 +1,1 @@
-Rename the IterativeTracking sequences as in the (modified) tracking scenarios in CMSHLT-68
+Sinchronize PSet's with the (modiied) tracking scenarios as in CMSHLT-68
