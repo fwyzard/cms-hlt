@@ -1,1 +1,1 @@
-Replace diphoton template with Hgg based one, CMSHLT-76
+Fix InpuTag in hltIter1HighPtTkMuIsoCtfWithMaterialTracks
