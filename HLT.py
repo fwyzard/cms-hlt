@@ -1,1 +1,1 @@
-Modify an inputTag in HLT_Ele27_WP80_Gsf_v1
+Replace diphoton template with Hgg based one, CMSHLT-76
