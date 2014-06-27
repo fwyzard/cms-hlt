@@ -1,1 +1,1 @@
-Migration to template 710 (needed 2 fixes)
+Migrate to 711 code base
