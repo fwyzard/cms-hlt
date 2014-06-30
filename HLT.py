@@ -1,1 +1,1 @@
-Migration to 711 code base
+Update to CondDB (NOT ConfDB) V2
