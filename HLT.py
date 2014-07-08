@@ -1,1 +1,1 @@
-Integration of TOP PAG paths, CMSHLT-77
+Fix InputTag as hltIter2Merged in hltJetTrackAssociationSingleTopIsoMu24 and hltJetTrackAssociationSingleTopEle27
