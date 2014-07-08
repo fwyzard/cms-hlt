@@ -1,1 +1,1 @@
-Use CandidateSeededTrackingRegionsProducer to define tracking regions in IT, as for Michal' comment to CMSHLT-68
+Integration of TOP PAg paths, CMSHLT-77
