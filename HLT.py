@@ -1,1 +1,1 @@
-Fix GlobalTag ESSource
+Integration of TOP PAG paths, CMSHLT-77
