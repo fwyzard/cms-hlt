@@ -1,1 +1,1 @@
-maxNVertices=10, from M. Bluj
+Fix GlobalTag ESSource
