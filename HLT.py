@@ -1,1 +1,1 @@
-Fix InputTag as hltIter2Merged in hltJetTrackAssociationSingleTopIsoMu24 and hltJetTrackAssociationSingleTopEle27
+Migrate to CMSSW_7_1_2
