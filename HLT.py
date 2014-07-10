@@ -1,1 +1,1 @@
-Migrate to 711 code base
+Migration to CMSSW_712 template
