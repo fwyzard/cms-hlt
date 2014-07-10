@@ -1,1 +1,1 @@
-Integration of TOP PAg paths, CMSHLT-77
+Migration to CMSSW_7_1_2 template
