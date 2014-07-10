@@ -1,1 +1,1 @@
-Migration to CMSSW_7_1_2 template
+Add filters against fake primary vertices in the new Top PAG paths
