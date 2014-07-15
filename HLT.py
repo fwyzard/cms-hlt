@@ -1,1 +1,1 @@
-Add a filter for possible fake hltGoodOnlinePVs
+Egamma tickets CMSHLT-79 and CMSHLT-80
