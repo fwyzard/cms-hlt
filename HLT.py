@@ -1,1 +1,1 @@
-Turn on rho correction in egamma isolation filters, CMSHLT-79
+Update vetoes in egamma isolation producers, CMSHLT-80
