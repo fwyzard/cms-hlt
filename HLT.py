@@ -1,1 +1,1 @@
-restore filterParams in hltGoodOnlinePVs (why got they cancelled?)
+Turn on rho correction in egamma isolation filters, CMSHLT-79
