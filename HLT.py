@@ -1,1 +1,1 @@
-Update vetoes in egamma isolation producers, CMSHLT-80
+Integration of ee, eee, emu and mue paths (Higgs PAG) - CMSHLT-78
