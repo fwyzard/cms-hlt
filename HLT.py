@@ -1,1 +1,1 @@
-Fix muon parameters, as in the latest CMSHLT-78
+Migrate to 713 code template
