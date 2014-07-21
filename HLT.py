@@ -1,1 +1,1 @@
-Migrate to CMSSW_7_1_2 template
+Migration to 713 code template
