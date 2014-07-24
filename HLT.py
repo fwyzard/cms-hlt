@@ -1,1 +1,1 @@
-Integration of ee, eee, emu and mue paths (Higgs PAG), CMSHLT-78
+Migrate to CMSSW_7_1_3 *AND* Update hltElectronVertex module configuration, CMSHLT-85
