@@ -1,1 +1,1 @@
-Migrate to 713 code template
+Update hltElectronVertex module configuration, CMSHLT-85
