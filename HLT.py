@@ -1,1 +1,1 @@
-Migrate to CMSSW_7_1_3 *AND* Update hltElectronVertex module configuration, CMSHLT-85
+Update of the muon reconstruction and isolation in HLT paths, CMSHLT-86
