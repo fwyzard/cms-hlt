@@ -1,1 +1,1 @@
-CMSHLT-82 BPH paths
+fixed prescale module name
