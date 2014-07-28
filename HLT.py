@@ -1,1 +1,1 @@
-Fix EvFDaqDirector dir names to local pwd: "." (offline)
+CMSHLT-82 BPH paths
