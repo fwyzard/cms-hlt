@@ -1,1 +1,1 @@
-Rename module to have hlt prefix
+Migrate for added FastJet JetProducer parameters
