@@ -1,1 +1,1 @@
-Set more parameters
+Fix EvFDaqDirector dir names to local pwd: "." (offline)
