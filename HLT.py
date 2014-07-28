@@ -1,1 +1,1 @@
-Migration to 713 code template
+Migrate for extended parameterset in FastJet JetProducer
