@@ -1,1 +1,1 @@
-Migrate for extended parameterset in FastJet JetProducer
+Migration for another typo
