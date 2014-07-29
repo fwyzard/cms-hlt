@@ -1,1 +1,1 @@
-Migration for another typo
+Migration for 714patch1 (fixed) template
