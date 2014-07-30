@@ -1,1 +1,1 @@
-Migrate foer 714p1 template (fixed)
+Synchro with /dev/CMSSW_7_1_1/GRun/V75
