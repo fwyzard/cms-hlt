@@ -1,1 +1,1 @@
-Migration for 714patch1 (fixed) template
+Add three more keep statements to ReleaseValidation EventContent
