@@ -1,1 +1,1 @@
-Synchro with /dev/CMSSW_7_1_1/GRun/V75
+42/22 and 36/16_Mass95 diphoton paths from Higgs PAG, CMSHLT-81
