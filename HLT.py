@@ -1,1 +1,1 @@
-Add three products ot ReleaseValidation EventContent
+CMSHLT-84  EXOTICA Dimuon Trigger Path
