@@ -1,1 +1,1 @@
-42/22 and 36/16_Mass95 diphoton paths from Higgs PAG, CMSHLT-81
+CMSHLT-84  EXOTICA Dimuon Trigger Path for Run 2
