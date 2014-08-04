@@ -1,1 +1,1 @@
-CMSHLT-84  EXOTICA Dimuon Trigger Path
+HZZ2l2nu Photon + Jet Control trigger menus, CMSHLT-83
