@@ -1,1 +1,1 @@
-CMSHLT-84  EXOTICA Dimuon Trigger Path for Run 2
+Integration of BPH HLT paths, CMSHLT-82
