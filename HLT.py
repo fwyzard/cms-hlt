@@ -1,1 +1,1 @@
-CMSHLT-88, photon paths
+MultiJet Path for Exo, CMSHLT-89
