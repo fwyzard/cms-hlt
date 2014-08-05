@@ -1,1 +1,1 @@
-High Pt Double Electron and Photon Paths for EXO, CMSHLT-88
+CMSHLT-88, photon paths
