@@ -1,1 +1,1 @@
-NoBPTX paths for exo, CMSHLT-87 (and fix hltEgammaHcalPFClusterIsoRhoCorr -> hltEgammaHcalPFClusterIso)
+High Pt Double Electron and Photon Paths for EXO, CMSHLT-88
