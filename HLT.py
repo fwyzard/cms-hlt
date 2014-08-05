@@ -1,1 +1,1 @@
-HZZ2l2nu Photon + Jet Control trigger menus, CMSHLT-83
+NoBPTX paths for exo, CMSHLT-87 (and fix hltEgammaHcalPFClusterIsoRhoCorr -> hltEgammaHcalPFClusterIso)
