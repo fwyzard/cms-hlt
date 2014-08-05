@@ -1,1 +1,1 @@
-MultiJet Path for Exo, CMSHLT-89
+Fix inputCollection in hltEgammaGsfTrackVars
