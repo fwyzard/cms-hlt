@@ -1,1 +1,1 @@
-High Pt Double Electron and Photon Paths for EXO, CMSHLT-88
+Fix inputCollection in hltEgammaGsfTrackVars
