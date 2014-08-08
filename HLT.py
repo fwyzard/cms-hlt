@@ -1,1 +1,1 @@
-Fix inputCollection in hltEgammaGsfTrackVars
+Add hltTrimmedPixelVertices to ReleaseValidation EventContent
