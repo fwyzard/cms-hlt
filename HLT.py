@@ -1,1 +1,1 @@
-Add hltTrimmedPixelVertices to ReleaseValidation EventContent
+Migrate to 716 template
