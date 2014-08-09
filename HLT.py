@@ -1,1 +1,1 @@
-Add hltTrimmedPixelVertices to ReleaseValidation EventContent
+Migrate to CMSSW 716 template
