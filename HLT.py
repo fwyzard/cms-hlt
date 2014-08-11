@@ -1,1 +1,1 @@
-Migrate to 716 template
+changed HLTEgammaGenericQuadraticFilter parameters according to JIRA CMSHLT-81
