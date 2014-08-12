@@ -1,1 +1,1 @@
-changed HLTEgammaGenericQuadraticFilter parameters according to JIRA CMSHLT-81
+Rename AntiKT4 -> AK4 everywhere
