@@ -1,1 +1,1 @@
-New online GT GR_H_V39 (GlobalTag ESSource)
+Remove explicit declaration of JECs within hltGetConditions (restore previous config of this module)
