@@ -1,1 +1,1 @@
-Rename AntiKT4 -> AK4 everywhere
+Remove PFnoPU paths, as in CMSHLT-90
