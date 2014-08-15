@@ -1,1 +1,1 @@
-Import Jet paths as in CMSHLT-90
+Import also ESModules from CMSHLT-90
