@@ -1,1 +1,1 @@
-Import also ESmodules for JEC from CMSHLT-90
+Fix JEC for tk1A scenario
