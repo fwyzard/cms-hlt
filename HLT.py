@@ -1,1 +1,1 @@
-Migrate to CMSSW 716 template
+Migration for FTS
