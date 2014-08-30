@@ -1,1 +1,1 @@
-CMSHLT-93
+Fix FTS config - CMSHLT-92
