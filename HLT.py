@@ -1,1 +1,1 @@
-CMSHLT-93
+Fix FTS congig - CMSHLT-92
