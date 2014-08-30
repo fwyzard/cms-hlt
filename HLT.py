@@ -1,1 +1,1 @@
-Migration for FTS
+Fix FTS config CMSHLT-92
