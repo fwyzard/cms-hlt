@@ -1,1 +1,1 @@
-Update Electron cuts in HLTEle27WP80GsfSequence from Top Studies, CMSHLT-91
+Swapping EXO Ele paths from fraction sigmaIEtaIEta to full 5x5 sigmaIEtaIEta, CMSHLT-94
