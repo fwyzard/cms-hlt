@@ -1,1 +1,1 @@
-Fix of relative isolation for taus, CMSHLT-100
+CMSHLT-101, Addition of Single Jet Trigger with Trimming for B2G
