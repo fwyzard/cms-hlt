@@ -1,1 +1,1 @@
-CMSHLT-98, Addition of Ele/Mu+2 Jets Paths for B2G
+CMSHLT-96, Two lower Ht threshold trigger paths, to be prescaled
