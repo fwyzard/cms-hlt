@@ -1,1 +1,1 @@
-CMSHLT-101, Addition of Single Jet Trigger with Trimming for B2G
+CMSHLT-98, Addition of Ele/Mu+2 Jets Paths for B2G
