@@ -1,1 +1,1 @@
-CMSHLT-96, Two lower Ht threshold trigger paths, to be prescaled
+Electron Tag and Probe triggers for Run II, CMSHLT-95
