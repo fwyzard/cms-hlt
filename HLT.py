@@ -1,1 +1,1 @@
-Electron Tag and Probe triggers for Run II, CMSHLT-95
+Requesting to integrate an updated tau+MET trigger, CMSHLT-99
