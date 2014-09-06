@@ -1,1 +1,1 @@
-Displaced muon triggers for Run 2, CMSHLT-103
+Addition of hadronic HLT paths from the SUSY PAG, CMSHLT-105
