@@ -1,1 +1,1 @@
-CMSHLT-104, MET+Btag trigger for ZnnHbb
+Adding 12 keeps to ReleaseValidation EventContent (CMSHLT-106)
