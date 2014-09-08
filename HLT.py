@@ -1,1 +1,1 @@
-CMSHLT-107, remove template paths from GRun
+CMSHLT-107 (more)
