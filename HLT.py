@@ -1,1 +1,1 @@
-Fix FTS config CMSHLT-92
+Adding 12 keeps to ReleaseValidation EventContent (CMSHLT-106)
