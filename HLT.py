@@ -1,1 +1,1 @@
-Adding 12 keeps to ReleaseValidation EventContent (CMSHLT-106)
+Fix also hltL3NoFiltersNoVtxMuons objects in the ReleaseValidation EventContent
