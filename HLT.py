@@ -1,1 +1,1 @@
-Fix also hltL3NoFiltersNoVtxMuons objects in the ReleaseValidation EventContent
+CMSHLT-107, remove template paths from GRun
