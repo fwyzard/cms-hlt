@@ -1,1 +1,1 @@
-Fix datasets as in CMSHLT-107
+Migration for JSON monitoring
