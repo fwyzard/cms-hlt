@@ -1,1 +1,1 @@
-Fix FTS config CMSHLT-92
+Migration for JSON monitoring
