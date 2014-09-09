@@ -1,1 +1,1 @@
-Adding 12 keeps to ReleaseValidation EventContent (CMSHLT-106)
+Migration for JSON monitoring
