@@ -1,1 +1,1 @@
-Rename module: hltEle27WP85MissingHitsFilter to hltEle27WP85GsfMissingHitsFilter
+CMSHLT-108
