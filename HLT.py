@@ -1,1 +1,1 @@
-update prescales for non-isolated di-muon triggers
+Rename module: hltEle27WP85MissingHitsFilter to hltEle27WP85GsfMissingHitsFilter
