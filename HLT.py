@@ -1,1 +1,1 @@
-CMSHLT-108
+PS=0 to HLT_PFJet260, as for CMSHLT-109
