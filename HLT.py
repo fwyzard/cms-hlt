@@ -1,1 +1,1 @@
-Fix (i.e. restore as before integration of CMSHLT-111) hltEle27WP85GsfMissingHitsFilter
+Rename HLT_DoublePho85 to HLT_DoublePhoton85
