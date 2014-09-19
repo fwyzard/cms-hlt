@@ -1,1 +1,1 @@
-Last (???) fix to CMSHLT-104
+Rename path as in V25
