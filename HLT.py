@@ -1,1 +1,1 @@
-For now flip useLegacyError to false
+...I mean TRUE
