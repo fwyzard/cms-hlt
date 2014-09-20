@@ -1,1 +1,1 @@
-Migration and migration fixup of "2014" Run1 menu
+Migration for StripCPEESProducer (PRs 5438/5439)
