@@ -1,1 +1,1 @@
-saveAs /dev/CMSSW_7_1_2/HLT/V32 [249088]
+Migrate to 720pre6 template
