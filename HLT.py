@@ -1,1 +1,1 @@
-Now put useLegacyError to FALSE
+L1 seed migration 1 - muonia seeds
