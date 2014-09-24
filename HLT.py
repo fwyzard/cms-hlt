@@ -1,1 +1,1 @@
-more seeds
+egamma seeds
