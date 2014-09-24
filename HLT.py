@@ -1,1 +1,1 @@
-L1 seed migration 2 - muon seeds
+L1 seed migration - muon and electron seeds
