@@ -1,1 +1,1 @@
-more egamma seeds
+more L1 seeds
