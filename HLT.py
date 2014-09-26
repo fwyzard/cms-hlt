@@ -1,1 +1,1 @@
-Making PostLS1 changes as in customise_csc_hlt from  SLHCUpgradeSimulations / Configuration / python / muonCustoms.py
+Update L1 seeds for Top paths, CMSHLT-115
