@@ -1,1 +1,1 @@
-Fix a few HLTEgammaL1MatchFilterRegional
+Cleanup
