@@ -1,1 +1,1 @@
-saveAs /dev/CMSSW_7_2_0/HLT/V6 [249234]
+useLegacyError=TRUE in StripCPE (#5581)
