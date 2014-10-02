@@ -1,1 +1,1 @@
-DA --> DA_vect in hltOnlinePrimaryVertices, CMSHLT-119
+Migration to 720pre7
