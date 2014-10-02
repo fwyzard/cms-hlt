@@ -1,1 +1,1 @@
-useLegacyError=TRUE in StripCPE (#5581)
+Migration to 720pre7
