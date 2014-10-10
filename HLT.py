@@ -1,1 +1,1 @@
-A few renaming, according to CMSHLT-126
+Migration to 720_pre8
