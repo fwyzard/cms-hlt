@@ -1,1 +1,1 @@
-import HLT_IsoMu20_eta2p1_IterTrk02 Top cross-triggers
+drop HLT_IsoMu24_IterTrk02 Top cross-triggers
