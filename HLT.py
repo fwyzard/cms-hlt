@@ -1,1 +1,1 @@
-integration of CMSHLT-122
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_2_1/HLT/V2.
