@@ -1,1 +1,1 @@
-more L1 seeds
+more seeds
