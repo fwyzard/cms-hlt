@@ -1,1 +1,1 @@
-CMSHLT-121: Adding AK8PFHT800_TrimMass50 trigger to 73X
+replaced L1 seed for AK8PFHT850 with HTT150 OR HTT175
