@@ -1,1 +1,1 @@
-Also photon paths: it should be finished by now
+Set PS=0 to HLT_Iso(Tk)Mu24_IterTrk02_v1
