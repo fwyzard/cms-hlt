@@ -1,1 +1,1 @@
-replaced L1 seed for AK8PFHT850 with HTT150 OR HTT175
+CMSHLT-123, in progress
