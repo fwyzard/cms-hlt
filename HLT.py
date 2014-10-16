@@ -1,1 +1,1 @@
-added HLT_PFJet60, changed HLT_PFJet40 (CMSHLT-123)
+moved HLT_PFJet40 and HLT_PFJet60 to InitialPD
