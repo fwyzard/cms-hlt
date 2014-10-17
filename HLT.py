@@ -1,1 +1,1 @@
-moved HLT_PFJet40 and HLT_PFJet60 to InitialPD
+CMSHLT-120, Inclusion of HLT_PFMET120_NoiseCleaned_Mu5_v1 path
