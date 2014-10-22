@@ -1,1 +1,1 @@
-Addition of prescaled PFHT350 and PFHT600 paths, CMSHLT-127
+Fix maxAbsEta=2.1 in eta restricted instances of the HLTMuonTrkFilter
