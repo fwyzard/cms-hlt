@@ -1,1 +1,1 @@
-Fix up path sorting introduced with V17 (never ever sort paths)
+Cleanup unsued sequences and rename l1seed module according to conventions
