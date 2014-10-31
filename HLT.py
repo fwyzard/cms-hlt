@@ -1,1 +1,1 @@
-prescales for CMSHLT-103 (displaced leptons) and CMSHLT-154 (NoBPTX)
+CMSHLT-130: HLT_MET75_IsoTrk50, HLT_MET90_IsoTrk50
