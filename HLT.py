@@ -1,1 +1,1 @@
-More renaming to fit HLT conventions
+CMSHLT-131: WenHbb trigger paths
