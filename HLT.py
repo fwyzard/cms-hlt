@@ -1,1 +1,1 @@
-CMSHLT-130: HLT_MET75_IsoTrk50, HLT_MET90_IsoTrk50
+Rename module instance to start with hlt prefix
