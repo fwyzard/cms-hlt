@@ -1,1 +1,1 @@
-CMSHLT-131: WenHbb trigger paths
+CMSHLT-133 (DiPFJetAve*), prescales to be changed
