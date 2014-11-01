@@ -1,1 +1,1 @@
-Rename module instance to start with hlt prefix
+More renaming to fit HLT conventions
