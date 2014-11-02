@@ -1,1 +1,1 @@
-prescales for CMSHLT-138
+prescale module name fix
