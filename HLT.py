@@ -1,1 +1,1 @@
-changed L1s modules of PFJet40/60, DiPFJetAve30/60 to placeholders for seeds not yet in L1 menu
+CMSHLT-138, only paths that are updated so far, not new ones yet
