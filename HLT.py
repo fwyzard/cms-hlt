@@ -1,1 +1,1 @@
-preliminary prescales for CMSHLT-133
+Fix isoTag in cluster shape modules, CMSHLT-135
