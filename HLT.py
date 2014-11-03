@@ -1,1 +1,1 @@
-CMSHLT-142: Diphoton trigger for displaced fermion search
+updated prescales for CMSHLT-129
