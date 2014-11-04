@@ -1,1 +1,1 @@
-Fix typo in InputTags "...seedeed" => "...seeded" (4x)
+Fix a couple of isoTag's in clusterShapeFilters from the latest integrations
