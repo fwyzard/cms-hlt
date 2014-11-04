@@ -1,1 +1,1 @@
-CMSHLT-137: paths for VBF H(inv)
+Fix typo in InputTags "...seedeed" => "...seeded" (4x)
