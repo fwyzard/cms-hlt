@@ -1,1 +1,1 @@
-CMSHLT-134: Trigger for Higgs decay to two muons and a photon
+CMSHLT-138: restored Photon135_PFMET and Photon135_VBF, removed Photon155 versions
