@@ -1,1 +1,1 @@
-CMSHLT-148: AK8DiPFJet280_200_TrimMass30_BTagCSV0p3
+Clean sequences (and rename when needed)
