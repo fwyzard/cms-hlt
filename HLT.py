@@ -1,1 +1,1 @@
-HLT_BTagMu_*Jet*_Mu5_v1 paths for b-tag POG, CMSHLT-144
+Update of multilepton paths for HIG, CMSHLT-147
