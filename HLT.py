@@ -1,1 +1,1 @@
-Update of multilepton paths for HIG, CMSHLT-147
+CMSHLT-139: EXO E-Mu path
