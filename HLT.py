@@ -1,1 +1,1 @@
-CMSHLT-146: HLT_DiCentralPFJet70_PFMET120_NoiseCleaned
+CMSHLT-152: Soft Muon + Hadronic suite
