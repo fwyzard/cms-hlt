@@ -1,1 +1,1 @@
-CMSHLT-143: HT-DiJet90_AlphaT paths
+HLT_BTagMu_*Jet*_Mu5_v1 paths for b-tag POG, CMSHLT-144
