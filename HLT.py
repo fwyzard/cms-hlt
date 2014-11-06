@@ -1,1 +1,1 @@
-Non-Isolated Same Sign Double Muon Trigger, CMSHLT-163
+CMSHLT-159: HTXXX paths
