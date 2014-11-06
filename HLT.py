@@ -1,1 +1,1 @@
-CMSHLT-152: Soft Muon + Hadronic suite
+Dijets for EXO, CMSHLT-156
