@@ -1,1 +1,1 @@
-Dijets for EXO, CMSHLT-156
+Single Photon triggers from SMP, CMSHLT-157
