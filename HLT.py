@@ -1,1 +1,1 @@
-Single Photon triggers from SMP, CMSHLT-157
+Modification of BPH dimuon paths, CMSHLT-58
