@@ -1,1 +1,1 @@
-Modification of BPH dimuon paths, CMSHLT-58
+CMSHLT-155; BPH quad, triple muon paths
