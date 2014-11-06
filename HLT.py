@@ -1,1 +1,1 @@
-CMSHLT-155; BPH quad, triple muon paths
+Non-Isolated Same Sign Double Muon Trigger, CMSHLT-163
