@@ -1,1 +1,1 @@
-finishing CMSHLT-160
+CMSHLT-162: update of muon paths
