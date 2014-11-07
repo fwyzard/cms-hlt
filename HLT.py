@@ -1,1 +1,1 @@
-Displaced Dijet Triggers for Exo, CMSHLT-168
+Rename HLTIterativeTracking12ForBTagDisplacedJets as HLTIterativeTrackingForBTagIter12 (from CMSHLT-168)
