@@ -1,1 +1,1 @@
-CMSHLT-162: update of muon paths
+CMSHLT-153: additional single muon paths for SMP
