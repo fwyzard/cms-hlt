@@ -1,1 +1,1 @@
-EXO Monojets, CMSHLT-151
+Electron + HT cross trigger, CMSHLT-161
