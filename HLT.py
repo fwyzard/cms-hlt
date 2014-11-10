@@ -1,1 +1,1 @@
-Rename hltJetNoPU as hltCaloJetFromPV (from CMSHLT-128)
+replace hltPFHTProducer with the identical hltPFHT, already in the menu
