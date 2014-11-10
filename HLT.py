@@ -1,1 +1,1 @@
-Prescales for control paths in CMSHLT-167
+Cleanup explicit GT payloads
