@@ -1,1 +1,1 @@
-Electron + HT cross trigger, CMSHLT-161
+Inclusion of Photon + HT path for SUSY, CMSHLT-166
