@@ -1,1 +1,1 @@
-Inclusion of Photon + HT path for SUSY, CMSHLT-166
+Integration of Double Lepton + HT triggers for SUSY,CMSHLT-167
