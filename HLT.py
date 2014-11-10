@@ -1,1 +1,1 @@
-Update comment fields for CMSHLT-167
+Rename hltJetNoPU as hltCaloJetFromPV (from CMSHLT-128)
