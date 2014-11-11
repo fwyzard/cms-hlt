@@ -1,1 +1,1 @@
-Integration of moderate pt lepton + hadronic suite, CMSHLT-165
+High multiplicity trigger for low-PU runs, CMSHLT-150
