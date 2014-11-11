@@ -1,1 +1,1 @@
-replace hltPFHTProducer with the identical hltPFHT, already in the menu
+Integration of moderate pt lepton + hadronic suite, CMSHLT-165
