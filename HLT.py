@@ -1,1 +1,1 @@
-High multiplicity trigger for low-PU runs, CMSHLT-150
+(forgot to assign PD...)
