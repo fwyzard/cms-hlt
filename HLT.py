@@ -1,1 +1,1 @@
-Synchronization of muon leg of IsoMu24+Tau20 path with IsoMu24, CMSHLT-172
+Remove "IterTrk02" from the paths name, as this is the default tracking scenario by now
