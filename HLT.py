@@ -1,1 +1,1 @@
-Fix of the PS fix; remove (or move to Templates) paths asked to be removed in the jira tickets
+Fixes in tau paths because of  the modified L2Muon filters, CMSHLT-172
