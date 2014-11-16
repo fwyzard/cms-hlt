@@ -1,1 +1,1 @@
-Additional parameter fxed
+Fix HLT prescales for HLT_LooseIsoPFTau50_Trk30_eta2p1
