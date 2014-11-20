@@ -1,1 +1,1 @@
-New cuts for the HLTDeDxFilter, CMSHLT-175
+some contact and description fields
