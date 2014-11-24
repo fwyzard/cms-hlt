@@ -1,1 +1,1 @@
-Migration to next template
+Migration from SimpleTrackListMerger to TrackListMerger
