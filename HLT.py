@@ -1,1 +1,1 @@
-Migrate to new template adding TrackClusterRemover
+Migrate from HLTTrackClusterRemoverNew to TrackClusterRemover
