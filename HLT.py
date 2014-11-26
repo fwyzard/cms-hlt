@@ -1,1 +1,1 @@
-Migration from SimpleTrackListMerger to TrackListMerger
+Migration to new template adding TrackClusterRemover
