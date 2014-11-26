@@ -1,1 +1,1 @@
-SimpleTrackListMerger migration to TrackList<erger
+Migrate to new template adding TrackClusterRemover
