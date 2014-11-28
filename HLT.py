@@ -1,1 +1,1 @@
-Migrate from HLTTrackClusterRemoverNew to TrackClusterRemover
+Migrate to most recent 72X template
