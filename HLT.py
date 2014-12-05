@@ -1,1 +1,1 @@
-Migrate to most recent 72X template
+Migration to 723
