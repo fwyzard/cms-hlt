@@ -1,1 +1,1 @@
-Changing pt cuts of muon + photon trigger, CMSHLT-182
+Update of the dielectron path, CMSHLT-183
