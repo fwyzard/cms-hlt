@@ -1,1 +1,1 @@
-Update of the dielectron path, CMSHLT-183
+Modify prescales (now PS=1) in EXO photon triggers, CMSHLT-185
