@@ -1,1 +1,1 @@
-Use corrected calo jets insteadof uncorrected ones in HLT_BTagMu_*Jet*_Mu5 paths, CMSHLT-180
+Changing thresholds for HLT_AK8PFHT850_TrimR0p1PT0p03Mass50, CMSHLT-179
