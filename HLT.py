@@ -1,1 +1,1 @@
-Modify prescales (now 1) in EXO photon trigges, CMSHLT185
+Corrected alpha-T triggers, CMSHLT-187
