@@ -1,1 +1,1 @@
-Fix of HLT_Mu25_TkMu0_dEta18_Onia, CMSHLT-192
+L1 seed change (CMSHLT-190)
