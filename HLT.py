@@ -1,1 +1,1 @@
-L1 seed change (CMSHLT-190)
+apply strip CCC and cleanup (CMSHLT-184)
