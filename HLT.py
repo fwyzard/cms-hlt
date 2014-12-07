@@ -1,1 +1,1 @@
-apply strip CCC and cleanup (CMSHLT-184)
+cleanup of unused ES modules except one (CMSHLT-188)
