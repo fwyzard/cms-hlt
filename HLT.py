@@ -1,1 +1,1 @@
-cleanup of unused ES modules except one (CMSHLT-188)
+Small changes in HLT_QuadPFJet_BTagCSV_VBF, CMSHLT-181
