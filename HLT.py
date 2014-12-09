@@ -1,1 +1,1 @@
-Small changes in HLT_QuadPFJet_BTagCSV_VBF, CMSHLT-181
+Updated Single Photon, Electron, Muon and Photon + MET Trigger for Exotica, CMSHLT-194
