@@ -1,1 +1,1 @@
-Updated Single Photon, Electron, Muon and Photon + MET Trigger for Exotica, CMSHLT-194
+Migration to 730 (w/o fixups)
