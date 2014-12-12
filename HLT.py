@@ -1,1 +1,1 @@
-Fix HLTPrescaler label according to HLT convention
+hltDiMuonGlbFiltered25TrkFiltered0: ChargeOpt set to -1
