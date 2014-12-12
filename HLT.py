@@ -1,1 +1,1 @@
-hltDiMuonGlbFiltered25TrkFiltered0: ChargeOpt set to -1
+Set saveTags true in all HLTSingleVertexPixelTrackFilter filters
