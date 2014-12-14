@@ -1,1 +1,1 @@
-changes to EXO dimuon paths (CMSHLT-195)
+added HLT_ECALHT800_v1 (CMSHLT-201)
