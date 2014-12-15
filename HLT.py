@@ -1,1 +1,1 @@
-added HLT_ECALHT800_v1 (CMSHLT-201)
+Remove obsolete (and broken) HLT_Ele12_CaloId_TrackId_Iso_PFJet30_v1
