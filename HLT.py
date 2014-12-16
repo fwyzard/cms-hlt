@@ -1,1 +1,1 @@
-changes to HLT_PF
+finished modifying HLT_PFJet40 (CMSHLT-202)
