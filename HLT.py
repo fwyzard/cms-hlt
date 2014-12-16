@@ -1,1 +1,1 @@
-added HLT_ECALHT800_v1 (CMSHLT-201)
+changed HLT_PFJet40_v1 (CMSHLT-202)
