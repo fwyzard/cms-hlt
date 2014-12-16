@@ -1,1 +1,1 @@
-Remove obsolete (and broken) HLT_Ele12_CaloId_TrackId_Iso_PFJet30_v1
+changes to HLT_PF
