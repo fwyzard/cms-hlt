@@ -1,1 +1,1 @@
-changed HLT_PFJet40_v1 (CMSHLT-202)
+added two Diphoton paths (CMSHT-199)
