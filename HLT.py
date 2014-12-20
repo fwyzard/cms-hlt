@@ -1,1 +1,1 @@
-added two Diphoton paths (CMSHT-199)
+no change from V127 (replacing previous V148)
