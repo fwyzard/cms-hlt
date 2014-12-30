@@ -1,1 +1,1 @@
-Created by ConfDBCreateConfig from master /dev/CMSSW_7_0_0/HLT/V73.
+Migration and fixup of frozen table (can no longer derive from master!!)
