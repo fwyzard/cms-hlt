@@ -1,1 +1,1 @@
-Replace METProducer by CaloMETProducer
+Rename CaloMETProducer to *OLD
