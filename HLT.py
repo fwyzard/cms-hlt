@@ -1,1 +1,1 @@
-Migration - needs fixup!
+Replace METProducer by CaloMETProducer
