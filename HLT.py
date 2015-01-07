@@ -1,1 +1,1 @@
-Migration to fix TrackerGeometricDetESModule (#6947 fallout)
+updated L1 seed placeholders for hltL1sL1SingleJet16, hltL1sL1SingleJet36, and HLT_Mu3er_PFHT140_PFMET125_NoiseCleaned_v1
