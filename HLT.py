@@ -1,1 +1,1 @@
-Remove 'HighQ' from the name of the L1 muon seeds (as for L1 menu v2)
+Migration tau paths to a new L1 menu with L1_IsoTaus, CMSHLT-214
