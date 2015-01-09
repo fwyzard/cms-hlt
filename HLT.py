@@ -1,1 +1,1 @@
-Migration tau paths to a new L1 menu with L1_IsoTaus, CMSHLT-214
+Brute force modification of L1_SingleEG35er into L1_SingleEG30er
