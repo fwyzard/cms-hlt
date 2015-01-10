@@ -1,1 +1,1 @@
-Put L1_SingleJet36 as a placeholder for L1_SingleJet16
+Fix InputTag in HLT_IsoMu17_eta2p1_MediumIsoPFTau40_Trk1_eta2p1_Reg
