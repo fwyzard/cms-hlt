@@ -1,1 +1,1 @@
-Finally fix the previous L1_EG35er to be L1_EG35 in v2
+Put L1_SingleJet36 as a placeholder for L1_SingleJet16
