@@ -1,1 +1,1 @@
-Fix InputTag in HLT_IsoMu17_eta2p1_MediumIsoPFTau40_Trk1_eta2p1_Reg
+Update L1 seeds and b-tagging sequence in Double Lepton + HT triggers (plus controls), CMSHLT-216
