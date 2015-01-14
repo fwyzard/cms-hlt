@@ -1,1 +1,1 @@
-BPH quarkonia paths for 7E33,CMSHLT-211
+Higgs diphoton paths (CMSHLT-199)
