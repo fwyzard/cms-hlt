@@ -1,1 +1,1 @@
-Higgs diphoton paths (CMSHLT-199)
+Fix L1 seeds for paths  from CMSHLT-211
