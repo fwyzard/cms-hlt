@@ -1,1 +1,1 @@
-Fix L1 seeds for paths  from CMSHLT-211
+Finish integration of CMSHLT-199 by removing the old paths, as requested
