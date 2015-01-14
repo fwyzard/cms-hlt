@@ -1,1 +1,1 @@
-Allow two paths formerly integrated from CMSHLT-164 only in the 7e33 menu
+Allow a few paths formerly integrated from CMSHLT160 only for 7e33
