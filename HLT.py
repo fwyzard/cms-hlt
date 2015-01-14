@@ -1,1 +1,1 @@
-Allow a few paths formerly integrated from CMSHLT160 only for 7e33
+HLT_PFMETXXX_PFMHTXXX for 7E33 menu, CMSHLT-203
