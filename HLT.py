@@ -1,1 +1,1 @@
-Finish integration of CMSHLT-199 by removing the old paths, as requested
+Add L1_DoubleMu0er16_WdEta18 to 5 BPH paths, CMSHLT-129
