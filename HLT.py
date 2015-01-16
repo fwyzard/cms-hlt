@@ -1,1 +1,1 @@
-Add L1_DoubleMu0er16_WdEta18 to 5 BPH paths, CMSHLT-129
+Fix prescales for HLT_Dimuon0er16_Jpsi_etc, as in a late request from CMSHLT-145
