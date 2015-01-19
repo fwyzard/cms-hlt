@@ -1,1 +1,1 @@
-Migrate to fix TrackerGeometricDetESModule (#6947)
+Migration to new ConfDB template
