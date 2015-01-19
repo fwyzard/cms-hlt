@@ -1,1 +1,1 @@
-Migration to next ConfDB CMSSW code template
+saving progress on CMSHLT-193
