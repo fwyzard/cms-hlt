@@ -1,1 +1,1 @@
-(Temporary) fix needed by HLT_LooseIsoPFTau50_Trk30_eta2p1_MET8
+Remove the path previously integrated with CMSHLT-126. waiting for fixes
