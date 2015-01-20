@@ -1,1 +1,1 @@
-CMSHLT-197: control path for electron+HT xtrigger
+CMSHLT-207: updated alpha-T paths
