@@ -1,1 +1,1 @@
-finished CMSHLT-193 (TOP lepton+jets)
+CMSHLT-197: control path for electron+HT xtrigger
