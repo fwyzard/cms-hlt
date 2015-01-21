@@ -1,1 +1,1 @@
-Remove the path previously integrated with CMSHLT-126. waiting for fixes
+Update cuts and names for single photon paths, CMSHLT230
