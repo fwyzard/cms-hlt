@@ -1,1 +1,1 @@
-Fix prescale for HLT_Ele10_CaloIdL_TrackIdVL_CentralPFJet30_BTagCSV0p5PF
+Fix HLT prescales for HLT_Mu10_CentralPFJet30_BTagCSV0p5PF
