@@ -1,1 +1,1 @@
-Migration electron legs of tau paths to WP75, CMSHLT-232
+Changing the placehoder L1 seed to the real one for Electron+HT cross trigger, CMSHLT-233
