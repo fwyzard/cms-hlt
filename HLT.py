@@ -1,1 +1,1 @@
-New strip CPE configuration (only for 25ns menu... at least for the time being), CMSHLT-228
+Fix prescale for HLT_Ele10_CaloIdL_TrackIdVL_CentralPFJet30_BTagCSV0p5PF
