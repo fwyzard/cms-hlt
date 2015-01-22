@@ -1,1 +1,1 @@
-Changing the placehoder L1 seed to the real one for Electron+HT cross trigger, CMSHLT-233
+New relaxed tau+MET trigger for 7e33 menu, CMSHLT-226
