@@ -1,1 +1,1 @@
-Migration to new ConfDB template
+ElectronSeedProducer (for #7264 / CMSHLT-237)
