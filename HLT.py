@@ -1,1 +1,1 @@
-ElectronSeedProducer (for #7264 / CMSHLT-237)
+Restore V6
