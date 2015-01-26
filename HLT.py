@@ -1,1 +1,1 @@
-Add missing ESmodule from CMSHLT-238
+Rename a module, as in a late comment of CMSHLT-238
