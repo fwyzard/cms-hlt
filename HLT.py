@@ -1,1 +1,1 @@
-Migrate to next CMSSW code template
+Rename hltL3CombinedSecondaryVertexBJetTags as hltCombinedSecondaryVertexBJetTagsCalo
