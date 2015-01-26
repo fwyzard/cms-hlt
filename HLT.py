@@ -1,1 +1,1 @@
-Migration to next CMSSW code template
+Add missing ESmodule from CMSHLT-238
