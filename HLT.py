@@ -1,1 +1,1 @@
-Fix to HLT_IsoMu24_v1
+Last piece of integration of CMSHLT-241
