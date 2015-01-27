@@ -1,1 +1,1 @@
-Update of the muon isolation to use PF clustering, CMSHLT-240 and CMSHLT-241
+Fix HLT_QuadPFJet_VBF as in a late request from CMSHLT-234
