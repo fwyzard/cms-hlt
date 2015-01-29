@@ -1,1 +1,1 @@
-Start migrating L1_EG35 seeds
+Continue migrating seeds with L1_SingleEG35
