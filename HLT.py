@@ -1,1 +1,1 @@
-Last piece of integration of CMSHLT-241
+Migration for EcalMultiFit
