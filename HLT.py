@@ -1,1 +1,1 @@
-Continue migrating seeds with L1_SingleEG35
+Finish modifying seeds and filters previously with L1_SingleEg35
