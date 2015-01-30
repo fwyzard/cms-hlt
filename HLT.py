@@ -1,1 +1,1 @@
-Remove HLT_Photon135_PFMET40, as from CMSHLT-194
+Get rid of paths removed by CMSHLT-147
