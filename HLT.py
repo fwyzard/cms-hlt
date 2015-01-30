@@ -1,1 +1,1 @@
-Updates for muon NoBPTX paths, CMSHLT-242
+Remove HLT_Photon135_PFMET40, as from CMSHLT-194
