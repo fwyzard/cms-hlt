@@ -1,1 +1,1 @@
-Remove ESSources except GlobalTag
+Remove ESModules
