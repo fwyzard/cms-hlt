@@ -1,1 +1,1 @@
-Remove top-level PSets
+Remove ESSources except GlobalTag
