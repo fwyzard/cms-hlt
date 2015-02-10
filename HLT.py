@@ -1,1 +1,1 @@
-Drop obsolete keep statement from the event content, CMSHLT-249
+Add HLT_Random trigger, CMSHLT-244
