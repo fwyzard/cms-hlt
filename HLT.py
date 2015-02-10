@@ -1,1 +1,1 @@
-Fix a few L1 filters in the HLT menu, CMSHLT-247
+Migration of the HLTBtagCSVSequencePF sequence to CSVv2IVF, CMSHLT-245
