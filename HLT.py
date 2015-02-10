@@ -1,1 +1,1 @@
-Migration of the HLTBtagCSVSequencePF sequence to CSVv2IVF, CMSHLT-245
+Drop obsolete keep statement from the event content, CMSHLT-249
