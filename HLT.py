@@ -1,1 +1,1 @@
-Fix HLT prescales in HLT_PFJet200 and HLT_Physics
+Fix a few L1 filters in the HLT menu, CMSHLT-247
