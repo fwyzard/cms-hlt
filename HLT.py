@@ -1,1 +1,1 @@
-Fixes (L1 seeds and a few derived modules)
+Fix a few prescales as outlined in CMSHLT-253
