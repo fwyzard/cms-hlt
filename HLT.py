@@ -1,1 +1,1 @@
-Fix a few prescales as outlined in CMSHLT-253
+Update low-mass higgs trigger paths, CMSHLT-206
