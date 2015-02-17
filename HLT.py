@@ -1,1 +1,1 @@
-Higgs PAG Diphoton path replacements for the primary rediscovery signal triggers 34/18_Mass95 and 44/28, CMSHLT-199
+Fix prescale of HLT_QuadPFJet_VBF_according to what was requested in CMSHLT-234
