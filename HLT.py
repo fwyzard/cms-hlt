@@ -1,1 +1,1 @@
-EGM changes for 50 ns menu, CMSHLT-256
+Update of muons effective area for 50ns menu, CMSHLT-259
