@@ -1,1 +1,1 @@
-Replace  hltEgammaEcalPFClusterIsoRhoCorr with hltEgammaEcalPFClusterIso, as a byproduct of CMSHLT-256
+Fix GT issue with the AK8CaloCorrection in CMSHLT-204 (hadronic B2G paths)
