@@ -1,1 +1,1 @@
-Migration to 740pre7
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/HLT/V2.
