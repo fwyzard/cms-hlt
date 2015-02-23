@@ -1,1 +1,1 @@
-Migration for EcalUncalibRecHitProducer
+Cleanup algoPSet for 50ns EcalUncalibRecHitProducer
