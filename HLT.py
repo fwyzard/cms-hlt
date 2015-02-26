@@ -1,1 +1,1 @@
-Seed update for Ele22_WP75 monitring path, CMSHLT-266
+Fix ncandcut=2 in hltElectronPixelVetoFilterUnseeded, as in a late request from CMSHLT-206
