@@ -1,1 +1,1 @@
-Fix ncandcut=2 in hltElectronPixelVetoFilterUnseeded, as in a late request from CMSHLT-206
+Integration request for muon HLT paths of HIN PAG for the HIon menu, CMSHLT-198
