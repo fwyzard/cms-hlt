@@ -1,1 +1,1 @@
-Cleanup algoPSet for 50ns EcalUncalibRecHitProducer
+Import two additional EGamma filters (from CMSHLT-269)
