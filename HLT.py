@@ -1,1 +1,1 @@
-Import two additional EGamma filters (from CMSHLT-269)
+Remove unneded ESmodules and PSets
