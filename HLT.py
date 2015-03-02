@@ -1,1 +1,1 @@
-CMSHLT-255: Update HLTL1UnpackerSequence (25ns/Hion/Pion only), ie, 50ns version stays as it was!
+More fixes from CMSHLT-246 - change parameter falue and remove HLTDoFullUnpackingEgammaEcalSequence inHLTPFClusteringForEgammaUnseeded
