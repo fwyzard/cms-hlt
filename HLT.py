@@ -1,1 +1,1 @@
-Rename the electron sequence of the Ele22+Tau20 path for 25ns, CMSHLT-270
+Threshold fix for two dilepton + HT trigger, CMSHLT-271
