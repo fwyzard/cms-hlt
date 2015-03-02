@@ -1,1 +1,1 @@
-More fixes from CMSHLT-246 - change parameter falue and remove HLTDoFullUnpackingEgammaEcalSequence inHLTPFClusteringForEgammaUnseeded
+Rename the electron sequence of the Ele22+Tau20 path for 25ns, CMSHLT-270
