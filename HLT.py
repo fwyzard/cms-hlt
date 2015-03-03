@@ -1,1 +1,1 @@
-CMSHLT-261: HLT_L1SingleMuOpen for CRAFT
+CMSHLT-269: low-lumi single Ele paths (25ns version)
