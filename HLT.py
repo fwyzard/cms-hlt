@@ -1,1 +1,1 @@
-Set relaxed=false for hltEG23EtL1EG20Filter
+Move muon PF isolation to regional PF isolation around muon, CMSHLT-272
