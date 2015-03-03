@@ -1,1 +1,1 @@
-added 5 paths from /users/fruboes/730/LHCf/V16
+naming convention fix ( added "v1" to HLT_L1SingleMuOpen)
