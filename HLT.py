@@ -1,1 +1,1 @@
-naming convention fix ( added "v1" to HLT_L1SingleMuOpen)
+CMSHLT-261: HLT_L1SingleMuOpen for CRAFT
