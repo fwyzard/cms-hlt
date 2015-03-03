@@ -1,1 +1,1 @@
-PSet changes by hand :( (Note: should fix "all PSet import" in ConfDB)
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/HLT/V25.
