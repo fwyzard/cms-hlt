@@ -1,1 +1,1 @@
-CMSHLT-269: low-lumi single Ele paths (25ns version)
+Set relaxed=false for hltEG23EtL1EG20Filter
