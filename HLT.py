@@ -1,1 +1,1 @@
-Update HLT_DoubleIsoMu17_eta2p1, previously missed in CMSHLT-272
+Fix two sequences from where HLTDoFullUnpackingEgammaEcalSequence was missing, after CMSHLT-246
