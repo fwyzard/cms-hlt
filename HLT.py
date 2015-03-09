@@ -1,1 +1,1 @@
-Fix two sequences from where HLTDoFullUnpackingEgammaEcalSequence was missing, after CMSHLT-246
+Electron ID thresholds changes for Dilepton+HT Triggers, CMSHLT-284
