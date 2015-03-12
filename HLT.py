@@ -1,1 +1,1 @@
-Removal of PulseShape-related parameters in hltEcalUncalibRecHit (CMSHLT-246)
+CMSHLT-231: inclusion of RPCMON paths
