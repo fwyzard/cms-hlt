@@ -1,1 +1,1 @@
-Change placeholder L1 seed for HLT_DiPFJetAve30_HFJEC, CMSHLT-247
+EcalCalibration path (for Laser), CMSHLT-281
