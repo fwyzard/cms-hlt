@@ -1,1 +1,1 @@
-RPCMON paths: v9->v1
+Minor Updates for B2G Trimmed PFJet Paths, CMSHLT-274
