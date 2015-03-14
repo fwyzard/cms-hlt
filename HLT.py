@@ -1,1 +1,1 @@
-Fix output module
+Path for Beam Splashes, ECAL, CMSHLT-290
