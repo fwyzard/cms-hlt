@@ -1,1 +1,1 @@
-Migration for EcalUncalibRecHitProducer
+Migration for CCCPSet
