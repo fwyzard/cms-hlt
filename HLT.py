@@ -1,1 +1,1 @@
-Cleanup according to our conventions
+Fix Pt cut in hltSinglePFJet20
