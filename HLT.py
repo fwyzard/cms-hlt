@@ -1,1 +1,1 @@
-Fix Pt cut in hltSinglePFJet20
+saving progress on CMSHLT-239
