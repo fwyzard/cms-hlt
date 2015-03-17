@@ -1,1 +1,1 @@
-fixes for HLT_Ele paths (CMSHLT-294)
+finished CMSHLT-239 (AlCaLumiPixels)
