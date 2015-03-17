@@ -1,1 +1,1 @@
-Migration for CCCPSet
+Cleanup according to our conventions
