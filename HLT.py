@@ -1,1 +1,1 @@
-finished CMSHLT-239 (AlCaLumiPixels)
+Remove unreferenced sequences
