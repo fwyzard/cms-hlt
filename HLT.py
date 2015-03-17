@@ -1,1 +1,1 @@
-Add parameters in two PSet's, as for CMSHLT-295
+SeedCreatorPSets update for TTRHBuilder update, CMSHLT-295
