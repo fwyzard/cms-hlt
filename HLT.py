@@ -1,1 +1,1 @@
-SeedCreatorPSets update for TTRHBuilder update, CMSHLT-295
+Import from Mia: 3 PSets and 2 Modules (SeedCreatorPSet)
