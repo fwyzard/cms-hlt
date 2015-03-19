@@ -1,1 +1,1 @@
-Several HCAL DPG related Trigger paths, CMSHLT-306
+Fixing 2 modules (JIRA CMSHLT-307)
