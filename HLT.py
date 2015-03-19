@@ -1,1 +1,1 @@
-Fixing 2 modules (JIRA CMSHLT-307)
+ClusterChargeCut adjustment by -6% (JIRA CMSHLT-308)
