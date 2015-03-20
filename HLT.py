@@ -1,1 +1,1 @@
-saveAs /dev/CMSSW_7_4_0/HLT/V67 [261481]
+Fix L1 seed for HLT_HcalNZS as for CMSHLT-306
