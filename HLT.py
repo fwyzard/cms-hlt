@@ -1,1 +1,1 @@
-Addition to CMSHLT-291 (diphoton H->gg)  specific for the 50ns menu
+Jpsi to ee path for low lumi run, CMSHLT-280
