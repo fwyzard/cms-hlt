@@ -1,1 +1,1 @@
-Fix HLT_IsoMu17_eta2p1_MediumIsoPFTau40_Trk1_eta2p1_Reg for CMSHLT-264
+Fixup of L1 seed modules and L1 algo names
