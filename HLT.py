@@ -1,1 +1,1 @@
-SMP 50ns triggers L1 seed changes, CMSHLT-263
+TAU triggers modifications for 50ns menu, CMSHLT-264
