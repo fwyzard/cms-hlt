@@ -1,1 +1,1 @@
-Put back muon isolation sequence in HLT_IsoMu16_eta2p1_CaloMET30
+Update L1 seeds for 50 ns in EGM triggers, CMSHLT-265
