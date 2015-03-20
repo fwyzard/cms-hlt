@@ -1,1 +1,1 @@
-Fix L1 seed for HLT_HcalNZS as for CMSHLT-306
+SMP 50ns triggers L1 seed changes, CMSHLT-263
