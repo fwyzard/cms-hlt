@@ -1,1 +1,1 @@
-Update L1 seeds for 50 ns in EGM triggers, CMSHLT-265
+SUSY 50 ns Triggers L1 Seed Changes, CMSHLT-267
