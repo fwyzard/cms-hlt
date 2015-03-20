@@ -1,1 +1,1 @@
-Jpsi to ee path for low lumi run, CMSHLT-280
+Triggers for LHCf run, CMSHLT-285
