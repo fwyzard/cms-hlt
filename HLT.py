@@ -1,1 +1,1 @@
-SUSY 50 ns Triggers L1 Seed Changes, CMSHLT-267
+Addition to CMSHLT-291 (diphoton H->gg)  specific for the 50ns menu
