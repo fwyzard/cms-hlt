@@ -1,1 +1,1 @@
-Include 4 new HLT paths for the all hadronic ttH(bb) analysis, CMSHLT-309
+Fix latest prescales from CMSHLT-293
