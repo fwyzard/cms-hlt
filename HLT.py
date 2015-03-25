@@ -1,1 +1,1 @@
-Fix latest prescales from CMSHLT-293
+Fix prescales for CMSHLT-309
