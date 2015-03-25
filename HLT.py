@@ -1,1 +1,1 @@
-Change of isolation cone to R=0.2 for lepton+HT+[MET,b-tag] triggers, CMSHLT-311
+Forgot modified prescales for CMSHLT-311
