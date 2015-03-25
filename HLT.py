@@ -1,1 +1,1 @@
-Fix ncand multiplicity in a few single and multiple electron filters
+Rename two single PF jets with NoCaloMatched in them, as for CMSHLT-285
