@@ -1,1 +1,1 @@
-Fix ncand multiplicity in a few single and multiple electron filters
+Addition and modification of SUSY lepton auxiliary triggers, CMSHLT-293
