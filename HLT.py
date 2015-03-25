@@ -1,1 +1,1 @@
-Change L1 seeds for EXO triggers at 50ns, CMSHLT-283
+Finish integrating CMSHLT-285, with renamed PFJet paths and modules
