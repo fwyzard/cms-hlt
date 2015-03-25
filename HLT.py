@@ -1,1 +1,1 @@
-Rename two single PF jets with NoCaloMatched in them, as for CMSHLT-285
+Addition and modification of SUSY lepton auxiliary triggers, CMSHLT-293 (not sure about prescales...)
