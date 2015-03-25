@@ -1,1 +1,1 @@
-Finish integrating CMSHLT-285, with renamed PFJet paths and modules
+Fix ncand multiplicity in a few single and multiple electron filters
