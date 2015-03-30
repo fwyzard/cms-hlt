@@ -1,1 +1,1 @@
-Integration of trigger paths to save AK8 HLT objects in MC, CMSHLT-315
+Integration of trigger paths to save HLT objects in MC, CMSLT-314
