@@ -1,1 +1,1 @@
-Fix L1 seeds for RPC AlCa, as in a late request from CMSHLT-231
+Define a 5e33 PS column
