@@ -1,1 +1,1 @@
-Another CMSHLT-316 (hltEGL1EG25erHTT125Filter)
+relabel according to our conventions
