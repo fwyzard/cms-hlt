@@ -1,1 +1,1 @@
-Fix correctly the eta restriction of EGamma filters, CMSHLT-316
+Another CMSHLT-316 (hltEGL1EG25erHTT125Filter)
