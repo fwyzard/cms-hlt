@@ -1,1 +1,1 @@
-relabel according to our conventions
+Rename HLTPrescaler instance according to convention
