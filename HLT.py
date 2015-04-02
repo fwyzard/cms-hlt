@@ -1,1 +1,1 @@
-Rename according to conventions
+Rename HLTPrescaler instance according to convention
