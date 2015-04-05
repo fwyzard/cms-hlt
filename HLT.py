@@ -1,1 +1,1 @@
-... for real this time
+Add descriptions for CMSHLT-268
