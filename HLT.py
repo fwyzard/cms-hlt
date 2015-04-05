@@ -1,1 +1,1 @@
-migrate
+Migrate
