@@ -1,1 +1,1 @@
-Add descriptions for CMSHLT-268
+Fix HLTriggerFinalPath (prescales etc.)
