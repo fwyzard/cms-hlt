@@ -1,1 +1,1 @@
-CMSHLT-273: high-pt track triggers for PU=0.4
+Do not use a HLTPrescaler instance in more than one (end)path.
