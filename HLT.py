@@ -1,1 +1,1 @@
-CMSHLT-317: VBF+Mu SUSY path
+CMSHLT-318: VBF+Displaced paths for 1.4E34
