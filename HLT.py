@@ -1,1 +1,1 @@
-CMSHLT-318: VBF+Displaced paths for 1.4E34
+Fix bug in b-tagging PFlow sequence, CMSHLT-323
