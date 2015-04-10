@@ -1,1 +1,1 @@
-Fix bug in b-tagging PFlow sequence, CMSHLT-323
+Two small fixes to muon configuration, CMSHLT-319
