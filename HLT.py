@@ -1,1 +1,1 @@
-Two small fixes to muon configuration, CMSHLT-319
+hltEGL1SingleEG5Filter => hltEGL1SingleEG5OpenFilter
