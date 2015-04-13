@@ -1,1 +1,1 @@
-hltEGL1SingleEG5Filter => hltEGL1SingleEG5OpenFilter
+Fixup of HLT_Ele5_SC5_JPsi_Mass2to4p5
