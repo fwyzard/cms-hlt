@@ -1,1 +1,1 @@
-Two small fixes to muon configuration, CMSHLT-319
+hltL1sL1SingleEG5 to hltL1sL1SingleEG5Open
