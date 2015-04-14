@@ -1,1 +1,1 @@
-fixes to CMSHLT-273 (HLT_FullTrackXX)
+HLT_FullTrack12_v1: prescale=6 (CMSHLT-273)
