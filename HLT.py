@@ -1,1 +1,1 @@
-fixes to CMSHLT-273 (HLT_FullTrackXX)
+prescale fix for CMSHLT-310
