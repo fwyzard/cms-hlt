@@ -1,1 +1,1 @@
-Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/HLT/V104.
+saveAs /dev/CMSSW_7_4_0/GRun/V38 [263323]
