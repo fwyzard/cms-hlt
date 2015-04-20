@@ -1,1 +1,1 @@
-Fix another bugs in HLTBtagCSVSequencePF (CMSHLT-327) and Switch savetag=true in B2G El+2Jets Path (CMSHLT-328)
+Implement OR of L1IsoEG seeds with L1EG seeds, CMSHLT-324
