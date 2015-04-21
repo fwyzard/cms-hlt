@@ -1,1 +1,1 @@
-HLT paths to save muon trigger objects, CMSHLT-322
+rename a few L1s modules
