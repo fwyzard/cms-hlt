@@ -1,1 +1,1 @@
-Few prescales to adapt for 50ns menu, CMSHLT-329
+HLT paths of HIN PAG for the VdM menu, CMSHLT-279
