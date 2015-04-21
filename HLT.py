@@ -1,1 +1,1 @@
-HLT paths of HIN PAG for the VdM menu, CMSHLT-279
+HLT paths to save muon trigger objects, CMSHLT-327
