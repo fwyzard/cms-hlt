@@ -1,1 +1,1 @@
-CMSHLT-325: a few EGM paths for object studies ("ForMC")
+revert back to V112 (see CMSHLT-325)
