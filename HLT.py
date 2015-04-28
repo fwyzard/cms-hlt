@@ -1,1 +1,1 @@
-revert back to V112 (see CMSHLT-325)
+re-integrating CMSHLT-325 paths
