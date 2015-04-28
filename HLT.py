@@ -1,1 +1,1 @@
-Move prescalers after the L1s modules (uff...)
+CMSHLT-325: EGM paths for object studies ("ForMC")
