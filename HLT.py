@@ -1,1 +1,1 @@
-CMSHLT-333: PFMHTIDLoose -> PFMHTIDTight
+EXO L1 seeding, saveTag and prescaled bug fixes, CMSHLT-337
