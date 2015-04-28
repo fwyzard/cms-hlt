@@ -1,1 +1,1 @@
-re-integrating CMSHLT-325 paths
+CMSHLT-333: PFMHTIDLoose -> PFMHTIDTight
