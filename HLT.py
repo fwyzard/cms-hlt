@@ -1,1 +1,1 @@
-Switching saveTags to "true" for calo HT Paths, CMSHLT-341
+Switch on "SaveTags" in Hbb paths, CMSHLT-342
