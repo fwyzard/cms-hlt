@@ -1,1 +1,1 @@
-Switching saveTags behavior for HLT_Mu*NoFiltersNoVtx*_Photon*_CaloIdVL_v paths, CMSHLT-339
+Switching saveTags behavior for EXOTICA paths, CMSHLT-340
