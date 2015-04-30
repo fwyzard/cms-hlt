@@ -1,1 +1,1 @@
-Switch on "SaveTags" in Hbb paths, CMSHLT-342
+Fix a few saveTags and rename hltHt* filters into hltHT*
