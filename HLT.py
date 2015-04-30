@@ -1,1 +1,1 @@
-Revert saveTags in hltVBFPFJetCSVSortedMqq* filtrs from CMSHLT-342
+saveTags updates for SUSY paths version 2, CMSHLT-351
