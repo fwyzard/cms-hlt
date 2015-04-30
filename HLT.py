@@ -1,1 +1,1 @@
-SaveTags fix from the FSQ, CMSHLT-350
+Revert saveTags in hltVBFPFJetCSVSortedMqq* filters from CMSHLT-342
