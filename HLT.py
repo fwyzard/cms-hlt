@@ -1,1 +1,1 @@
-SaveTags update for SUSY paths,CMSHLT-349
+Revert saveTags in hltVBFPFJetCSVSortedMqq* filtrs from CMSHLT-342
