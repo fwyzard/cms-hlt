@@ -1,1 +1,1 @@
-Fixes of SaveTags in TAU paths,CMSHLT-345
+Fix prescales for HLT_Mu24_v1
