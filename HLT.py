@@ -1,1 +1,1 @@
-saveTags updates for SUSY paths version 2, CMSHLT-351
+Fixes of SaveTags in TAU paths, CMSHLT-347
