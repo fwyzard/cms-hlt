@@ -1,1 +1,1 @@
-Fix prescale for HLT_Mu24_v1
+Adding L1SingleJet200 seeding to high pt e/gamma paths, CMSHLT-348
