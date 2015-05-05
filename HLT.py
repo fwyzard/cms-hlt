@@ -1,1 +1,1 @@
-Adding L1SingleJet200 seeding to high pt e/gamma paths, CMSHLT-348
+Integration request for muon HLT paths of HIN/BPH PAG for LHCf run, CMSHLT-258
