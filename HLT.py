@@ -1,1 +1,1 @@
-Update of multielectron WP for 25ns menu, CMSHLT-331
+Fix some SMP prescales in 1.4e34 menu, CMSHLT-359
