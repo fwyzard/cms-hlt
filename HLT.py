@@ -1,1 +1,1 @@
-CASTOR jet trigger for lowPU runs, CMSHLT-334
+Update of multielectron WP for 50ns menu, CMSHLT-332
