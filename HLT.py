@@ -1,1 +1,1 @@
-Adding L1SingleJet200 seeding to high pt e/gamma paths, CMSHLT-
+Update of multielectron WP for 25ns menu, CMSHLT-331
