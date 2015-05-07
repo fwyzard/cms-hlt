@@ -1,1 +1,1 @@
-Update of electron effective areas for the 25ns menu (for HCAL method 3), CMSHLT-320
+Migrate to WPLoose also the last path in CMSHLT-325
