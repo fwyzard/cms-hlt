@@ -1,1 +1,1 @@
-Update Electron + HT path to Ele WPLoose, CMSHLT-336
+Rename a few paths in view of integrating CMSHLT-330
