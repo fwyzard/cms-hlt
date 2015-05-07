@@ -1,1 +1,1 @@
-fixes in DoubleEle24Ele22
+Assign to Templates PD the ELE paths for MC
