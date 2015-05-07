@@ -1,1 +1,1 @@
-Rename a few paths in view of integrating CMSHLT-330
+Update of Electron WPs (WPLoose and WPTight), CMSHLT-330
