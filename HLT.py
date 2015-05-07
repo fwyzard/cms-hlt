@@ -1,1 +1,1 @@
-Fix hltEle27JetCollectionsForLeptonPlusPFJets
+Adjust Ele paths for MC
