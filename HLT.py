@@ -1,1 +1,1 @@
-Fix some SMP prescales in 1.4e34 menu, CMSHLT-359
+Update Electron + HT path to Ele WPLoose, CMSHLT-336
