@@ -1,1 +1,1 @@
-Update of Electron WPs (WPLoose and WPTight), CMSHLT-330
+Fix one L1seed for taus (thanks Michal!)
