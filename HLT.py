@@ -1,1 +1,1 @@
-Update of Electron WPs (WPLoose and WPTight), CMSHLT-330
+Update of electron effective areas for the 25ns menu (for HCAL method 3), CMSHLT-320
