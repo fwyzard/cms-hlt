@@ -1,1 +1,1 @@
-Add WPTight
+Two more modules in EGamma
