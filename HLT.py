@@ -1,1 +1,1 @@
-CMSHLT-352: backup paths for EXO
+CMSHLT-357: muon monitoring paths
