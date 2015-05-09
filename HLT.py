@@ -1,1 +1,1 @@
-CMSHLT-356: update SUSY paths for HCAL method 3
+CMSHLT-352: backup paths for EXO
