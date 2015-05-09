@@ -1,1 +1,1 @@
-Some more candTag to fix (thank you again Michal)
+Additions fromCMSHLT-326
