@@ -1,1 +1,1 @@
-CMSHLT-358: updates to razor paths
+CMSHLT-326: HCAL method 3 for Ele T&P paths
