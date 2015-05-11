@@ -1,1 +1,1 @@
-CMSHLT-312: Hotline paths (added Express stream)
+Adjust a few prescales, as in a late request of CMSHLT-293
