@@ -1,1 +1,1 @@
-Triggers for isolated tracks to calibrate HB and HE, CMSHLT-289
+Add few EGM paths for object studies (corrected version), CMSHLT-325
