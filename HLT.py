@@ -1,1 +1,1 @@
-Fix ncandcut in hltEGL1SingleEG5Filter
+Remove HLT_Ele27_WP85_Gsf_v1 from the master (old WP)
