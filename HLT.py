@@ -1,1 +1,1 @@
-Remove the two paths previusly integrated (in the masters) with CMSHLT-394
+Switch hltHbhereco to HCAL method 3, from CMSHLT-360
