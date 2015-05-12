@@ -1,1 +1,1 @@
-Additions fromCMSHLT-326
+Include CMSHLT-325
