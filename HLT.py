@@ -1,1 +1,1 @@
-CMSHLT-326: HCAL method 3 for Ele T&P triggers
+Remove the two paths previusly integrated (in the masters) with CMSHLT-394
