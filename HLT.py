@@ -1,1 +1,1 @@
-Add few EGM paths for object studies (corrected version), CMSHLT-325
+Remove HLT_Ele27_WP85_Gsf_v1 from the master (old WP)
