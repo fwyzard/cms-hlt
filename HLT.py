@@ -1,1 +1,1 @@
-Switch hltHbhereco to HCAL method 3, from CMSHLT-360
+Triggers for isolated tracks to calibrate HB and HE, CMSHLT-289
