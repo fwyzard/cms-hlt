@@ -1,1 +1,1 @@
-Prescale updates for the BTV performance triggers,CMSHLT-363
+CMSHLT-361: diphoton updates
