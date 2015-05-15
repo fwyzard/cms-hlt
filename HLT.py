@@ -1,1 +1,1 @@
-Fix a few saveTags in Ele paths for T&P
+Fix two saveTags for CMSHLT-312
