@@ -1,1 +1,1 @@
-Electron Stream for ECAL DPG, CMSHLT-366
+Trigger WH -> ev bb, CMSHLT-343
