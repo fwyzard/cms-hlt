@@ -1,1 +1,1 @@
-Update HLT prescales as for CMSHLT-364
+Restore lost prescales :-(
