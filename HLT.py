@@ -1,1 +1,1 @@
-Remove the ESModule needed by CMSHLT-366 (and we wil not allow the ElectronStreamOutput n the subtables as well)
+Update to Tag and probe paths for 50 ns, CMSHLT-368
