@@ -1,1 +1,1 @@
-Update HLT prescales as for CMSHLT-364
+Update effective areas for SUSY, as from a late comment in CMSHLT-320
