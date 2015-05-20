@@ -1,1 +1,1 @@
-saveAs /dev/CMSSW_7_4_0/50nsGRun/V93 [265298]
+revert to HCAL method 0 (hltHbhereco.puCorrMethod = 0) for the 50ns menu
