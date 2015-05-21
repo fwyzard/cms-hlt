@@ -1,1 +1,1 @@
-LowPU: update of HLT_L1Tech62_CASTORJet_PFJet15, CMSHLT-376
+Change of L1 seeds for HIN paths in the VdM menu, CMSHLT-372 and CMSHLT-373
