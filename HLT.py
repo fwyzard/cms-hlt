@@ -1,1 +1,1 @@
-revert to HCAL method 0 (hltHbhereco.puCorrMethod = 0) for the 50ns menu
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/50nsHLT/V130.
