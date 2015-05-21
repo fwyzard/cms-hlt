@@ -1,1 +1,1 @@
-Update effective areas for SUSY, as from a late comment in CMSHLT-320
+Passthrough triggers for VdM run, CMSHLT-287
