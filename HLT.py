@@ -1,1 +1,1 @@
-L1 seed change for low-PU HI Flow/Corr Triggers, CMSHLT-370
+Change of L1 seeds for lowPU jet triggers, CMSHLT-374
