@@ -1,1 +1,1 @@
-Change of L1 seeds for lowPU jet triggers, CMSHLT-374
+LowPU: update of HLT_L1Tech62_CASTORJet_PFJet15, CMSHLT-376
