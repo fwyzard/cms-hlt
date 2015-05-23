@@ -1,1 +1,1 @@
-Change of L1 seeds for HIN paths in the VdM menu, CMSHLT-372 and CMSHLT-373
+CMSHLT-369: Ele17 control path
