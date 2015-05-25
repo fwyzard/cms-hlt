@@ -1,1 +1,1 @@
-Trigger WH -> ev bb, CMSHLT-343
+(Intermediate for CMSHLT-344)
