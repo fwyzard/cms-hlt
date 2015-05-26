@@ -1,1 +1,1 @@
-Configure the magnetic field from the database, CMSHLT-362
+Prescales for EcalActivity_SC7, CMSHLT-378
