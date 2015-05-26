@@ -1,1 +1,1 @@
-Fix smartPrescales (by simply touching them...)
+Configure the magnetic field from the database, CMSHLT-362
