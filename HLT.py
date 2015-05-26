@@ -1,1 +1,1 @@
-GT V58
+Fix (???!!!) triggerConditions in smart prescale modules
