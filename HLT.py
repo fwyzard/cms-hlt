@@ -1,1 +1,1 @@
-Naming conventions
+Setup possible prescale columns
