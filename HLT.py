@@ -1,1 +1,1 @@
-Setup possible prescale columns
+Fix prescales  for BPV triggers, CMSHLT-388
