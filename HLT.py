@@ -1,1 +1,1 @@
-Prescale columns for SMP opportunistic single electron trigger, CMSHLT-386
+Fixed rate for SMP prescaled paths in low lumi columns, CMSHLT-387
