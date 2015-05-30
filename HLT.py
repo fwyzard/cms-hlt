@@ -1,1 +1,1 @@
-Set LowPU prescales for NoBPTX paths as in CMSHLT-385
+Start adjusting PS columns for LowPU menu
