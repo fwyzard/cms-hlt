@@ -1,1 +1,1 @@
-Define new PD's (still to be filled...)
+Rename some HLT paths,CMSHLT-383
