@@ -1,1 +1,1 @@
-Add prescaled control trigger HLT_MET60_IsoTrk35_Loose, CMSHLT-394
+JME proposal for DiPFJetAve paths for 50ns and beyond, CMSHLT-392
