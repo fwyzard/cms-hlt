@@ -1,1 +1,1 @@
-Slightly adjust the HLT prescales for CMSHLT-392
+Start assigning HLT path to their proposed PD's
