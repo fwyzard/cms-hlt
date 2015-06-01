@@ -1,1 +1,1 @@
-Add definitions for the new PD's
+Slightly adjust the HLT prescales for CMSHLT-392
