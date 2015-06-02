@@ -1,1 +1,1 @@
-Prescale away HLTAnalyzerEndpath (CMSHLT-344)
+Move Prescaler after L1Seed module in AlCaEcalPi/Eta paths
