@@ -1,1 +1,1 @@
-Changing prescales for HIN paths in the low-pu HLT menu, CMSHLT-399
+Remove collections from EcalPhiSym Stream output, CMSHLT-389
