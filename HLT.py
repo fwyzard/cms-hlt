@@ -1,1 +1,1 @@
-Prescale away HLTAnalyzerEndpath (CMSHLT-344)
+Remove collections from EcalPhiSym Stream output, CMSHLT-389
