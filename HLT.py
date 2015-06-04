@@ -1,1 +1,1 @@
-Switch on "SaveTags" in the remaining Hbb paths from CMSHLT-342
+Update of the prescale column for the muon commissioning paths, CMSHLT-402
