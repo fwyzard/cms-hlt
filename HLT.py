@@ -1,1 +1,1 @@
-Latest adjustmets for CMSHLT-378
+Switch on "SaveTags" in the remaining Hbb paths from CMSHLT-342
