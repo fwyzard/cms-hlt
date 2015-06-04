@@ -1,1 +1,1 @@
-Adjust prescales for HLT_Activity_Ecal_SC7, as in updated CMSHLT-378
+Add BPTX gate for HI muon paths, CMSHLT-401
