@@ -1,1 +1,1 @@
-Low PU run, HIN & FSQ high-multipicity paths, prescale and seed update, CMSHLT-400
+Switch on "SaveTags" in the remaining Hbb paths from CMSHLT-342
