@@ -1,1 +1,1 @@
-Add BPTX gate for HI muon paths, CMSHLT-401
+Low PU run, HIN & FSQ high-multipicity paths, prescale and seed update, CMSHLT-400
