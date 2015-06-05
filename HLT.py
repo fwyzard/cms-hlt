@@ -1,1 +1,1 @@
-Update of the prescale column for the muon commissioning paths, CMSHLT-402
+Prescale fixes for LowPU HLT menu, CMSHLT-410
