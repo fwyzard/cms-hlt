@@ -1,1 +1,1 @@
-Add paths to the Express Stream for LowPU menu
+Low PU menu primary datasets, CMSHLT-411
