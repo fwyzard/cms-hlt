@@ -1,1 +1,1 @@
-Fix LowPU datasets as in modified CMSHLT-411
+Define a EGMLowPU PD
