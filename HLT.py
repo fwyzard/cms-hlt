@@ -1,1 +1,1 @@
-Prescale update for HLT_PFHT475, CMSHLT-414
+Last PD assignments for LowPU, CMSHLT-418
