@@ -1,1 +1,1 @@
-Clean columns and PD's
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/50nsHLT/V195.
