@@ -1,1 +1,1 @@
-Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/50nsHLT/V195.
+Adjust PS columns and datasets for 50ns
