@@ -1,1 +1,1 @@
-Conclude with Hermine's list and add one more column for 50ns
+Remove the LowPU PD, not needed any more
