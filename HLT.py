@@ -1,1 +1,1 @@
-Prescale update for HLT_PFHT475, CMSHLT-414
+Addition of lower threshold alphaT paths to 7e33 menu,CMSHLT-416
