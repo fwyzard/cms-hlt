@@ -1,1 +1,1 @@
-Switch on "SaveTags" in the remaining Hbb paths from CMSHLT-342
+Prescale update for HLT_PFHT475, CMSHLT-414
