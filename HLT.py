@@ -1,1 +1,1 @@
-Remove HLT_Activity_Ecal_SC7 from Commissioning PD in the LowPU menu
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/50nsHLT/V198.
