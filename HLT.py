@@ -1,1 +1,1 @@
-10 Hz ZeroBias and 5 Hz Random in the LowPU meny
+Express stream for the low pileup menu, CMSHLT-424
