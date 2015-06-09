@@ -1,1 +1,1 @@
-Remove the LowPU PD, not needed any more
+10 Hz ZeroBias and 5 Hz Random in the LowPU meny
