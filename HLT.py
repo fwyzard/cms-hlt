@@ -1,1 +1,1 @@
-Rename paths for the new BTag WP's
+Update of b-tag sequence, including working points, CMSHLT-405
