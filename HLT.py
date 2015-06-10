@@ -1,1 +1,1 @@
-Update Btag sequences, as for CMSHLT-405
+Rename paths for the new BTag WP's
