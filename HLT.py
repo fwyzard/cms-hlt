@@ -1,1 +1,1 @@
-Populate NanoDSt and LookArea outputs
+Same event content for Express and Stream A
