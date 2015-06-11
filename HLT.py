@@ -1,1 +1,1 @@
-Update of b-tag sequence, including working points, CMSHLT-405
+Set smartPrescal=1 overall for the DQMoutput stream
