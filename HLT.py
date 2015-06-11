@@ -1,1 +1,1 @@
-Update of b-tag sequence, including working points, CMSHLT-405
+Add description and contact fields for the HLT_PFHT* (SUSY) paths
