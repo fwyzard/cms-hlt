@@ -1,1 +1,1 @@
-Set smartPrescal=1 overall for the DQMoutput stream
+SUSY prescale tables for low lumi menus, CMSHLT-429
