@@ -1,1 +1,1 @@
-Populate EventDisplay dataset also for the 50ns menu
+Fix one prescale module name
