@@ -1,1 +1,1 @@
-Add description and contact fields for the HLT_PFHT* (SUSY) paths
+Adopt same names of PD's as in the 50ns menu
