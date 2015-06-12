@@ -1,1 +1,1 @@
-Fix one prescale module name
+Separate DQMOutput from StreamAOutput
