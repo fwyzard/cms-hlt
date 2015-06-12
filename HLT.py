@@ -1,1 +1,1 @@
-Fix one prescale module name
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/HLT/V213.
