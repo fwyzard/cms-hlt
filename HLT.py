@@ -1,1 +1,1 @@
-Non-Isolated Same Sign Double Muon Trigger, CMSHLT-406
+rm HLT_L1SingleMuOpen_DT_v1 from SingleMuon, CMSHLT-435
