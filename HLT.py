@@ -1,1 +1,1 @@
-Change HLT prescales of some electron control paths, CMSHLT-433
+Dataset adjustments as in CMSHLT-434 and CMSHLT-435
