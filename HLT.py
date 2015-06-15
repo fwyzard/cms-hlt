@@ -1,1 +1,1 @@
-Dataset adjustments as in CMSHLT-434 and CMSHLT-435
+Non-Isolated Same Sign Double Muon Trigger, CMSHLT-406
