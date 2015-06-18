@@ -1,1 +1,1 @@
-Update to Tag and probe paths for 50 ns, CMSHLT-436
+users/manuelf/CMSSW_7_4_X/SingleMuonL1Single50ns, CMSHLT-417
