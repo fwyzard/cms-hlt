@@ -1,1 +1,1 @@
-Bug fix for suite of single Mu + (HT or MET or jet) paths, CMSHLT-417
+Update to EGamm Tag and probe paths for 25 ns, CMSHLT-408
