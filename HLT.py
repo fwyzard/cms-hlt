@@ -1,1 +1,1 @@
-"NoNoiseCleaned" PFMET170 trigger, CMSHLT-439
+Define 50ns content of the DQMEventDisplay stream
