@@ -1,1 +1,1 @@
-Update OutputCommands for the Pi0/Eta calibration stream, CMSHLT-382
+Rename as HLT_PFMET170 (CMSHLT-439)
