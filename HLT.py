@@ -1,1 +1,1 @@
-Remove useless InitialPDForHI dataset
+Widen the mass window for the Eta calibration stream, CMSHLT-440
