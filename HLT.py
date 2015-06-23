@@ -1,1 +1,1 @@
-Widen the mass window for the Eta calibration stream, CMSHLT-440
+Prescale to 0 HLT_DiSC30_18_EIso_AND_HE_Mass70 from CMSHLT-431 (so that it can be included in the menu)
