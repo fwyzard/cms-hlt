@@ -1,1 +1,1 @@
-saveAs /users/aperrott/2015/SAVE_50nsHLT/V4 [266817]
+Update L1 seed and HLT prescales to HLT_DiSC30_18_EIso_AND_HE_Mass70, CMSHLT-431
