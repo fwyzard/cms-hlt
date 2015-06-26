@@ -1,1 +1,1 @@
-Descriptions and contacts change for EXO longlived and hadronic paths, CMSHLT-457
+Update double Jpsi paths with enlarged mass, CMSHLT-458
