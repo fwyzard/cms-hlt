@@ -1,1 +1,1 @@
-Update descriptions for SUSY paths in CMSHLT-452
+Descriptions and contacts change for EXO longlived and hadronic paths, CMSHLT-457
