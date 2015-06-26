@@ -1,1 +1,1 @@
-Adjustment of prescales for TAU monitoring paths, CMSHLT-445
+Descriptions and contact changes for Leptonic EXOTICA Paths, CMSHLT-456
