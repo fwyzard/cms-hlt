@@ -1,1 +1,1 @@
-Update prescale for control SUSY triggers, CMSHLT-452
+Update descriptions for SUSY paths in CMSHLT-452
