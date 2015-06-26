@@ -1,1 +1,1 @@
-Set PS=2 to HLT_BTagMu_DiJet20_Mu5, CMSHLT-449
+Adjustment of prescales for TAU monitoring paths, CMSHLT-445
