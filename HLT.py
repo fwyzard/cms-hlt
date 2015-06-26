@@ -1,1 +1,1 @@
-Update prescales for AlCa_EcalPi0 paths, late request from CMSHLT-440
+Set PS=2 to HLT_BTagMu_DiJet20_Mu5, CMSHLT-449
