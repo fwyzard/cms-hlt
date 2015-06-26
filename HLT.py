@@ -1,1 +1,1 @@
-Descriptions and contact changes for Leptonic EXOTICA Paths, CMSHLT-456
+Update prescale for control SUSY triggers, CMSHLT-452
