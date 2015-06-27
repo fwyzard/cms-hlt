@@ -1,1 +1,1 @@
-Import descriptions and contacts for SUSY paths, from CMSHLT-452
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/HLT/V242.
