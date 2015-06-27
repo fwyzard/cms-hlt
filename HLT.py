@@ -1,1 +1,1 @@
-New L1 trigger for VBF Hbb triggers, CMSHLT-448
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/50nsHLT/V263.
