@@ -1,1 +1,1 @@
-Import descriptions and contacts for SUSY paths, from CMSHLT-452
+Fix event content part of CMSHLT-366
