@@ -1,1 +1,1 @@
-New L1 trigger for VBF Hbb triggers, CMSHLT-448
+Fix event content part of CMSHLT-366
