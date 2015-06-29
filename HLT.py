@@ -1,1 +1,1 @@
-Fix event content part of CMSHLT-366
+More CMSHLT-366
