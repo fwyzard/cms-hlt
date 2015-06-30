@@ -1,1 +1,1 @@
-Remove extra colums and set the default one, rename Physics stream
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/50nsHLT/V267.
