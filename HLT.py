@@ -1,1 +1,1 @@
-Express prescale adjustment (CMSHLT-445)
+Fix prescale (CMSHLT-460)
