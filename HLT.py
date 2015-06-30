@@ -1,1 +1,1 @@
-CMSHLT-460: HLT_PixelTracks_Multiplicity triggers update
+Adjust prescales for added Multiplicity paths (to be checked with proponents)
