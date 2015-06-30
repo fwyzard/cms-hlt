@@ -1,1 +1,1 @@
-Adjust Express prescales (CMSHLT-445)
+Fix express prescale
