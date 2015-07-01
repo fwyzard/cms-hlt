@@ -1,1 +1,1 @@
-Remove extra columns and LowPU-only datasets from the PhysicsEGammaCommissioning stream
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/50nsHLT/V269.
