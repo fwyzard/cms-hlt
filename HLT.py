@@ -1,1 +1,1 @@
-Add SiStripRegionConnectivity ESProducer for CMSHLT-366
+Fix new Stream again
