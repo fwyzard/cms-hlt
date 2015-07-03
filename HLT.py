@@ -1,1 +1,1 @@
-New stream DQMOffline (CMSHLT-462)
+Add SiStripRegionConnectivity ESProducer for CMSHLT-366
