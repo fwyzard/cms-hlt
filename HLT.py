@@ -1,1 +1,1 @@
-Import new stream (CMSHLT-462)
+Add path to new stream
