@@ -1,1 +1,1 @@
-Add new path to ElectronStream
+Assign to pd/streams
