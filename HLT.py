@@ -1,1 +1,1 @@
-LowPU changes (CMSHLT-461)
+Fix PD assignment
