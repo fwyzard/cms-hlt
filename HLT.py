@@ -1,1 +1,1 @@
-Add path to new stream
+Set smart prescale for new stream
