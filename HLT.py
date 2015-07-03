@@ -1,1 +1,1 @@
-Set smart prescale for new stream
+LowPU changes (CMSHLT-461)
