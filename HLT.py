@@ -1,1 +1,1 @@
-More adjust
+New Stream DQMOfflineOutput (CMSHLT-462)
