@@ -1,1 +1,1 @@
-Fix new stream again
+Fix blanks in L1Seed strings
