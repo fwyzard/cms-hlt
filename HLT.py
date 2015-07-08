@@ -1,1 +1,1 @@
-Fix path content in the DQM/monitoring streams
+Fix event content of DQMOffline (CMSHLT-462)
