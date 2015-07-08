@@ -1,1 +1,1 @@
-Fix path content of the DQM stream
+Fix DQMOFfline and other EventConetnt (CMSHLT-462)
