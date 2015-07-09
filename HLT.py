@@ -1,1 +1,1 @@
-Fix DQMOFfline and other EventConetnt (CMSHLT-462)
+Update GT to GR_H_V58C
