@@ -1,1 +1,1 @@
-Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/50nsHLT/V290.
+Remove lowPU stuff: 3 PU columns and 2 PDs
