@@ -1,1 +1,1 @@
-Put a "drop *" statement in all event contents
+Add 'drop *_hlt*_*_*' to the dqmoffline event content (to be compared with V291)
