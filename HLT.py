@@ -1,1 +1,1 @@
-CMSHLT-468
+Put a "drop *" inside all event contents
