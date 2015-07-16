@@ -1,1 +1,1 @@
-Add 'drop *_hlt*_*_*' to the dqmoffline event content (to be compared with V291)
+Fix L1 filters names (only affecting MC paths)
