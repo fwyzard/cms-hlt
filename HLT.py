@@ -1,1 +1,1 @@
-Add 'drop *_hlt*_*_*' to the dqmoffline event content (to be compared with V264)
+Fix the AK4/AK8 PFJetId collections and replace the filter modules to pick up the right collections, CMSHLT-476
