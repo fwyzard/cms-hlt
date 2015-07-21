@@ -1,1 +1,1 @@
-Change of offline DQM stream name, CMSHLT-481
+Intermediate for new Physics streams
