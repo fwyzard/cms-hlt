@@ -1,1 +1,1 @@
-Split Stream A into three Physics Streams
+Rename DQMOfflineOutput as HLTMonitorOutput
