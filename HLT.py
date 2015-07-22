@@ -1,1 +1,1 @@
-Remove HBHE noise cleaning from menu, CMSHLT-479
+Adjust a few more L1s filter names (Single Muons)
