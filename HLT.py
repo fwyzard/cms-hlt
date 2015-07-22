@@ -1,1 +1,1 @@
-Replace hltL1sL1DoubleMu0HighQ with the identical hltL1sL1DoubleMu0
+Remove HBHE noise cleaning from menu, CMSHLT-479
