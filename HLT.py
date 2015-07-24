@@ -1,1 +1,1 @@
-Continue with CMSHLT-479
+Restore correct InputTag (hltHcalTowerNoiseCleaner) in hltMetCleaner
