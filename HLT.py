@@ -1,1 +1,1 @@
-Prescale change for DoubleEle33 path for EXO, CMSHLT-491
+Integration request for 25ns End-of-fill triggers for HIN Flow group, CMSHLT-486
