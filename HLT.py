@@ -1,1 +1,1 @@
-Integration request for 25ns End-of-fill triggers for HIN Flow group, CMSHLT-486
+Add hltPixelTrack to the (online)DQM stream, CMSHLT-498
