@@ -1,1 +1,1 @@
-JME request to integrate DiPFJetAve paths for 25ns, CMSHLT-480
+Prescale change for DoubleEle33 path for EXO, CMSHLT-491
