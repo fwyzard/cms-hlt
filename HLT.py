@@ -1,1 +1,1 @@
-Change of PFHT prescales for EXO, CMSHLT-489
+Switch on "SaveTags" for CaloMHTnoPU, CMSHLT-507
