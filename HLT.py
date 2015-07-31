@@ -1,1 +1,1 @@
-Add hltPixelTrack to the (online)DQM stream, CMSHLT-498
+Change of PFHT prescales for EXO, CMSHLT-489
