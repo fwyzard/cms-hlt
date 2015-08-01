@@ -1,1 +1,1 @@
-Adding muon commissioning paths to 25ns menu, CMSHLT-500
+Backup paths for EXO (25 ns), CMSHLT-490
