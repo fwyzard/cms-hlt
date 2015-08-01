@@ -1,1 +1,1 @@
-Switch on "SaveTags" for CaloMHTnoPU, CMSHLT-507
+CaloHT control paths for EXO, CMSHLT-488
