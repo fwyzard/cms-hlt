@@ -1,1 +1,1 @@
-L2 pt threshold change muon paths for EXO, CMSHLT-492
+Adding muon commissioning paths to 25ns menu, CMSHLT-500
