@@ -1,1 +1,1 @@
-Fixed one L2 module name in HLT_Mu55
+CMSHLT-502: B2G additions
