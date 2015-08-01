@@ -1,1 +1,1 @@
-Backup paths for EXO (25 ns), CMSHLT-490
+Fixed one L2 module name in HLT_Mu55
