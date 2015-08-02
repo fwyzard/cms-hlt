@@ -1,1 +1,1 @@
-Set smart prescale to 1 in the newly integrated paths
+Request changes to SUSY Lep15+(HT,MET,BTag) suite of triggers, CMSHLT-508
