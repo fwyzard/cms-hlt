@@ -1,1 +1,1 @@
-finishing ZeroBias paths
+fixed ZeroBias offsets
