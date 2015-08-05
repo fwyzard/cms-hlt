@@ -1,1 +1,1 @@
-Fix seed module in affected path
+Bug fix mentioned in CMSHLT-370
