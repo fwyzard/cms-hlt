@@ -1,1 +1,1 @@
-Migration to 484 template (patched)
+Removing 4 Castor paths as their L1 seeds have been removed
