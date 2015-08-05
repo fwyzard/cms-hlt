@@ -1,1 +1,1 @@
-Labels (CMSHLT-501)
+Fix seed module in affected path
