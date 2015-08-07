@@ -1,1 +1,1 @@
-Put prescaler after l1seed module in 4 AlCa Pi0/Eta/EE/EB paths
+Adjust GT to 74X_dataRun2_HLT_v1 (CMSHLT-523)
