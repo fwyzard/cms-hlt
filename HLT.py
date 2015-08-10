@@ -1,1 +1,1 @@
-Adding 4 AlCa Ecal paths with stream (CMSHLT-514)
+Fix AlCaPi0 event content (CMSHLT-514)
