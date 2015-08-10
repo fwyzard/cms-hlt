@@ -1,1 +1,1 @@
-Fix AlCaPi0 event content (CMSHLT-514)
+CMSHLT-519 (ownership of 2 paths)
