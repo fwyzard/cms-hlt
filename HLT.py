@@ -1,1 +1,1 @@
-Prescale updates after L1seed changes (CMSHLT-512)
+PD and prescale assignment for new path (CMSHLT-513)
