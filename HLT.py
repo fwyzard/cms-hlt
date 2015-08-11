@@ -1,1 +1,1 @@
-More prescale fixes (CMSHLT-521)
+Residual fix (CMSHLT-519)
