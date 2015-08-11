@@ -1,1 +1,1 @@
-L1 seed changes in 4 HLT_Photon[30|36] paths (CMSHLT-512)
+Prescale updates after L1seed changes (CMSHLT-512)
