@@ -1,1 +1,1 @@
-Updating 32 paths (CMSHLT-510)
+Adding hltOnlineBeamSpot ti DQMOffline/HLTMonitor (common) eventcontent
