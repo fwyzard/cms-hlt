@@ -1,1 +1,1 @@
-Importing 4 paths (CMSHLT-516)
+Adding DQMOfflineOutput endpath (CMSHLT-462)
