@@ -1,1 +1,1 @@
-Adding DQMOfflineOutput endpath (CMSHLT-462)
+Fix L1 seeds of HLT_DoubleEle33_CaloIdL_GsfTrkIdVL (+MW) paths as well (CMSHLT512)
