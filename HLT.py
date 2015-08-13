@@ -1,1 +1,1 @@
-More prescales (CMSHLT-531)
+Continuation CMSHLT-531 prescales
