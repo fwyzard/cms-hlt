@@ -1,1 +1,1 @@
-Continuation CMSHLT-531 prescales
+Express smart prescale (CMSHLT-531)
