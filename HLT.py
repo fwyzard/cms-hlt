@@ -1,1 +1,1 @@
-Adding hltOnlineBeamSpot ti DQMOffline/HLTMonitor (common) eventcontent
+FOG prescale changes (CMSHLT-531)
