@@ -1,1 +1,1 @@
-FOG prescale changes (CMSHLT-531)
+More prescales (CMSHLT-531)
