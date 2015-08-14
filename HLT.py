@@ -1,1 +1,1 @@
-Express smart prescale (CMSHLT-531)
+Renaming ElectronStream and PD
