@@ -1,1 +1,1 @@
-Importing 4 HImuon end-of-fill paths (CMSHLT-496)
+HLTMonitor replaces DQMOffline (CMSHLT-481)
