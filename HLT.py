@@ -1,1 +1,1 @@
-HINMuon PD for 4 new paths of CMSHLT-496
+Fix prescales=0 in eof paths CMSHLT-496
