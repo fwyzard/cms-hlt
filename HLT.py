@@ -1,1 +1,1 @@
-HLTMonitor replaces DQMOffline (CMSHLT-481)
+HINMuon PD for 4 new paths of CMSHLT-496
