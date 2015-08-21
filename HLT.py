@@ -1,1 +1,1 @@
-Fix prescales=0 in eof paths CMSHLT-496
+saveTags=TRUE in hltHCand80NoEle27WPLoose (CMSHLT-537)
