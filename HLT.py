@@ -1,1 +1,1 @@
-Updating L1 seed (2 paths + 2 MC paths) CMSHLT-534
+Prescale changes from CMSHLT-534
