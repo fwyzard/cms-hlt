@@ -1,1 +1,1 @@
-Importing 3 HI SinglePhoton EndOfFill paths (CMSHLT-493)
+Updating L1 seed (2 paths + 2 MC paths) CMSHLT-534
