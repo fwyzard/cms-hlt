@@ -1,1 +1,1 @@
-SMP HLT prescale changes (also CMSHLT-543)
+Removing 3 prescale columns (CMSHLT-542)
