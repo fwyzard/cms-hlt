@@ -1,1 +1,1 @@
-FOG prescale changes part 1 (CMSHLT-542)
+FOG prescale changes at HLT part 2 (CMSHLT-542)
