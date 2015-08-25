@@ -1,1 +1,1 @@
-Bug fix for GsfTracking (CMSHLT-539)
+SMP L1 seed changes (CMSHLT-543)
