@@ -1,1 +1,1 @@
-HIG control triggers Photon22 HLT prescale change for low lumi (CMSHLT-545)
+Update L1 to L1_EG25er_HTT100 in HLT_Ele27_eta2p1_WPLoose_Gsf_HT200 (CMSHLT-546)
