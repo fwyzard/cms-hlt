@@ -1,1 +1,1 @@
-Removing 3 prescale columns (CMSHLT-542)
+FOG prescale changes part 1 (CMSHLT-542)
