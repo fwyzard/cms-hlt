@@ -1,1 +1,1 @@
-Fix L1 seeds in MC_Muon paths after integration of CMSHLT-534
+HIG control triggers Photon22 HLT prescale change for low lumi (CMSHLT-545)
