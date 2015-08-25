@@ -1,1 +1,1 @@
-SMP L1 seed changes (CMSHLT-543)
+SMP HLT prescale changes (also CMSHLT-543)
