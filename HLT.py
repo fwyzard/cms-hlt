@@ -1,1 +1,1 @@
-Updating L1Seed module in 3 paths (CMSHLT-493)
+Yet another prescale update (CMSHLT-545)
