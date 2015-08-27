@@ -1,1 +1,1 @@
-Fix prescaler label identified by hltCheckPrescaleModules -w
+Importing HLT_DiSC30_18_EIso_AND_HE_Mass70 (CMSHLT-533)
