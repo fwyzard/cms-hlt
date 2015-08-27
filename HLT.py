@@ -1,1 +1,1 @@
-Yet another prescale update (CMSHLT-545)
+Integration of HT scouting triggers (CMSHLT-548)
