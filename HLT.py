@@ -1,1 +1,1 @@
-Fixing EventContent of Scouting streams (CMSHLT-548)
+Change of L1 ETM seeds in MET/MHT HLT paths (CMSHLT-544)
