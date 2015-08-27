@@ -1,1 +1,1 @@
-Integration of HT scouting triggers (CMSHLT-548)
+Fixing EventContent of Scouting streams (CMSHLT-548)
