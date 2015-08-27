@@ -1,1 +1,1 @@
-Importing HLT_DiSC30_18_EIso_AND_HE_Mass70 (CMSHLT-533)
+Reassign HLT_DiSC path from DoubleEG to Commissioning PD (as in 50ns)
