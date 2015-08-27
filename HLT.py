@@ -1,1 +1,1 @@
-Unprescale photon+(MET/VBF) paths, CMSHLT-550
+SMP PFJet path prescale changes, CMSLT-549
