@@ -1,1 +1,1 @@
-Fix hltL1sL1ETM70ORETM60ORETM50ORETM60NotJet52WdPhi2ORDoubleJetC56ETM60 module name
+Fix prescaler label identified by hltCheckPrescaleModules -w
