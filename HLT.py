@@ -1,1 +1,1 @@
-Relabel L1Seed module (CMSHLT544)
+HLT prescale changes from CMSHLT-536
