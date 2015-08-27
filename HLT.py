@@ -1,1 +1,1 @@
-Adjust HLT prescales for HLT_DiPFJetAve140, still from CMSHLT-536
+Fix hltL1sL1ETM70ORETM60ORETM50ORETM60NotJet52WdPhi2ORDoubleJetC56ETM60 module name
