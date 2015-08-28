@@ -1,1 +1,1 @@
-Remove removed L1 seed from L1Seed module (CMSHLT-544)
+SUSY single lepton auxiliary path prescale updates after seeing 25ns data, CMSHLT-557
