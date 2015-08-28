@@ -1,1 +1,1 @@
-L1 fix for HLT_Ele27_WPLoose_Gsf_WHbbBoost, CMSHLT-560
+SUSY Lep15_IsoVVL suite L1 seed and prescale updates, CMSHLT-559
