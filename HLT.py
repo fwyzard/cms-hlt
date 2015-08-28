@@ -1,1 +1,1 @@
-SUSY single lepton auxiliary path prescale updates after seeing 25ns data, CMSHLT-557
+L1 fix for HLT_Ele27_WPLoose_Gsf_WHbbBoost, CMSHLT-560
