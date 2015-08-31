@@ -1,1 +1,1 @@
-MET+HT and Photon+HT paths for 0 Tesla Menu, CMSHLT-565
+Exotica: triggers for 0 T menu, CMSHLT-540
