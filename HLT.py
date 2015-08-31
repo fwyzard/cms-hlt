@@ -1,1 +1,1 @@
-Add three new paths to the 0T menu, CMSHLT-564
+MET+HT and Photon+HT paths for 0 Tesla Menu, CMSHLT-565
