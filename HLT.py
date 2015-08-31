@@ -1,1 +1,1 @@
-L1 seed change for HLT_Ele23_WPLoose_Gsf, CMSHLT-553
+SUSY L1 seed adaptations to v5 L1 menu, CMSHLT-558
