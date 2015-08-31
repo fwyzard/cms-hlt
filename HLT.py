@@ -1,1 +1,1 @@
-Update of L1 seeds for Ecal Pi-zeros/eta paths, CMSHLT-547
+Tau triggers modified for L1 25ns v5, CMSHLT-555
