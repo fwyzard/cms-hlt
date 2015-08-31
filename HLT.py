@@ -1,1 +1,1 @@
-Prescale updates for CMSHLT-559
+New path DoublePhoton60, CMSHLT-563
