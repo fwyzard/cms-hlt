@@ -1,1 +1,1 @@
-Exotica: triggers for 0 T menu, CMSHLT-540
+Update the seed for CMSHLT-546
