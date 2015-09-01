@@ -1,1 +1,1 @@
-Update L1 seeds for VBF Hbb and X->HH->4b triggers,CMSHLT-552
+Remove per path timing information from DQM, CMSHLT-567
