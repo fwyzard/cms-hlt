@@ -1,1 +1,1 @@
-Replace L1_Mu6_HTT150 with L1_Mu6_HTT100 in HLT_Mu10_TrkIsoVVL_DiPFJet40_DEta3p5_MJJ750_HTT350_PFMETNoMu60_JetIdCleaned (SUSY)
+Uniformize a few module names
