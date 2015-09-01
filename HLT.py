@@ -1,1 +1,1 @@
-Update the H/E cut in Ele105 and Ele115 triggers, CMSHLT-568
+SUSY Hadronic Paths Update L1 seeds for L1 menu v5, CMSHLT-569
