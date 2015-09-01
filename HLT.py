@@ -1,1 +1,1 @@
-SUSY L1 seed adaptations to v5 L1 menu, CMSHLT-558
+Update the H/E cut in Ele105 and Ele115 triggers, CMSHLT-568
