@@ -1,1 +1,1 @@
-Add HLT_Ele23_WPLoose_Gsf_WHbbBoost, CMSHLT-561
+More modules added to the list of CMSSW-570
