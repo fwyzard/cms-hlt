@@ -1,1 +1,1 @@
-Some more cleaning of L1s module names
+Relax Deta/Dphi Filter for Egamma paths until Ecal has a proper alignment, CMSHLT-570
