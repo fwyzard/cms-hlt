@@ -1,1 +1,1 @@
-More modules added to the list of CMSSW-570
+Bug fix: restore wrongly removed hltL1sL1HTT75ORL1HTT100ORL1HTT125ORHTT150ORHTT175
