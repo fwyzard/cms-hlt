@@ -1,1 +1,1 @@
-Inclusion of Calo Razor triggers for 0 Tesla menu, CMSHLT-571
+DoubleEle25 for B=0T menu, CMSHLT-572
