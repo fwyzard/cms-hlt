@@ -1,1 +1,1 @@
-Bug fix: restore wrongly removed hltL1sL1HTT75ORL1HTT100ORL1HTT125ORHTT150ORHTT175
+Assign HLT_HT250_CaloMET70_JetIdCleaned to HTMHT (instead of JetHT), as in a late request from CMSHLT-565
