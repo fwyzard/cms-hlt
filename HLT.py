@@ -1,1 +1,1 @@
-Recover HLT_IsoMu20_eta2p1
+Recover HLT_Ele27_eta2p1_WPTight_Gsf_v1
