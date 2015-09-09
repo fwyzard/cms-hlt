@@ -1,1 +1,1 @@
-Recover HLT_Ele27_eta2p1_WPTight_Gsf_v1
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/HLT/V468.
