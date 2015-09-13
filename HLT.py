@@ -1,1 +1,1 @@
-Disable HLT_PFMETNoMu90_JetIdCleaned_PFMHTNoMu90_IDTight and HLT_PFMET90_PFMHT90_IDTight at 7e33
+Bump version numbers wrt v3.3 frozen menu (/dev/CMSSW_7_4_0/HLT/V382)
