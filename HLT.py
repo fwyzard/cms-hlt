@@ -1,1 +1,1 @@
-Bump version numbers wrt v3.3 frozen menu (/dev/CMSSW_7_4_0/HLT/V382)
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/HLT/V473.
