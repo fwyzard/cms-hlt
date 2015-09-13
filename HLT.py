@@ -1,1 +1,1 @@
-Fix prescales for HLT_PixelTracks_Multiplicity160ForEndOfFill
+Define a new PhysicsEndOfFill stream
