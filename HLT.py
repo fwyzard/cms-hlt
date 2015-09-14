@@ -1,1 +1,1 @@
-Extending event content for ScoutingMonitor
+Add paths to smart prescaler for ScoutingMonitoring
