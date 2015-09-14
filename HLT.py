@@ -1,1 +1,1 @@
-Add paths to smart prescaler for ScoutingMonitoring
+Add 2 more scouting paths and adjust scouting prescales (CMSHLT-548)
