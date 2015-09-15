@@ -1,1 +1,1 @@
-Addition of HLT_IsoMu20 in the Express stream, CMSHLT-576
+Adjust prescales for VBF invisible paths, CMSHLT-578
