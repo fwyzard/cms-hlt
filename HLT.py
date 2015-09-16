@@ -1,1 +1,1 @@
-Updates to Electron Stream for ECAL DPG, CMSHLT-556
+Adjust (cleanup) HLTMu18IsolationSequence
