@@ -1,1 +1,1 @@
-HLT PS changes for HLT_PFJet60 and HLT_PFJet80, CMSHLT-581
+Adjust HLTMu22IsolationSequence
