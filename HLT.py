@@ -1,1 +1,1 @@
-Adjust HLTMu18IsolationSequence
+Adjust HLTMu22IsolationSequence
