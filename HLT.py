@@ -1,1 +1,1 @@
-Adjust HLTMu22IsolationSequence
+Combine Parking and Scouting monitoring into new stream ParkingScoutingMonitoring
