@@ -1,1 +1,1 @@
-ALCAP0 stream selection update for AlCa_EcalEtaEBonly and cluster limits for timing, CMSHLT-584
+Add DiCaloJetAverage-paths to 0T menu - same as for 3.8T, but PF-part stripped away, CMSHLT-585
