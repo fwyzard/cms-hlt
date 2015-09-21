@@ -1,1 +1,1 @@
-Addition of 3 new SUSY paths with lower HT thresholds, CMSHLT-587
+Changing pt cuts of muon + photon trigger, CMSHLT-590
