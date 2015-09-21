@@ -1,1 +1,1 @@
-New B2G lep+jet paths with lower threshold. CMSHLT-589
+Addition of 3 new SUSY paths with lower HT thresholds, CMSHLT-587
