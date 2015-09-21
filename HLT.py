@@ -1,1 +1,1 @@
-Prescales for CMSHLT-585
+New B2G lep+jet paths with lower threshold. CMSHLT-589
