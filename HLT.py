@@ -1,1 +1,1 @@
-Update comment fields in Higgs Dalitz paths (see CMSHLT-590)
+Update of single lepton auxiliary path prescales, CMSHLT-592
