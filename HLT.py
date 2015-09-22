@@ -1,1 +1,1 @@
-Add (very little info) in the Description and Contacts fields of the newly integrated isolted muon paths
+Update comment fields in Higgs Dalitz paths (see CMSHLT-590)
