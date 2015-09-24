@@ -1,1 +1,1 @@
-Update of single lepton auxiliary path prescales, CMSHLT-592
+Activate L1_AlwaysTrue for ECAL studies, CMSHLT-594
