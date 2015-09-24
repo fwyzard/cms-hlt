@@ -1,1 +1,1 @@
-Add new ZeroBias path selecting only isolated bunches, CMSHLT-595
+Rename Scouting paths, as in a late request from CMSHLT-548
