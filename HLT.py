@@ -1,1 +1,1 @@
-Activate L1_AlwaysTrue for ECAL studies, CMSHLT-594
+Add new ZeroBias path selecting only isolated bunches, CMSHLT-595
