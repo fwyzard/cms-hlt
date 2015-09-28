@@ -1,1 +1,1 @@
-Fix path name for HLT_Ele23_WPLoose_Gsf_CentralPFJet30_BTagCSV07, CMSHLT-597
+Set saveTags to be true in several filters of DiPhoton paths, CMSHLT-596
