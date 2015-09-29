@@ -1,1 +1,1 @@
-Fix L1Seed module label
+Migration and fixup of PFRecoTauDiscriminationByIsolation instances
