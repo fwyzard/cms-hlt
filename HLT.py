@@ -1,1 +1,1 @@
-Migration and fixup of PFRecoTauDiscriminationByIsolation instances
+Rename ParkingScoutingMonitor stream (CMSHLT-599)
