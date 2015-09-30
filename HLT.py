@@ -1,1 +1,1 @@
-Rename ParkingScoutingMonitor stream (CMSHLT-599)
+Update scouting eventcontent (CMSHLT-598)
