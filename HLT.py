@@ -1,1 +1,1 @@
-Update scouting eventcontent (CMSHLT-598)
+Fix pt cut in IsoTkMu18 paths
