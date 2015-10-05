@@ -1,1 +1,1 @@
-Migrate to CMSSW_7_4_13
+New HLT paths for LowPU menu, CMSHLT-609
