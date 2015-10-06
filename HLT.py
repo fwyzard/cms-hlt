@@ -1,1 +1,1 @@
-Update L1 seeds to the new L1 LowPU menu, as requested in CMSHLT-609
+HFVeto Muon Paths for Low Pile-Up Menu, CMSHLT-611
