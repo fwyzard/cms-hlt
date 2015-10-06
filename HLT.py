@@ -1,1 +1,1 @@
-Integration of Razor Hbb parking/scouting triggers, CMSHLT-606
+Continue updating the Scouting event content, CMSHLT-598
