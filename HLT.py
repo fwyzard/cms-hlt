@@ -1,1 +1,1 @@
-Replace EXO MultiJet paths, CMSHLT-608
+Add hltFEDSelectorL1 in the scouting endpaths and event contents, as from CMSHLT-598
