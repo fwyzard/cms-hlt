@@ -1,1 +1,1 @@
-Add hltFEDSelectorL1 in the scouting endpaths and event contents, as from CMSHLT-598
+(Start) Integration of Razor Hbb parking/scouting triggers, CMSHLT-606
