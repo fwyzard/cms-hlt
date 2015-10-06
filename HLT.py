@@ -1,1 +1,1 @@
-(Start) Integration of Razor Hbb parking/scouting triggers, CMSHLT-606
+Integration of Razor Hbb parking/scouting triggers, CMSHLT-606
