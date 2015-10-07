@@ -1,1 +1,1 @@
-Continue updating the Scouting event content, CMSHLT-598
+Change dataset to paths integrated with CMSHLT-606
