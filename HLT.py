@@ -1,1 +1,1 @@
-HFVeto Muon Paths for Low Pile-Up Menu, CMSHLT-611
+Fix pt cut in HLT_L1RomanPots_SinglePixelTrack02
