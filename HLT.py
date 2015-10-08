@@ -1,1 +1,1 @@
-Fix pt cut in HLT_L1RomanPots_SinglePixelTrack02
+Fix prescale name for HLT_L1Tech5_BPTX_PlusOnly
