@@ -1,1 +1,1 @@
-7e33 safe seeds for Ele22_eta2p1+X paths, CMSHLT-614
+Update HLT PS for HLT_PFJet140, CMSHLT-615
