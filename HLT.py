@@ -1,1 +1,1 @@
-Define 15 prescale columns
+Adjust columns
