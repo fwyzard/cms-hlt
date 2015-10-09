@@ -1,1 +1,1 @@
-Update L1 seeds for HLT_Ele23_WPLoose_Gsf family, CMSHLT-616
+Bump HLT_Ele22_* version numbers for CMSHLT-613
