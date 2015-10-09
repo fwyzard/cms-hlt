@@ -1,1 +1,1 @@
-Adjust columns
+Update prescales (as in CMSHLT-609)
