@@ -1,1 +1,1 @@
-Update HLT PS for HLT_PFJet140, CMSHLT-615
+Update L1 seeds for HLT_Ele23_WPLoose_Gsf family, CMSHLT-616
