@@ -1,1 +1,1 @@
-Bump HLT_Ele22_* version numbers for CMSHLT-613
+Set HLT PS=1 @7e33 for HLT_Ele23_WPLoose_Gsf ,update of CMSHLT-616
