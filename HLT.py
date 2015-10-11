@@ -1,1 +1,1 @@
-Set HLT PS=1 @7e33 for HLT_Ele23_WPLoose_Gsf ,update of CMSHLT-616
+Fix L1 prescales for E/Gamma seeds, frist part of CMSHLT-617
