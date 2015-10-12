@@ -1,1 +1,1 @@
-Adding CSCObjectMapESProduce and DTObjectMapESProducer (MT of RPCPointProducer)
+DT Tech Trigger passthroug, CMSHLT-612
