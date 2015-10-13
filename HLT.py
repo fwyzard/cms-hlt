@@ -1,1 +1,1 @@
-Add paths from CMSHLT-603/604
+Dataset assignments for CMSHLT603/604
