@@ -1,1 +1,1 @@
-Start adjusting output modules for CMSHLT-603/604
+Add lepton producers to PF scouting paths (CMSHLT-603); Integration of muon scouting triggers (CMSHLT-604)
