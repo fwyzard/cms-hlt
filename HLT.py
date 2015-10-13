@@ -1,1 +1,1 @@
-Set prescales and smart-prescales for CMSHLT-603/604
+Start adjusting output modules for CMSHLT-603/604
