@@ -1,1 +1,1 @@
-CMSHLT-619 more prescale changes
+remove two paths (CMSHLT-619)
