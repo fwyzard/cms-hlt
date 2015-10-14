@@ -1,1 +1,1 @@
-Bump path version nr wrt V508 (frozen v4.3)
+Created by ConfDBCreateConfig from master /dev/CMSSW_7_4_0/HLT/V550.
