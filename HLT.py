@@ -1,1 +1,1 @@
-Unprescale dimuon non-DZ paths, CMSHLT-627
+Adjust prescales for SUSY Muon control triggers at 7E33, CMSHLT-626
