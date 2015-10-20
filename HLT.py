@@ -1,1 +1,1 @@
-Change in prescales of HLT_PFJet for BTV, CMSHLT-625
+Fix HLT prescales for single electron control paths, CMSHLT-628
