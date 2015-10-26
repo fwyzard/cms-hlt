@@ -1,1 +1,1 @@
-Initialize snapshotTime in the GlobalTag ESSource
+Reset global snapshotTime
