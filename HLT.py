@@ -1,1 +1,1 @@
-Adjust config for hltBSoftMuonMu5L3
+Initialize snapshotTime in the GlobalTag ESSource
