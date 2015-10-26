@@ -1,1 +1,1 @@
-Initial migration
+Adjust config for hltBSoftMuonMu5L3
