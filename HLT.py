@@ -1,1 +1,1 @@
-Import PSet's and ESModule's from CMSHLT-623
+Import all paths from CMSHLT-623 but the HLT_HIL3Mu* ones
