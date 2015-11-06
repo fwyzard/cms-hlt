@@ -1,1 +1,1 @@
-Import all paths from CMSHLT-623 but the HLT_HIL3Mu* ones
+Integration request for flow HLT paths to the HIon menu, CMSHLT-630
