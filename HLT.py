@@ -1,1 +1,1 @@
-Update HLTDoHILocalPixelSequence and HLTDoHILocalStripSequence (renamed modules)
+starting CMSHLT-639
