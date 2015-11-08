@@ -1,1 +1,1 @@
-finishing CMSHLT-639
+CMSHLT-639 cleanup (reorder some paths)
