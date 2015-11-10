@@ -1,1 +1,1 @@
-Import Jet and Photon paths from CMSHLT-623
+Fix prescale module name for  HLT_HIFullTrack12_L1MinimumBiasHF1_AND
