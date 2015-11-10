@@ -1,1 +1,1 @@
-Remove parameterized magnetic field producers wrongly sneaked in
+Remove PSets and ESModules added with CMSHLT-623
