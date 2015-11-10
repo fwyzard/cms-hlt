@@ -1,1 +1,1 @@
-Remove PSets and ESModules added with CMSHLT-623
+Clean up sequences
