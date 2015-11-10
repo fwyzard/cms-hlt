@@ -1,1 +1,1 @@
-Clean up sequences
+Import HLTHIL3muonrecoSequence from CMSHLT-629
