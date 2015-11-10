@@ -1,1 +1,1 @@
-Fix prescale module name for  HLT_HIFullTrack12_L1MinimumBiasHF1_AND
+ntegration request for muon HLT paths to the HIon menu, CMSHLT-629
