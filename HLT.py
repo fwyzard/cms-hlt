@@ -1,1 +1,1 @@
-Remove a few more PSets (will see whether they are really needed...)
+Import Jet and Photon paths from CMSHLT-623
