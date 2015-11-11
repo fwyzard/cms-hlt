@@ -1,1 +1,1 @@
-fixes to CMSHLT-624 (update L1 seeds)
+changes to CMSHLT-624 L1 seeds (continued)
