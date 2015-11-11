@@ -1,1 +1,1 @@
-ntegration request for muon HLT paths to the HIon menu, CMSHLT-629
+Forward Trigger Menu, HI-Group, CMSHLT-621
