@@ -1,1 +1,1 @@
-L1 seed fix in CMSHLT-624
+CMSHLT-631 paths that will be commented out of pp ref menu
