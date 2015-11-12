@@ -1,1 +1,1 @@
-finishing CMSHLT-644
+adding some jet paths from CMSHLT-636
