@@ -1,1 +1,1 @@
-adding some jet paths from CMSHLT-636
+rename a stream
