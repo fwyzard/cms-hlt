@@ -1,1 +1,1 @@
-Put back AK4 correctors to AK8 jet modules, until the AK8 correctors will get available in all GT's
+Remove AK8Calo esp modules, and put back AK8PF corrections (apparently correct in all GT's)
